@@ -1,5 +1,7 @@
-owner = GRE
-controller = GRE
+owner = ENG
+controller = ENG
 add_core = GRE
 trade_goods = fish
 life_rating = 35
+colonial = 2
+naval_base = 1
