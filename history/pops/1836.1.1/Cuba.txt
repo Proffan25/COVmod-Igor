@@ -5,97 +5,97 @@
 	aristocrats = {
 		culture = spanish
 		religion = catholic
-        size = 276
+		size = 276
 	}
 
 	bureaucrats = {
 		culture = spanish
 		religion = catholic
-        size = 237
+		size = 237
 	}
 
 	clergymen = {
 		culture = spanish
 		religion = catholic
-        size = 256
+		size = 256
 	}
 
 	artisans = {
 		culture = spanish
 		religion = catholic
-        size = 3416
+		size = 3416
 	}
 
 	soldiers = {
 		culture = spanish
 		religion = catholic
-        size = 158
+		size = 158
 	}
 
 	aristocrats = {
 		culture = caribeno
 		religion = catholic
-        size = 513
+		size = 513
 	}
 
 	bureaucrats = {
 		culture = caribeno
 		religion = catholic
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-        size = 138
+		size = 138
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-        size = 7900
+		size = 7900
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-        size = 3160
+		size = 3160
 	}
 
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = caribeno
 		religion = catholic
-        size = 22613
+		size = 22613
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 4740
+		size = 4740
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 395
+		size = 395
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 1975
+		size = 1975
 	}
 
 	slaves = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 30020
+		size = 30020
 	}
 }
 #Jagua (252000/63000 POPS)
@@ -103,55 +103,55 @@
 	aristocrats = {
 		culture = caribeno
 		religion = catholic
-        size = 474
+		size = 474
 	}
 
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-        size = 296
+		size = 296
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-        size = 948
+		size = 948
 	}
 
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-        size = 197
+		size = 197
 	}
 
 	farmers = {
 		culture = caribeno
 		religion = catholic
-        size = 17044
+		size = 17044
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 1580
+		size = 1580
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 118
+		size = 118
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 9361
+		size = 9361
 	}
 
 	slaves = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 19750
+		size = 19750
 	}
 }
 #Camaguey (168000/42000 POPS)
@@ -159,55 +159,55 @@
 	aristocrats = {
 		culture = caribeno
 		religion = catholic
-        size = 355
+		size = 355
 	}
 
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-        size = 316
+		size = 316
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-        size = 2765
+		size = 2765
 	}
 
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-        size = 118
+		size = 118
 	}
 
 	farmers = {
 		culture = caribeno
 		religion = catholic
-        size = 6715
+		size = 6715
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 1185
+		size = 1185
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 237
+		size = 237
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 1738
+		size = 1738
 	}
 
 	slaves = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 19750
+		size = 19750
 	}
 }
 #Santiago de Cuba (128000/32000 POPS)
@@ -215,55 +215,55 @@
 	aristocrats = {
 		culture = caribeno
 		religion = catholic
-        size = 158
+		size = 158
 	}
 
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-        size = 138
+		size = 138
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-        size = 2765
+		size = 2765
 	}
 
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-        size = 118
+		size = 118
 	}
 
 	farmers = {
 		culture = caribeno
 		religion = catholic
-        size = 7090
+		size = 7090
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 1185
+		size = 1185
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 158
+		size = 158
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 2607
+		size = 2607
 	}
 
 	slaves = {
 		culture = afro_caribeno
 		religion = catholic
-        size = 11060
+		size = 11060
 	}
 
 }

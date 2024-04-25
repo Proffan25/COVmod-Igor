@@ -5,43 +5,43 @@
 	aristocrats = {
 		culture = afro_antillean
 		religion = catholic
-        size = 651
+		size = 651
 	}
 
 	bureaucrats = {
 		culture = afro_antillean
 		religion = catholic
-        size = 118
+		size = 118
 	}
 
 	officers = {
 		culture = afro_antillean
 		religion = catholic
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = afro_antillean
 		religion = catholic
-        size = 612
+		size = 612
 	}
 
 	artisans = {
 		culture = afro_antillean
 		religion = catholic
-        size = 3081
+		size = 3081
 	}
 
 	soldiers = {
 		culture = afro_antillean
 		religion = catholic
-        size = 3160
+		size = 3160
 	}
 
 	farmers = {
 		culture = afro_antillean
 		religion = catholic
-        size = 53957
+		size = 53957
 	}
 }
 #Cap Haitien (204000/51000 POPS)
@@ -49,31 +49,31 @@
 	aristocrats = {
 		culture = afro_antillean
 		religion = catholic
-        size = 434
+		size = 434
 	}
 
 	clergymen = {
 		culture = afro_antillean
 		religion = catholic
-        size = 375
+		size = 375
 	}
 
 	artisans = {
 		culture = afro_antillean
 		religion = catholic
-        size = 2014
+		size = 2014
 	}
 
 	soldiers = {
 		culture = afro_antillean
 		religion = catholic
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = afro_antillean
 		religion = catholic
-        size = 36675
+		size = 36675
 	}
 
 }

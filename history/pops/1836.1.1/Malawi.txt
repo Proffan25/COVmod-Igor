@@ -5,97 +5,97 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 434
+		size = 434
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 237
+		size = 237
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 1145
+		size = 1145
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 237
+		size = 237
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 20856
+		size = 20856
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-        size = 2370
+		size = 2370
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 217
+		size = 217
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 592
+		size = 592
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 10803
+		size = 10803
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 316
+		size = 316
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 3377
+		size = 3377
 	}
 }
 #Lilongwe (160000/40000 POPS)/dominated by Kazembe 
@@ -103,67 +103,67 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 276
+		size = 276
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 750
+		size = 750
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 13667
+		size = 13667
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-        size = 3160
+		size = 3160
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 316
+		size = 316
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 671
+		size = 671
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 177
+		size = 177
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 11948
+		size = 11948
 	}
 
 }

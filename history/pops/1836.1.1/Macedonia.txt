@@ -2,205 +2,205 @@
 #under the rule of Ottoman Empire in 1836
 #Skopje (424000/106000 POPS)
 806 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 1935
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 1935
+	}
 
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 256
-    }
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 256
+	}
 
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1580
-    }
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 1580
+	}
 
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 2370
-    }
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 2370
+	}
 
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 19927
-    }
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 19927
+	}
 
-    clergymen = {
-        culture = bulgarian
-        religion = orthodox
-        size = 335
-    }
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 335
+	}
 
-    artisans = {
-        culture = bulgarian
-        religion = orthodox
-        size = 1659
-    }
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 1659
+	}
 
-    farmers = {
-        culture = bulgarian
-        religion = orthodox
-        size = 44615
-    }
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 44615
+	}
 
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 158
-    }
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 158
+	}
 
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 948
-    }
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 948
+	}
 
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 9164
-    }
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 9164
+	}
 
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 19
-    }
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 19
+	}
 
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 553
-    }
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 553
+	}
 
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 217
-    }
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 217
+	}
 }
 #Monastir Region (268000) #see Greece.txt for balance of region
 #under the rule of Ottoman Empire in 1836
 #Bitola (268000/67000 POPS)
 807 = {
-    clergymen = {
-        culture = bulgarian
-        religion = orthodox
-        size = 237
-    }
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 237
+	}
 
-    artisans = {
-        culture = bulgarian
-        religion = orthodox
-        size = 335
-    }
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 335
+	}
 
-    farmers = {
-        culture = bulgarian
-        religion = orthodox
-        size = 28657
-    }
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 28657
+	}
 
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 1185
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 1185
+	}
 
-    bureaucrats = {
-        culture = turkish
-        religion = sunni
-        size = 888
-    }
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 888
+	}
 
-    officers = {
-        culture = turkish
-        religion = sunni
-        size = 138
-    }
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 138
+	}
 
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 39
-    }
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 39
+	}
 
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1027
-    }
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 1027
+	}
 
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 869
-    }
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 869
+	}
 
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 1560
-    }
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 1560
+	}
 
-    clergymen = {
-        culture = albanian
-        religion = sunni
-        size = 98
-    }
+	clergymen = {
+		culture = albanian
+		religion = sunni
+		size = 98
+	}
 
-    artisans = {
-        culture = albanian
-        religion = sunni
-        size = 316
-    }
+	artisans = {
+		culture = albanian
+		religion = sunni
+		size = 316
+	}
 
-    soldiers = {
-        culture = albanian
-        religion = sunni
-        size = 869
-    }
+	soldiers = {
+		culture = albanian
+		religion = sunni
+		size = 869
+	}
 
-    farmers = {
-        culture = albanian
-        religion = sunni
-        size = 9697
-    }
+	farmers = {
+		culture = albanian
+		religion = sunni
+		size = 9697
+	}
 
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 138
-    }
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 138
+	}
 
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 197
-    }
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 197
+	}
 
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 7564
-    }
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 7564
+	}
 
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 19
-    }
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 19
+	}
 
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 770
-    }
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 770
+	}
 }

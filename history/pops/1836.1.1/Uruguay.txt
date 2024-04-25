@@ -2,219 +2,219 @@
 #Under rule of Uruguay 1836
 #Montevideo (112000/28000 POPS)
 2344 = {
-    aristocrats = {
-        culture = platinean
-        religion = catholic
-        size = 1543
-    }
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 1543
+	}
 
-    bureaucrats = {
-        culture = platinean
-        religion = catholic
-        size = 134
-    }
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 134
+	}
 
-    officers = {
-        culture = platinean
-        religion = catholic
-        size = 134
-    }
+	officers = {
+		culture = platinean
+		religion = catholic
+		size = 134
+	}
 
-    clergymen = {
-        culture = platinean
-        religion = catholic
-        size = 671
-    }
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 671
+	}
 
-    artisans = {
-        culture = platinean
-        religion = catholic
-        size = 2632
-    }
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 2632
+	}
 
-    soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 2954
-    }
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 2954
+	}
 
-    farmers = {
-        culture = platinean
-        religion = catholic
-        size = 53974
-    }
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 53974
+	}
 
-    clergymen = {
-        culture = south_andean
-        religion = catholic
-        size = 67
-    }
+	clergymen = {
+		culture = south_andean
+		religion = catholic
+		size = 67
+	}
 
-    artisans = {
-        culture = south_andean
-        religion = catholic
-        size = 335
-    }
+	artisans = {
+		culture = south_andean
+		religion = catholic
+		size = 335
+	}
 
-    soldiers = {
-        culture = south_andean
-        religion = catholic
-        size = 67
-    }
+	soldiers = {
+		culture = south_andean
+		religion = catholic
+		size = 67
+	}
 
-    farmers = {
-        culture = south_andean
-        religion = catholic
-        size = 4230
-    }
+	farmers = {
+		culture = south_andean
+		religion = catholic
+		size = 4230
+	}
 
-    slaves = {
-        culture = south_andean
-        religion = catholic
-        size = 2014
-    }
+	slaves = {
+		culture = south_andean
+		religion = catholic
+		size = 2014
+	}
 }
 #Paysandu (36000/9000 POPS)
 2345 = {
-    aristocrats = {
-        culture = platinean
-        religion = catholic
-        size = 537
-    }
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 537
+	}
 
-    clergymen = {
-        culture = platinean
-        religion = catholic
-        size = 200
-    }
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 200
+	}
 
-    artisans = {
-        culture = platinean
-        religion = catholic
-        size = 1208
-    }
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 1208
+	}
 
-    soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 2954
-    }
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 2954
+	}
 
-    farmers = {
-        culture = platinean
-        religion = catholic
-        size = 19539
-    }
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 19539
+	}
 }
 #Tacumba (12000/3000 POPS)
 2346 = {
-    aristocrats = {
-        culture = platinean
-        religion = catholic
-        size = 66
-    }
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 66
+	}
 
-    clergymen = {
-        culture = platinean
-        religion = catholic
-        size = 134
-    }
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 134
+	}
 
-    artisans = {
-        culture = platinean
-        religion = catholic
-        size = 268
-    }
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 268
+	}
 
-    soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 66
-    }
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 66
+	}
 
-    farmers = {
-        culture = platinean
-        religion = catholic
-        size = 4834
-    }
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 4834
+	}
 
-    clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 19
-    }
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 19
+	}
 
-    artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 67
-    }
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 67
+	}
 
-    soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 13
-    }
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 13
+	}
 
-    farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 1241
-    }
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 1241
+	}
 }
 #Melo (40000/10000 POPS)
 2347 = {
-    aristocrats = {
-        culture = platinean
-        religion = catholic
-        size = 402
-    }
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 402
+	}
 
-    clergymen = {
-        culture = platinean
-        religion = catholic
-        size = 134
-    }
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 134
+	}
 
-    artisans = {
-        culture = platinean
-        religion = catholic
-        size = 940
-    }
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 940
+	}
 
-    soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 2954
-    }
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 2954
+	}
 
-    farmers = {
-        culture = platinean
-        religion = catholic
-        size = 14638
-    }
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 14638
+	}
 
-    clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 67
-    }
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 67
+	}
 
-    artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 201
-    }
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 201
+	}
 
-    soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 33
-    }
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 33
+	}
 
-    farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 3726
-    }
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 3726
+	}
 }

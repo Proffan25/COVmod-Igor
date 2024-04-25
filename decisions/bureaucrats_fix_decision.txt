@@ -24,20 +24,20 @@
 #}
 #below is better written
 political_decisions = {
-    bureaucrats_fix = {
-        picture = unite_the_principalities
+	bureaucrats_fix = {
+		picture = unite_the_principalities
 		potential = {
-            ai = no
-            NOT = { has_country_modifier = bureaucrats_fix_cooldown }
-        }
-        allow = {
-        }
-        effect = {
-            country_event = 40404040
-            add_country_modifier = {
-                name = bureaucrats_fix_cooldown
-                duration = 3650
-            }
-        }
-    }
+			ai = no
+			NOT = { has_country_modifier = bureaucrats_fix_cooldown }
+		}
+		allow = {
+		}
+		effect = {
+			country_event = 40404040
+			add_country_modifier = {
+				name = bureaucrats_fix_cooldown
+				duration = 3650
+			}
+		}
+	}
 }

@@ -7,115 +7,115 @@
 	clergymen = {
 		culture = bantu
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = bantu
 		religion = protestant
-        size = 592
+		size = 592
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = protestant
-        size = 118
+		size = 118
 	}
 
 	farmers = {
 		culture = bantu
 		religion = protestant
-        size = 7149
+		size = 7149
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 592
+		size = 592
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 9519
+		size = 9519
 	}
 
 	aristocrats = {
 		culture = british
 		religion = protestant
-        size = 15
+		size = 15
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-        size = 55
+		size = 55
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-        size = 47
+		size = 47
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-        size = 1975
+		size = 1975
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 3357
+		size = 3357
 	}
 
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 59
+		size = 59
 	}
 
 	bureaucrats = {
 		culture = boer
 		religion = protestant
-        size = 23
+		size = 23
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 869
+		size = 869
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 8804
+		size = 8804
 	}
 }
 #Worcester (117700/29425 POPS)
@@ -123,127 +123,127 @@
 	clergymen = {
 		culture = khoisan
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = khoisan
 		religion = protestant
-        size = 197
+		size = 197
 	}
 
 	soldiers = {
 		culture = khoisan
 		religion = protestant
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = khoisan
 		religion = protestant
-        size = 6004
+		size = 6004
 	}
 
 	clergymen = {
 		culture = khoisan
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = khoisan
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = khoisan
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = khoisan
 		religion = animist
-        size = 5293
+		size = 5293
 	}
 
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 63
+		size = 63
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 553
+		size = 553
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 15
+		size = 15
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 2705
+		size = 2705
 	}
 
 	aristocrats = {
 		culture = khoisan
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = khoisan
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = khoisan
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = khoisan
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = khoisan
 		religion = animist
-        size = 7623
+		size = 7623
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-        size = 11
+		size = 11
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-        size = 237
+		size = 237
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 521
+		size = 521
 	}
 }
 #Swettenham (69700/17425 POPS)
@@ -251,97 +251,97 @@
 	clergymen = {
 		culture = bantu
 		religion = protestant
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = bantu
 		religion = protestant
-        size = 158
+		size = 158
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = protestant
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = bantu
 		religion = protestant
-        size = 5233
+		size = 5233
 	}
 
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 237
+		size = 237
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 3179
+		size = 3179
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 11593
+		size = 11593
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-        size = 11
+		size = 11
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-        size = 237
+		size = 237
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 521
+		size = 521
 	}
 }
 #Mossel Bay (34700/8675 POPS)
@@ -349,97 +349,97 @@
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 1244
+		size = 1244
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 1422
+		size = 1422
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 27
+		size = 27
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 2283
+		size = 2283
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = bantu
 		religion = protestant
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bantu
 		religion = protestant
-        size = 1461
+		size = 1461
 	}
 }
 #Namaqualand Region (12000) #see Namibia.txt for balance of region
@@ -449,31 +449,31 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 2172
+		size = 2172
 	}
 
 }
@@ -485,73 +485,73 @@
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 1935
+		size = 1935
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-        size = 11
+		size = 11
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-        size = 158
+		size = 158
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 612
+		size = 612
 	}
 
 	clergymen = {
 		culture = khoisan
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = khoisan
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = khoisan
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = khoisan
 		religion = animist
-        size = 3792
+		size = 3792
 	}
 }
 #Calvinia (23300/5825 POPS)
@@ -559,79 +559,79 @@
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 11
+		size = 11
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 651
+		size = 651
 	}
 
 	clergymen = {
 		culture = khoisan
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = khoisan
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = khoisan
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = khoisan
 		religion = animist
-        size = 2291
+		size = 2291
 	}
 
 	aristocrats = {
 		culture = khoisan
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = khoisan
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = khoisan
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = khoisan
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = khoisan
 		religion = animist
-        size = 1481
+		size = 1481
 	}
 }
 #De Aar (30600/7650 POPS) 
@@ -639,55 +639,55 @@
 	aristocrats = {
 		culture = khoisan
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = khoisan
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = khoisan
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = khoisan
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = khoisan
 		religion = animist
-        size = 4503
+		size = 4503
 	}
 
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 197
+		size = 197
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 1856
+		size = 1856
 	}
 }
 #Uncolonized in 1836
@@ -696,31 +696,31 @@
 	aristocrats = {
 		culture = khoisan
 		religion = animist
-        size = 316
+		size = 316
 	}
 
 	clergymen = {
 		culture = khoisan
 		religion = animist
-        size = 316
+		size = 316
 	}
 
 	artisans = {
 		culture = khoisan
 		religion = animist
-        size = 1264
+		size = 1264
 	}
 
 	soldiers = {
 		culture = khoisan
 		religion = animist
-        size = 316
+		size = 316
 	}
 
 	farmers = {
 		culture = khoisan
 		religion = animist
-        size = 28598
+		size = 28598
 	}
 }
 #Bechuanaland Region (20000) #see Botswana.txt for balance of region
@@ -729,31 +729,31 @@
 	aristocrats = {
 		culture = khoisan
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = khoisan
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = khoisan
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	soldiers = {
 		culture = khoisan
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = khoisan
 		religion = animist
-        size = 3673
+		size = 3673
 	}
 
 }
@@ -764,103 +764,103 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-        size = 237
+		size = 237
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 2093
+		size = 2093
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 31
+		size = 31
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 27
+		size = 27
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 3081
+		size = 3081
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 11
+		size = 11
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 11
+		size = 11
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 758
+		size = 758
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 2291
+		size = 2291
 	}
 }
 #Graaf Reinet (36000/9000 POPS)
@@ -868,109 +868,109 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-        size = 11
+		size = 11
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 6971
+		size = 6971
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 3002
+		size = 3002
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 7
+		size = 7
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 11
+		size = 11
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 671
+		size = 671
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 3041
+		size = 3041
 	}
 }
 #uncolonized/ruled by the Xhosa 1836
@@ -979,31 +979,31 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 395
+		size = 395
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 7268
+		size = 7268
 	}
 }
 #Mathele (40000/10000 POPS)
@@ -1011,31 +1011,31 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 395
+		size = 395
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 7268
+		size = 7268
 	}
 }
 #Umtata (72000/18000 POPS)
@@ -1043,31 +1043,31 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 711
+		size = 711
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 13035
+		size = 13035
 	}
 
 }
@@ -1079,67 +1079,67 @@
 	bureaucrats = {
 		culture = boer
 		religion = protestant
-        size = 1
+		size = 1
 	}
 
 	officers = {
 		culture = boer
 		religion = protestant
-        size = 2
+		size = 2
 	}
 
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 3
+		size = 3
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 71
+		size = 71
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 474
+		size = 474
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 730
+		size = 730
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 375
+		size = 375
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 1876
+		size = 1876
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 375
+		size = 375
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 34365
+		size = 34365
 	}
 }
 #Winburg (102000/25500 POPS)
@@ -1147,85 +1147,85 @@
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 3
+		size = 3
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 331
+		size = 331
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 276
+		size = 276
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 177
+		size = 177
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 869
+		size = 869
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 14397
+		size = 14397
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 197
+		size = 197
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 3614
+		size = 3614
 	}
 }
 #Philippolis (85000/21250 POPS)
@@ -1233,55 +1233,55 @@
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 71
+		size = 71
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 474
+		size = 474
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 316
+		size = 316
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 809
+		size = 809
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 14753
+		size = 14753
 	}
 }
 #Thaba Bosiu (128000/32000 POPS) #now Lesotho 
@@ -1289,43 +1289,43 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 493
+		size = 493
 	}
 
 	bureaucrats = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	officers = {
 		culture = bantu
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 256
+		size = 256
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 1264
+		size = 1264
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 256
+		size = 256
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 22890
+		size = 22890
 	}
 }
 #Transvaal Region (349000)
@@ -1336,67 +1336,67 @@
 	bureaucrats = {
 		culture = boer
 		religion = protestant
-        size = 1
+		size = 1
 	}
 
 	officers = {
 		culture = boer
 		religion = protestant
-        size = 2
+		size = 2
 	}
 
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 3
+		size = 3
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 15
+		size = 15
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 252
+		size = 252
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 513
+		size = 513
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 276
+		size = 276
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 1066
+		size = 1066
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 276
+		size = 276
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 24727
+		size = 24727
 	}
 }
 #Johannesburg (102400/25600 POPS)
@@ -1404,55 +1404,55 @@
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 51
+		size = 51
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 395
+		size = 395
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 335
+		size = 335
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 197
+		size = 197
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 987
+		size = 987
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 197
+		size = 197
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 17992
+		size = 17992
 	}
 }
 #uncolonized in 1836/dominated by the Ndebele
@@ -1461,84 +1461,84 @@
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 3
+		size = 3
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 11
+		size = 11
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 161
+		size = 161
 	}
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 177
+		size = 177
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 474
+		size = 474
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 12580
+		size = 12580
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 217
+		size = 217
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 474
+		size = 474
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 6971
+		size = 6971
 	}
 }
 #Limpopo Region (129000)
@@ -1549,85 +1549,85 @@
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 0
+		size = 0
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 2
+		size = 2
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 4
+		size = 4
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 31
+		size = 31
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 2073
+		size = 2073
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 276
+		size = 276
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 6616
+		size = 6616
 	}
 }
 #uncolonized in 1836/dominated by the Zulu
@@ -1636,55 +1636,55 @@
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 2
+		size = 2
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 9
+		size = 9
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 11
+		size = 11
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 94
+		size = 94
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 177
+		size = 177
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 513
+		size = 513
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 9361
+		size = 9361
 	}
 }
 #uncolonized in 1836/dominated by the Gaza Nguni
@@ -1693,85 +1693,85 @@
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 0
+		size = 0
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 2
+		size = 2
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 4
+		size = 4
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 31
+		size = 31
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 3713
+		size = 3713
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 138
+		size = 138
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 1382
+		size = 1382
 	}
 }
 #Natal Region (682000)
@@ -1782,85 +1782,85 @@
 	clergymen = {
 		culture = boer
 		religion = protestant
-        size = 3
+		size = 3
 	}
 
 	artisans = {
 		culture = boer
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	soldiers = {
 		culture = boer
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
-        size = 331
+		size = 331
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 316
+		size = 316
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 5747
+		size = 5747
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 335
+		size = 335
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 177
+		size = 177
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 829
+		size = 829
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 197
+		size = 197
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 16629
+		size = 16629
 	}
 }
 #Ladysmith (156000/39000 POPS)
@@ -1868,31 +1868,31 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 592
+		size = 592
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 316
+		size = 316
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 1540
+		size = 1540
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 5530
+		size = 5530
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 22831
+		size = 22831
 	}
 }
 #Ulundi (320000/80000 POPS)
@@ -1900,43 +1900,43 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 1224
+		size = 1224
 	}
 
 	bureaucrats = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	officers = {
 		culture = bantu
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 651
+		size = 651
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 3160
+		size = 3160
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 12640
+		size = 12640
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 45385
+		size = 45385
 	}
 }
 #Mbabane (80000/20000 POPS)  #now Swaziland
@@ -1944,61 +1944,61 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 276
+		size = 276
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 5036
+		size = 5036
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 197
+		size = 197
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 513
+		size = 513
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 9361
+		size = 9361
 	}
 
 }

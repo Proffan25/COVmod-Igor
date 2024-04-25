@@ -1816,7 +1816,7 @@ place_in_the_sun_huge = {
 colonial_competition = {
 	sprite_index = 7
 	is_triggered_only = yes
-	constructing_cb = no    # only used in crises
+	constructing_cb = no	# only used in crises
 	crisis = no
 	months = 12
 
@@ -2059,22 +2059,22 @@ free_peoples_tiny = {
 			}
 		}
 		
-        any_owned_province = {
-            is_core = TIN
-            is_core = FROM
-            NOT =
-            {
-                is_core = THIS
-            }
-        }
-        is_releasable_vassal = FROM
-    }
+		any_owned_province = {
+			is_core = TIN
+			is_core = FROM
+			NOT =
+			{
+				is_core = THIS
+			}
+		}
+		is_releasable_vassal = FROM
+	}
 
-    allowed_states = {
-        any_owned_province = { is_core = FROM
-            is_core = TIN }
-        NOT = { is_core = THIS }
-    }
+	allowed_states = {
+		any_owned_province = { is_core = FROM
+			is_core = TIN }
+		NOT = { is_core = THIS }
+	}
 
 	po_transfer_provinces = yes
 	po_remove_prestige = yes
@@ -2141,22 +2141,22 @@ free_peoples_small = {
 			}
 		}
 		
-        any_owned_province = {
-            is_core = SMA
-            is_core = FROM
-            NOT =
-            {
-                is_core = THIS
-            }
-        }
-        is_releasable_vassal = FROM
-    }
+		any_owned_province = {
+			is_core = SMA
+			is_core = FROM
+			NOT =
+			{
+				is_core = THIS
+			}
+		}
+		is_releasable_vassal = FROM
+	}
 
-    allowed_states = {
-        any_owned_province = { is_core = FROM
-            is_core = SMA }
-        NOT = { is_core = THIS }
-    }
+	allowed_states = {
+		any_owned_province = { is_core = FROM
+			is_core = SMA }
+		NOT = { is_core = THIS }
+	}
 
 	po_transfer_provinces = yes
 	po_remove_prestige = yes
@@ -2223,22 +2223,22 @@ free_peoples_medium = {
 			}
 		}
 		
-        any_owned_province = {
-            is_core = MED
-            is_core = FROM
-            NOT =
-            {
-                is_core = THIS
-            }
-        }
-        is_releasable_vassal = FROM
-    }
+		any_owned_province = {
+			is_core = MED
+			is_core = FROM
+			NOT =
+			{
+				is_core = THIS
+			}
+		}
+		is_releasable_vassal = FROM
+	}
 
-    allowed_states = {
-        any_owned_province = { is_core = FROM
-            is_core = MED }
-        NOT = { is_core = THIS }
-    }
+	allowed_states = {
+		any_owned_province = { is_core = FROM
+			is_core = MED }
+		NOT = { is_core = THIS }
+	}
 
 	po_transfer_provinces = yes
 	po_remove_prestige = yes
@@ -2305,22 +2305,22 @@ free_peoples_large = {
 			}
 		}
 		
-        any_owned_province = {
-            is_core = LRG
-            is_core = FROM
-            NOT =
-            {
-                is_core = THIS
-            }
-        }
-        is_releasable_vassal = FROM
-    }
+		any_owned_province = {
+			is_core = LRG
+			is_core = FROM
+			NOT =
+			{
+				is_core = THIS
+			}
+		}
+		is_releasable_vassal = FROM
+	}
 
-    allowed_states = {
-        any_owned_province = { is_core = FROM
-            is_core = LRG }
-        NOT = { is_core = THIS }
-    }
+	allowed_states = {
+		any_owned_province = { is_core = FROM
+			is_core = LRG }
+		NOT = { is_core = THIS }
+	}
 
 	po_transfer_provinces = yes
 	po_remove_prestige = yes
@@ -2387,22 +2387,22 @@ free_peoples_huge = {
 			}
 		}
 		
-        any_owned_province = {
-            is_core = HUG
-            is_core = FROM
-            NOT =
-            {
-                is_core = THIS
-            }
-        }
-        is_releasable_vassal = FROM
-    }
+		any_owned_province = {
+			is_core = HUG
+			is_core = FROM
+			NOT =
+			{
+				is_core = THIS
+			}
+		}
+		is_releasable_vassal = FROM
+	}
 
-    allowed_states = {
-        any_owned_province = { is_core = FROM
-            is_core = HUG }
-        NOT = { is_core = THIS }
-    }
+	allowed_states = {
+		any_owned_province = { is_core = FROM
+			is_core = HUG }
+		NOT = { is_core = THIS }
+	}
 
 	po_transfer_provinces = yes
 	po_remove_prestige = yes
@@ -4113,10 +4113,10 @@ negotiated_transfer = {
 			is_colonial = no
 		}
 		any_owned_province = {
-                     		OR = {
+					 		OR = {
 				is_colonial = yes
 				is_colonial = no
-                     		}
+					 		}
 		}
 		not = { any_owned_province = { is_capital = yes } }
 	}
@@ -4559,7 +4559,7 @@ total_war_state = {
 		NOT = { tag = GHO }
 		THIS = { ai = no }
 		has_global_flag = total_war_cbs_enabled
-	    NOT = { 
+		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
 				has_country_modifier = generic_neutrality
@@ -4581,10 +4581,10 @@ total_war_state = {
 			is_colonial = yes
 		}
 		any_owned_province = {
-                     OR = {
+					 OR = {
 			is_colonial = no
 			is_colonial = yes
-                     }
+					 }
 		}
 	}
 		

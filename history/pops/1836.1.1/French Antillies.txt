@@ -2,131 +2,131 @@
 #Ruled by France 1836
 #Martinique (190800/27450 POPS)
 2228 = {
-    aristocrats = {
-        culture = french
-        religion = catholic
-        size = 592
-    }
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 592
+	}
 
-    bureaucrats = {
-        culture = french
-        religion = catholic
-        size = 395
-    }
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 395
+	}
 
-    clergymen = {
-        culture = french
-        religion = catholic
-        size = 39
-    }
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 39
+	}
 
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 711
-    }
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 711
+	}
 
-    soldiers = {
-        culture = french
-        religion = catholic
-        size = 197
-    }
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 197
+	}
 
-    farmers = {
-        culture = french
-        religion = catholic
-        size = 316
-    }
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 316
+	}
 
-    clergymen = {
-        culture = afro_antillean
-        religion = catholic
-        size = 98
-    }
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 98
+	}
 
-    artisans = {
-        culture = afro_antillean
-        religion = catholic
-        size = 987
-    }
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 987
+	}
 
-    soldiers = {
-        culture = afro_antillean
-        religion = catholic
-        size = 197
-    }
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 197
+	}
 
-    farmers = {
-        culture = afro_antillean
-        religion = catholic
-        size = 2686
-    }
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 2686
+	}
 
-    slaves = {
-        culture = afro_antillean
-        religion = catholic
-        size = 15800
-    }
+	slaves = {
+		culture = afro_antillean
+		religion = catholic
+		size = 15800
+	}
 }
 #Guadeloupe (128400/32100 POPS)
 2230 = {
-    aristocrats = {
-        culture = french
-        religion = catholic
-        size = 671
-    }
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 671
+	}
 
-    clergymen = {
-        culture = french
-        religion = catholic
-        size = 39
-    }
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 39
+	}
 
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 1027
-    }
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 1027
+	}
 
-    soldiers = {
-        culture = french
-        religion = catholic
-        size = 237
-    }
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 237
+	}
 
-    farmers = {
-        culture = french
-        religion = catholic
-        size = 474
-    }
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 474
+	}
 
-    clergymen = {
-        culture = afro_antillean
-        religion = catholic
-        size = 118
-    }
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 118
+	}
 
-    artisans = {
-        culture = afro_antillean
-        religion = catholic
-        size = 1185
-    }
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 1185
+	}
 
-    soldiers = {
-        culture = afro_antillean
-        religion = catholic
-        size = 237
-    }
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 237
+	}
 
-    farmers = {
-        culture = afro_antillean
-        religion = catholic
-        size = 2409
-    }
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 2409
+	}
 
-    slaves = {
-        culture = afro_antillean
-        religion = catholic
-        size = 18960
-    }
+	slaves = {
+		culture = afro_antillean
+		religion = catholic
+		size = 18960
+	}
 }

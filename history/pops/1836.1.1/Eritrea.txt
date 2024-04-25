@@ -5,73 +5,73 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 2133
+		size = 2133
 	}
 
 	bureaucrats = {
 		culture = misri
 		religion = sunni
-        size = 3
+		size = 3
 	}
 
 	soldiers = {
 		culture = misri
 		religion = sunni
-        size = 15
+		size = 15
 	}
 
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-        size = 2844
+		size = 2844
 	}
 }
 #Assab (44000/11000 POPS)  
@@ -79,61 +79,61 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 276
+		size = 276
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 5036
+		size = 5036
 	}
 
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 2844
+		size = 2844
 	}
 }
 #under the rule of Ethiopia in 1836  
@@ -142,73 +142,73 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = coptic
-        size = 177
+		size = 177
 	}
 
 	bureaucrats = {
 		culture = afro_asiatic
 		religion = coptic
-        size = 11
+		size = 11
 	}
 
 	officers = {
 		culture = afro_asiatic
 		religion = coptic
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = coptic
-        size = 98
+		size = 98
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = coptic
-        size = 474
+		size = 474
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = coptic
-        size = 98
+		size = 98
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = coptic
-        size = 8551
+		size = 8551
 	}
 
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 316
+		size = 316
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 5767
+		size = 5767
 	}
 }
 #Akordat (28000/7000 POPS)  
@@ -216,31 +216,31 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = coptic
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = coptic
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = coptic
-        size = 276
+		size = 276
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = coptic
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = coptic
-        size = 5036
+		size = 5036
 	}
 
 }

@@ -3,7 +3,7 @@
 	bankers = {
 		culture = polar_bears
 		religion = animist
-        size = 79000
+		size = 79000
 	}
 }
 

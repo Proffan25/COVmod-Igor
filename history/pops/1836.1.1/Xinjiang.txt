@@ -5,103 +5,103 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	bureaucrats = {
 		culture = turkic
 		religion = sunni
-        size = 197
+		size = 197
 	}
 
 	officers = {
 		culture = turkic
 		religion = sunni
-        size = 256
+		size = 256
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 414
+		size = 414
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 2054
+		size = 2054
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 414
+		size = 414
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 36952
+		size = 36952
 	}
 
 	aristocrats = {
 		culture = turkic
 		religion = animist
-        size = 177
+		size = 177
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	artisans = {
 		culture = turkic
 		religion = animist
-        size = 454
+		size = 454
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = turkic
 		religion = animist
-        size = 8670
+		size = 8670
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 395
+		size = 395
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 1145
+		size = 1145
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 770
+		size = 770
 	}
 }
 #Ili (168000/42000 POPS)
@@ -109,121 +109,121 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 454
+		size = 454
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 237
+		size = 237
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 1185
+		size = 1185
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 237
+		size = 237
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 21586
+		size = 21586
 	}
 
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 237
+		size = 237
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 4325
+		size = 4325
 	}
 
 	aristocrats = {
 		culture = beifaren
 		religion = sunni
-        size = 15
+		size = 15
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = sunni
-        size = 15
+		size = 15
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = sunni
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = sunni
-        size = 711
+		size = 711
 	}
 
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-        size = 197
+		size = 197
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-        size = 3594
+		size = 3594
 	}
 }
 #Tulta (88000/22000 POPS)
@@ -231,121 +231,121 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 276
+		size = 276
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 5036
+		size = 5036
 	}
 
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 276
+		size = 276
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 5036
+		size = 5036
 	}
 
 	aristocrats = {
 		culture = beifaren
 		religion = sunni
-        size = 15
+		size = 15
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = sunni
-        size = 15
+		size = 15
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = sunni
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = sunni
-        size = 711
+		size = 711
 	}
 
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-        size = 276
+		size = 276
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-        size = 5036
+		size = 5036
 	}
 }
 #Aksu (192000/48000 POPS)
@@ -353,31 +353,31 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 750
+		size = 750
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 395
+		size = 395
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 1896
+		size = 1896
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 395
+		size = 395
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 34483
+		size = 34483
 	}
 }
 #Khotan (88000/22000 POPS)
@@ -385,31 +385,31 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 335
+		size = 335
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 177
+		size = 177
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 177
+		size = 177
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 15819
+		size = 15819
 	}
 }
 #Kumul (188000/47000 POPS)
@@ -417,85 +417,85 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 671
+		size = 671
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 335
+		size = 335
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 1698
+		size = 1698
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 335
+		size = 335
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 30968
+		size = 30968
 	}
 
 	aristocrats = {
 		culture = beifaren
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = sunni
-        size = 2133
+		size = 2133
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-        size = 711
+		size = 711
 	}
 }
 #Urumqi (332000/83000 POPS)
@@ -503,151 +503,151 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 948
+		size = 948
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 474
+		size = 474
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 2607
+		size = 2607
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 533
+		size = 533
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 47577
+		size = 47577
 	}
 
 	aristocrats = {
 		culture = beifaren
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = sunni
-        size = 316
+		size = 316
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = sunni
-        size = 5786
+		size = 5786
 	}
 
 	bureaucrats = {
 		culture = beifaren
 		religion = mahayana
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-        size = 2172
+		size = 2172
 	}
 
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-        size = 1422
+		size = 1422
 	}
 
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 2844
+		size = 2844
 	}
 }
 #Lopnur (32000/8000 POPS)
@@ -655,61 +655,61 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 197
+		size = 197
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 3614
+		size = 3614
 	}
 
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-        size = 2133
+		size = 2133
 	}
 
 }

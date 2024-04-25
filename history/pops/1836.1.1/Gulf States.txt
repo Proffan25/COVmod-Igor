@@ -5,31 +5,31 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-        size = 2152
+		size = 2152
 	}
 }
 #Bahrain Region (28000) #see Saudi Arabia.txt for balance of region  
@@ -39,61 +39,61 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	bureaucrats = {
 		culture = bedouin
 		religion = sunni
-        size = 11
+		size = 11
 	}
 
 	officers = {
 		culture = bedouin
 		religion = sunni
-        size = 7
+		size = 7
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-        size = 1461
+		size = 1461
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = shiite
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = shiite
-        size = 118
+		size = 118
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = shiite
-        size = 2212
+		size = 2212
 	}
 }
 #Doha (8000/2000 POPS) #now part of Qatar 
@@ -101,31 +101,31 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-        size = 1441
+		size = 1441
 	}
 }
 #Uman Region (40000) #see Oman.txt for balance of region 
@@ -135,43 +135,43 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	bureaucrats = {
 		culture = bedouin
 		religion = sunni
-        size = 11
+		size = 11
 	}
 
 	officers = {
 		culture = bedouin
 		religion = sunni
-        size = 7
+		size = 7
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-        size = 197
+		size = 197
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-        size = 3278
+		size = 3278
 	}
 }
 #Dubai (18000/4500 POPS)   #now part of UAE 
@@ -179,31 +179,31 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-        size = 3258
+		size = 3258
 	}
 
 }

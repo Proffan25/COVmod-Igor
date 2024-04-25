@@ -5,61 +5,61 @@
 	aristocrats = {
 		culture = british
 		religion = protestant
-        size = 79
+		size = 79
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-        size = 67
+		size = 67
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-        size = 1975
+		size = 1975
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 1730
+		size = 1730
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 493
+		size = 493
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 1580
+		size = 1580
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 66656
+		size = 66656
 	}
 }
 #Cayman Islands : (1200/300 POPS) #still a British Colony
@@ -67,19 +67,19 @@
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 3
+		size = 3
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 11
+		size = 11
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 221
+		size = 221
 	}
 
 }

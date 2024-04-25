@@ -2,63 +2,63 @@
 #Ruled by Britain 1836
 #Bermuda (9000/2250 POPS)
 203 = {
-    clergymen = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 11
-    }
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 11
+	}
 
-    artisans = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 79
-    }
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 79
+	}
 
-    soldiers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 19
-    }
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 19
+	}
 
-    farmers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 876
-    }
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 876
+	}
 
-    aristocrats = {
-        culture = british
-        religion = protestant
-        size = 19
-    }
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 19
+	}
 
-    bureaucrats = {
-        culture = british
-        religion = protestant
-        size = 19
-    }
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 19
+	}
 
-    clergymen = {
-        culture = british
-        religion = protestant
-        size = 19
-    }
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 19
+	}
 
-    artisans = {
-        culture = british
-        religion = protestant
-        size = 118
-    }
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 118
+	}
 
-    soldiers = {
-        culture = british
-        religion = protestant
-        size = 19
-    }
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 19
+	}
 
-    farmers = {
-        culture = british
-        religion = protestant
-        size = 616
-    }
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 616
+	}
 }

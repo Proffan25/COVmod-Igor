@@ -278,12 +278,12 @@ unit_names = {
 		Belgica Brabantia Flandriae Henogovia Limburgia Luxemburgum  Vallonia  
 	}
 	clipper_transport = { 
-		Antwerpen Arlon Brugge Brussel Charleroi Gent Hasselt Leuven Liege Mechelen Namur Nieuwpoort Oostende Sluis Zeebrugge         
+		Antwerpen Arlon Brugge Brussel Charleroi Gent Hasselt Leuven Liege Mechelen Namur Nieuwpoort Oostende Sluis Zeebrugge		 
 
 	}
 	steam_transport = {
-	  	Dender Dijle IJzer Leie Maas Ourthe Sambre Schelde Semois    
-             
+	  	Dender Dijle IJzer Leie Maas Ourthe Sambre Schelde Semois	
+			 
 	}
 	commerce_raider = {
 		"Jan Baert" "Michiel Jacobsen" "Jacob van Brugge" "Willem van der Haegen" "Jacob le Maire" 

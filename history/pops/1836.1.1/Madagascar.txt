@@ -5,79 +5,79 @@
 	aristocrats = {
 		culture = malagasy
 		religion = animist
-        size = 3298
+		size = 3298
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = animist
-        size = 1678
+		size = 1678
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = animist
-        size = 7900
+		size = 7900
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = animist
-        size = 237
+		size = 237
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = animist
-        size = 5530
+		size = 5530
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = animist
-        size = 113819
+		size = 113819
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = catholic
-        size = 3
+		size = 3
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = catholic
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = catholic
-        size = 185
+		size = 185
 	}
 
 	aristocrats = {
 		culture = malagasy
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = protestant
-        size = 711
+		size = 711
 	}
 }
 #Fianarantsoa (280000/7000 POPS)
@@ -85,31 +85,31 @@
 	aristocrats = {
 		culture = malagasy
 		religion = animist
-        size = 1066
+		size = 1066
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = animist
-        size = 572
+		size = 572
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = animist
-        size = 2765
+		size = 2765
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = animist
-        size = 3160
+		size = 3160
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = animist
-        size = 47735
+		size = 47735
 	}
 }
 #Tolanaro (176000/44000 POPS)
@@ -117,67 +117,67 @@
 	aristocrats = {
 		culture = malagasy
 		religion = sunni
-        size = 375
+		size = 375
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = sunni
-        size = 197
+		size = 197
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = sunni
-        size = 197
+		size = 197
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = sunni
-        size = 11869
+		size = 11869
 	}
 
 	slaves = {
 		culture = malagasy
 		religion = animist
-        size = 6320
+		size = 6320
 	}
 
 	aristocrats = {
 		culture = malagasy
 		religion = animist
-        size = 276
+		size = 276
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = animist
-        size = 750
+		size = 750
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = animist
-        size = 13667
+		size = 13667
 	}
 }
 #Toamasina (116000/29000 POPS)
@@ -185,109 +185,109 @@
 	aristocrats = {
 		culture = malagasy
 		religion = sunni
-        size = 177
+		size = 177
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = sunni
-        size = 395
+		size = 395
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = sunni
-        size = 3179
+		size = 3179
 	}
 
 	slaves = {
 		culture = malagasy
 		religion = animist
-        size = 5530
+		size = 5530
 	}
 
 	aristocrats = {
 		culture = malagasy
 		religion = animist
-        size = 197
+		size = 197
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = animist
-        size = 553
+		size = 553
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = animist
-        size = 10072
+		size = 10072
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = catholic
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = catholic
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = catholic
-        size = 730
+		size = 730
 	}
 
 	aristocrats = {
 		culture = malagasy
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = protestant
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = protestant
-        size = 1422
+		size = 1422
 	}
 }
 #Antsiranana (104000/26000 POPS)
@@ -295,67 +295,67 @@
 	aristocrats = {
 		culture = malagasy
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = sunni
-        size = 395
+		size = 395
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = sunni
-        size = 2468
+		size = 2468
 	}
 
 	slaves = {
 		culture = malagasy
 		religion = animist
-        size = 4740
+		size = 4740
 	}
 
 	aristocrats = {
 		culture = malagasy
 		religion = animist
-        size = 217
+		size = 217
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = animist
-        size = 632
+		size = 632
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = animist
-        size = 138
+		size = 138
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = animist
-        size = 11534
+		size = 11534
 	}
 }
 #Sakalava Region (588000)  
@@ -365,61 +365,61 @@
 	aristocrats = {
 		culture = malagasy
 		religion = animist
-        size = 375
+		size = 375
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = animist
-        size = 197
+		size = 197
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = animist
-        size = 987
+		size = 987
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = animist
-        size = 197
+		size = 197
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = animist
-        size = 17992
+		size = 17992
 	}
 
 	aristocrats = {
 		culture = malagasy
 		religion = animist
-        size = 493
+		size = 493
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = animist
-        size = 256
+		size = 256
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = animist
-        size = 1264
+		size = 1264
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = animist
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = animist
-        size = 22475
+		size = 22475
 	}
 }
 #Mahajanga (188000/47000 POPS)
@@ -427,67 +427,67 @@
 	aristocrats = {
 		culture = malagasy
 		religion = sunni
-        size = 414
+		size = 414
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = sunni
-        size = 217
+		size = 217
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = sunni
-        size = 217
+		size = 217
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = sunni
-        size = 10487
+		size = 10487
 	}
 
 	slaves = {
 		culture = malagasy
 		religion = animist
-        size = 8334
+		size = 8334
 	}
 
 	aristocrats = {
 		culture = malagasy
 		religion = animist
-        size = 296
+		size = 296
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = animist
-        size = 869
+		size = 869
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = animist
-        size = 14397
+		size = 14397
 	}
 }
 #Toliara (172000/43000 POPS)
@@ -495,67 +495,67 @@
 	aristocrats = {
 		culture = malagasy
 		religion = sunni
-        size = 237
+		size = 237
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = sunni
-        size = 513
+		size = 513
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = sunni
-        size = 2942
+		size = 2942
 	}
 
 	slaves = {
 		culture = malagasy
 		religion = animist
-        size = 8690
+		size = 8690
 	}
 
 	aristocrats = {
 		culture = malagasy
 		religion = animist
-        size = 395
+		size = 395
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = animist
-        size = 217
+		size = 217
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = animist
-        size = 1066
+		size = 1066
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = animist
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = animist
-        size = 18940
+		size = 18940
 	}
 
 }

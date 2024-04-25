@@ -5,61 +5,61 @@
 	aristocrats = {
 		culture = british
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-        size = 23
+		size = 23
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-        size = 158
+		size = 158
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 158
+		size = 158
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 4321
+		size = 4321
 	}
 }
 #Montserrat (5300/1325 POPS) #still British Colony
@@ -67,49 +67,49 @@
 	aristocrats = {
 		culture = british
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-        size = 3
+		size = 3
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-        size = 23
+		size = 23
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 23
+		size = 23
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 11
+		size = 11
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 35
+		size = 35
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 1090
+		size = 1090
 	}
 }
 #Tortola (4800/1200 POPS) #still British Colony
@@ -117,49 +117,49 @@
 	aristocrats = {
 		culture = british
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-        size = 31
+		size = 31
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 31
+		size = 31
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 11
+		size = 11
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 27
+		size = 27
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 821
+		size = 821
 	}
 }
 #Saint Kitts (26500/6625 POPS) #now independent
@@ -167,55 +167,55 @@
 	aristocrats = {
 		culture = british
 		religion = protestant
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-        size = 11
+		size = 11
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-        size = 177
+		size = 177
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 205
+		size = 205
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-        size = 4661
+		size = 4661
 	}
 
 }

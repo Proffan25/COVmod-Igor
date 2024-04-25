@@ -5,13 +5,13 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 39
+		size = 39
 	}
 }
 #South Georgia (60/15 POPS)
@@ -19,7 +19,7 @@
 	farmers = {
 		culture = british
 		religion = protestant
-        size = 11
+		size = 11
 	}
 
 }

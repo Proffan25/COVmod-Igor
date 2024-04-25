@@ -2,149 +2,149 @@
 #under the rule of Russia in 1836
 #Chisinau (332000/83000 POPS)
 676 = {
-    aristocrats = {
-        culture = romanian
-        religion = orthodox
-        size = 1106
-    }
+	aristocrats = {
+		culture = romanian
+		religion = orthodox
+		size = 1106
+	}
 
-    bureaucrats = {
-        culture = romanian
-        religion = orthodox
-        size = 888
-    }
+	bureaucrats = {
+		culture = romanian
+		religion = orthodox
+		size = 888
+	}
 
-    officers = {
-        culture = romanian
-        religion = orthodox
-        size = 138
-    }
+	officers = {
+		culture = romanian
+		religion = orthodox
+		size = 138
+	}
 
-    clergymen = {
-        culture = romanian
-        religion = orthodox
-        size = 553
-    }
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 553
+	}
 
-    artisans = {
-        culture = romanian
-        religion = orthodox
-        size = 7900
-    }
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 7900
+	}
 
-    soldiers = {
-        culture = romanian
-        religion = orthodox
-        size = 592
-    }
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 592
+	}
 
-    farmers = {
-        culture = romanian
-        religion = orthodox
-        size = 44832
-    }
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 44832
+	}
 
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 59
-    }
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 59
+	}
 
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1264
-    }
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1264
+	}
 
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 59
-    }
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 59
+	}
 
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 4937
-    }
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 4937
+	}
 
-    clergymen = {
-        culture = turkish #gagauz
-        religion = orthodox
-        size = 59
-    }
+	clergymen = {
+		culture = turkish #gagauz
+		religion = orthodox
+		size = 59
+	}
 
-    artisans = {
-        culture = turkish
-        religion = orthodox
-        size = 197
-    }
+	artisans = {
+		culture = turkish
+		religion = orthodox
+		size = 197
+	}
 
-    soldiers = {
-        culture = turkish
-        religion = orthodox
-        size = 39
-    }
+	soldiers = {
+		culture = turkish
+		religion = orthodox
+		size = 39
+	}
 
-    farmers = {
-        culture = turkish
-        religion = orthodox
-        size = 3653
-    }
+	farmers = {
+		culture = turkish
+		religion = orthodox
+		size = 3653
+	}
 }
 #Balti (320000/80000 POPS)
 677 = {
-    aristocrats = {
-        culture = romanian
-        religion = orthodox
-        size = 1027
-    }
+	aristocrats = {
+		culture = romanian
+		religion = orthodox
+		size = 1027
+	}
 
-    clergymen = {
-        culture = romanian
-        religion = orthodox
-        size = 553
-    }
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 553
+	}
 
-    artisans = {
-        culture = romanian
-        religion = orthodox
-        size = 2844
-    }
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 2844
+	}
 
-    soldiers = {
-        culture = romanian
-        religion = orthodox
-        size = 572
-    }
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 572
+	}
 
-    farmers = {
-        culture = romanian
-        religion = orthodox
-        size = 51883
-    }
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 51883
+	}
 
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 59
-    }
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 59
+	}
 
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1422
-    }
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1422
+	}
 
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 59
-    }
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 59
+	}
 
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 5569
-    }
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 5569
+	}
 }

@@ -212,11 +212,11 @@ party = {
 }
 
 unit_names = {
-	dreadnought = { "Big Bruce" Tasmania Queensland "New South Wales" Commonwealth             
+	dreadnought = { "Big Bruce" Tasmania Queensland "New South Wales" Commonwealth			 
 
 	}
 	ironclad = { Victoria Paluma Fantome "Alf Stewart" Perth 
-                        
+						
 	}
 	manowar = { Spitfire Adelaide "Gold Coast" Murray Sheila 
 		 
@@ -228,7 +228,7 @@ unit_names = {
 		 
 	}
 	monitor = { Cerberus Nelson Gayunda "Bass Strait" "Mount Kosciuszko"
-                        
+						
 	}
 	clipper_transport = { 
 		 

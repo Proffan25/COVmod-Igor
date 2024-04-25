@@ -2,55 +2,55 @@
 #Ruled by Britain 1836
 #Saint Helena (4000/1000 POPS)
 2129 = {
-    bureaucrats = {
-        culture = british
-        religion = protestant
-        size = 19
-    }
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 19
+	}
 
-    clergymen = {
-        culture = british
-        religion = protestant
-        size = 19
-    }
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 19
+	}
 
-    soldiers = {
-        culture = british
-        religion = protestant
-        size = 15
-    }
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 15
+	}
 
-    artisans = {
-        culture = british
-        religion = protestant
-        size = 39
-    }
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 39
+	}
 
-    farmers = {
-        culture = british
-        religion = protestant
-        size = 711
-    }
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 711
+	}
 }
 #Ascension (140/35 POPS)
 2130 = {
-    soldiers = {
-        culture = british
-        religion = protestant
-        size = 7
-    }
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 7
+	}
 
-    farmers = {
-        culture = british
-        religion = protestant
-        size = 19
-    }
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 19
+	}
 }
 #Tristan da Cunha (100/25 POPS)
 2132 = {
-    farmers = {
-        culture = british
-        religion = protestant
-        size = 19
-    }
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 19
+	}
 }

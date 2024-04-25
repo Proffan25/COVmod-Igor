@@ -5,85 +5,85 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 414
+		size = 414
 	}
 
 	bureaucrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	officers = {
 		culture = maghrebi
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 237
+		size = 237
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 5530
+		size = 5530
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 1580
+		size = 1580
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 23226
+		size = 23226
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 1382
+		size = 1382
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 3950
+		size = 3950
 	}
 
 	clergymen = {
 		culture = sephardic
 		religion = jewish
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = sephardic
 		religion = jewish
-        size = 967
+		size = 967
 	}
 }
 #Wazzan (168000/42000 POPS)
@@ -91,61 +91,61 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 414
+		size = 414
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 237
+		size = 237
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 1145
+		size = 1145
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 26642
+		size = 26642
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 197
+		size = 197
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 3634
+		size = 3634
 	}
 }
 #Meknes (76000/19000 POPS)
@@ -153,61 +153,61 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 177
+		size = 177
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 1817
+		size = 1817
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 10546
+		size = 10546
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 1343
+		size = 1343
 	}
 }
 #Taza (80000/20000 POPS)
@@ -215,61 +215,61 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 434
+		size = 434
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 9618
+		size = 9618
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 237
+		size = 237
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 4364
+		size = 4364
 	}
 }
 #Wujda (28000/7000 POPS)
@@ -277,61 +277,61 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 1422
+		size = 1422
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 3673
+		size = 3673
 	}
 }
 #Rabat (112000/28000 POPS)
@@ -339,73 +339,73 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 256
+		size = 256
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 1698
+		size = 1698
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 17538
+		size = 17538
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 177
+		size = 177
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 1343
+		size = 1343
 	}
 
 	clergymen = {
 		culture = sephardic
 		religion = jewish
-        size = 3
+		size = 3
 	}
 
 	artisans = {
 		culture = sephardic
 		religion = jewish
-        size = 94
+		size = 94
 	}
 }
 #Safi (76000/19000 POPS)
@@ -413,61 +413,61 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 197
+		size = 197
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 513
+		size = 513
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 11830
+		size = 11830
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 177
+		size = 177
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 1343
+		size = 1343
 	}
 }
 #Rif Region (272000)
@@ -477,73 +477,73 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 276
+		size = 276
 	}
 
 	bureaucrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	officers = {
 		culture = maghrebi
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 750
+		size = 750
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 12936
+		size = 12936
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 2824
+		size = 2824
 	}
 }
 #Tetouan (68000/17000 POPS)
@@ -551,61 +551,61 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 434
+		size = 434
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 8097
+		size = 8097
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 316
+		size = 316
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 5767
+		size = 5767
 	}
 }
 #Ajdir (112000/28000 POPS)
@@ -613,61 +613,61 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 691
+		size = 691
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 355
+		size = 355
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 14792
+		size = 14792
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 237
+		size = 237
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 4345
+		size = 4345
 	}
 }
 #Ceuta & Melilla (12000)
@@ -677,61 +677,61 @@
 	bureaucrats = {
 		culture = spanish
 		religion = catholic
-        size = 11
+		size = 11
 	}
 
 	clergymen = {
 		culture = spanish
 		religion = catholic
-        size = 39
+		size = 39
 	}
 	
 	artisans = {
 		culture = spanish
 		religion = catholic
-        size = 185
+		size = 185
 	}
 
 	soldiers = {
 		culture = spanish
 		religion = catholic
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 434
+		size = 434
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 }
@@ -740,67 +740,67 @@
 	officers = {
 		culture = spanish
 		religion = catholic
-        size = 11
+		size = 11
 	}
 
 	clergymen = {
 		culture = spanish
 		religion = catholic
-        size = 39
+		size = 39
 	}
 	
 	artisans = {
 		culture = spanish
 		religion = catholic
-        size = 185
+		size = 185
 	}
 
 	soldiers = {
 		culture = spanish
 		religion = catholic
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 395
+		size = 395
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	artisans = {
 		culture = sephardic
 		religion = jewish
-        size = 39
+		size = 39
 	}
 }
 #Sus-Al Draa Region (436000)
@@ -810,85 +810,85 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 493
+		size = 493
 	}
 
 	bureaucrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	officers = {
 		culture = maghrebi
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 256
+		size = 256
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 1283
+		size = 1283
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 22712
+		size = 22712
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 276
+		size = 276
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 711
+		size = 711
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 12956
+		size = 12956
 	}
 
 	clergymen = {
 		culture = sephardic
 		religion = jewish
-        size = 7
+		size = 7
 	}
 
 	artisans = {
 		culture = sephardic
 		religion = jewish
-        size = 387
+		size = 387
 	}
 }
 #Casablanca (60000/15000 POPS)
@@ -896,73 +896,73 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 177
+		size = 177
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 513
+		size = 513
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 8591
+		size = 8591
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 1422
+		size = 1422
 	}
 
 	clergymen = {
 		culture = sephardic
 		religion = jewish
-        size = 3
+		size = 3
 	}
 
 	artisans = {
 		culture = sephardic
 		religion = jewish
-        size = 94
+		size = 94
 	}
 }
 #Huribka (36000/9000 POPS)
@@ -970,61 +970,61 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 2133
+		size = 2133
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 237
+		size = 237
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 4345
+		size = 4345
 	}
 }
 #Sawira (36000/9000 POPS)
@@ -1032,61 +1032,61 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 237
+		size = 237
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 4325
+		size = 4325
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 2133
+		size = 2133
 	}
 }
 #Agadir (60000/15000 POPS)
@@ -1094,61 +1094,61 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 177
+		size = 177
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 474
+		size = 474
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 7979
+		size = 7979
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 2133
+		size = 2133
 	}
 }
 #Sidi Ifni (4000/1000 POPS)
@@ -1156,31 +1156,31 @@
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 7
+		size = 7
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 11
+		size = 11
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 711
+		size = 711
 	}
 }
 #Tarfaya (36000/9000 POPS)
@@ -1188,91 +1188,91 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-        size = 2093
+		size = 2093
 	}
 
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 11
+		size = 11
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 711
+		size = 711
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 197
+		size = 197
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 3614
+		size = 3614
 	}
 }
 #Tafilalet Region (160000)
@@ -1282,73 +1282,73 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 11
+		size = 11
 	}
 
 	bureaucrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	officers = {
 		culture = maghrebi
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 11
+		size = 11
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 667
+		size = 667
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 355
+		size = 355
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 6478
+		size = 6478
 	}
 }
 #Rashidia (44000/11000 POPS)
@@ -1356,61 +1356,61 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-        size = 1046
+		size = 1046
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 375
+		size = 375
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 6833
+		size = 6833
 	}
 }
 #Warzazat (76000/19000 POPS)
@@ -1418,91 +1418,91 @@
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-        size = 197
+		size = 197
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-        size = 3969
+		size = 3969
 	}
 
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-        size = 1046
+		size = 1046
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 434
+		size = 434
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 8709
+		size = 8709
 	}
 
 }

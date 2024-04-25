@@ -5,133 +5,133 @@
 	bureaucrats = {
 		culture = afro_american
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	officers = {
 		culture = afro_american
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = protestant
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-        size = 584
+		size = 584
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-        size = 158
+		size = 158
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = protestant
-        size = 1224
+		size = 1224
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-        size = 1836
+		size = 1836
 	}
 
 	aristocrats = {
 		culture = afro_american
 		religion = animist
-        size = 691
+		size = 691
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = animist
-        size = 355
+		size = 355
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = animist
-        size = 1856
+		size = 1856
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = animist
-        size = 32646
+		size = 32646
 	}
 
 	aristocrats = {
 		culture = afro_american
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = sunni
-        size = 355
+		size = 355
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = sunni
-        size = 6576
+		size = 6576
 	}
 
 	aristocrats = {
 		culture = afro_american
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = animist
-        size = 2903
+		size = 2903
 	}
 }
 #Harper (204000/51000 POPS) 
@@ -139,85 +139,85 @@
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-        size = 39
+		size = 39
 	}
 	
 	aristocrats = {
 		culture = afro_american
 		religion = animist
-        size = 592
+		size = 592
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = animist
-        size = 296
+		size = 296
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = animist
-        size = 1501
+		size = 1501
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = animist
-        size = 296
+		size = 296
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = animist
-        size = 27270
+		size = 27270
 	}
 
 	aristocrats = {
 		culture = afro_american
 		religion = animist
-        size = 197
+		size = 197
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = animist
-        size = 513
+		size = 513
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = animist
-        size = 9361
+		size = 9361
 	}
 }
 #uncolonized in 1836
@@ -226,85 +226,85 @@
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-        size = 39
+		size = 39
 	}
 	
 	aristocrats = {
 		culture = afro_american
 		religion = sunni
-        size = 375
+		size = 375
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = sunni
-        size = 197
+		size = 197
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = sunni
-        size = 987
+		size = 987
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = sunni
-        size = 197
+		size = 197
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = sunni
-        size = 17929
+		size = 17929
 	}
 
 	aristocrats = {
 		culture = afro_american
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = animist
-        size = 237
+		size = 237
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = animist
-        size = 4325
+		size = 4325
 	}
 }
 #Gbarnga (132000/33000 POPS) 
@@ -312,85 +312,85 @@
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-        size = 39
+		size = 39
 	}
 
 	aristocrats = {
 		culture = afro_american
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = sunni
-        size = 434
+		size = 434
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = sunni
-        size = 7919
+		size = 7919
 	}
 
 	aristocrats = {
 		culture = afro_american
 		religion = animist
-        size = 335
+		size = 335
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = animist
-        size = 177
+		size = 177
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = animist
-        size = 869
+		size = 869
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = animist
-        size = 177
+		size = 177
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = animist
-        size = 15756
+		size = 15756
 	}
 }
 #Zwedru (168000/42000 POPS) 
@@ -398,85 +398,85 @@
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = protestant
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = protestant
-        size = 39
+		size = 39
 	}
 	
 	aristocrats = {
 		culture = afro_american
 		religion = animist
-        size = 177
+		size = 177
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = animist
-        size = 197
+		size = 197
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = animist
-        size = 908
+		size = 908
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = animist
-        size = 134
+		size = 134
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = animist
-        size = 16728
+		size = 16728
 	}
 
 	aristocrats = {
 		culture = afro_american
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = animist
-        size = 750
+		size = 750
 	}
 
 	soldiers = {
 		culture = afro_american
 		religion = animist
-        size = 158
+		size = 158
 	}
 
 	farmers = {
 		culture = afro_american
 		religion = animist
-        size = 13825
+		size = 13825
 	}
 
 }

@@ -5,97 +5,97 @@
 	aristocrats = {
 		culture = french
 		religion = catholic
-        size = 118
+		size = 118
 	}
 
 	bureaucrats = {
 		culture = french
 		religion = catholic
-        size = 7
+		size = 7
 	}
 
 	clergymen = {
 		culture = french
 		religion = catholic
-        size = 7
+		size = 7
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = french
 		religion = catholic
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-        size = 63
+		size = 63
 	}
 
 	artisans = {
 		culture = afro_antillean
 		religion = catholic
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = afro_antillean
 		religion = catholic
-        size = 19
+		size = 19
 	}
 
 	soldiers = {
 		culture = afro_antillean
 		religion = catholic
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = afro_antillean
 		religion = catholic
-        size = 335
+		size = 335
 	}
 
 	slaves = {
 		culture = afro_antillean
 		religion = catholic
-        size = 2330
+		size = 2330
 	}
 
 	aristocrats = {
 		culture = brazilian
 		religion = animist
-        size = 1
+		size = 1
 	}
 
 	clergymen = {
 		culture = brazilian
 		religion = animist
-        size = 2
+		size = 2
 	}
 
 	artisans = {
 		culture = brazilian
 		religion = animist
-        size = 7
+		size = 7
 	}
 
 	soldiers = {
 		culture = brazilian
 		religion = animist
-        size = 3
+		size = 3
 	}
 
 	farmers = {
 		culture = brazilian
 		religion = animist
-        size = 181
+		size = 181
 	}
 }
 #Maripasoula (3000/750 POPS)
@@ -103,31 +103,31 @@
 	aristocrats = {
 		culture = brazilian
 		religion = animist
-        size = 7
+		size = 7
 	}
 
 	clergymen = {
 		culture = brazilian
 		religion = animist
-        size = 11
+		size = 11
 	}
 
 	artisans = {
 		culture = brazilian
 		religion = animist
-        size = 27
+		size = 27
 	}
 
 	soldiers = {
 		culture = brazilian
 		religion = animist
-        size = 7
+		size = 7
 	}
 
 	farmers = {
 		culture = brazilian
 		religion = animist
-        size = 537
+		size = 537
 	}
 
 }

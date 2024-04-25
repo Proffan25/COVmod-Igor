@@ -1,9 +1,9 @@
 # End Military Access
 country_event = {
-    id = 8000000
-    title = "EVTNAME6016825"
-    desc = "EVTDESC6016825"
-    picture = "danishgovernment"
+	id = 8000000
+	title = "EVTNAME6016825"
+	desc = "EVTDESC6016825"
+	picture = "danishgovernment"
 
 	trigger = {
 		ai = yes
@@ -13,12 +13,12 @@ country_event = {
 		}	
 	}
 
-    mean_time_to_happen = {
-	    days = 1
-    }
+	mean_time_to_happen = {
+		days = 1
+	}
 
-    option = {
-        name = "EVT6016823OPTA"
+	option = {
+		name = "EVT6016823OPTA"
 		any_country = {
 			limit = { ai = yes }
 			end_military_access = THIS

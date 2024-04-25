@@ -207,6 +207,6 @@ unit_names = {
 	steam_transport = { 
 	}
 	commerce_raider = {
-	Arleux Armentieres Arras Festubert Givenchy Loos Messines "St Eloi" "St Julien" Thiepval Vimy Ypres            
+	Arleux Armentieres Arras Festubert Givenchy Loos Messines "St Eloi" "St Julien" Thiepval Vimy Ypres			
 	}
 }

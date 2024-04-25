@@ -5,61 +5,61 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 612
+		size = 612
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 316
+		size = 316
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 1580
+		size = 1580
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 316
+		size = 316
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 28775
+		size = 28775
 	}
 
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 395
+		size = 395
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 7228
+		size = 7228
 	}
 }
 #Badakhshan Region (212000) 
@@ -69,31 +69,31 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 454
+		size = 454
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 217
+		size = 217
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 1145
+		size = 1145
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 197
+		size = 197
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 21685
+		size = 21685
 	}
 }
 #Khorugh (92000/23000 POPS)   
@@ -101,61 +101,61 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 276
+		size = 276
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 671
+		size = 671
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 13785
+		size = 13785
 	}
 
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 2883
+		size = 2883
 	}
 
 }

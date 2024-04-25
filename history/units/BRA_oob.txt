@@ -14,5 +14,5 @@ army = {
 		name= "1. Braunschweigische Infanterie-Brigade"
 		type = infantry
 		home = 536
-	}	            
+	}				
 }

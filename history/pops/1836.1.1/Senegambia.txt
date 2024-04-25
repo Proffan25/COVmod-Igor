@@ -6,32 +6,32 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 19
+		size = 19
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 1422
+		size = 1422
 	}
 }
 #Linguere (216000/54000 POPS)
@@ -39,38 +39,38 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 434
+		size = 434
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 1698
+		size = 1698
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 1027
+		size = 1027
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 32390
+		size = 32390
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-        size = 6320
+		size = 6320
 	}
 }
 #Diourbel (88000/22000 POPS)
@@ -78,38 +78,38 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 316
+		size = 316
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 711
+		size = 711
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 197
+		size = 197
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 12837
+		size = 12837
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-        size = 3160
+		size = 3160
 	}
 }
 #Kaolack (160000/40000 POPS) #kingdom of the Sereer
@@ -117,25 +117,25 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = animist
-        size = 395
+		size = 395
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = animist
-        size = 237
+		size = 237
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = animist
-        size = 1066
+		size = 1066
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-        size = 790
+		size = 790
 
 	}
 
@@ -143,44 +143,44 @@
 	farmers = {
 		culture = niger_congo_a
 		religion = animist
-        size = 14496
+		size = 14496
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-        size = 6320
+		size = 6320
 	}
 
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 197
+		size = 197
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 513
+		size = 513
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 79
+		size = 79
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 7426
+		size = 7426
 	}
 }
 #Mboul (144000/36000 POPS)
@@ -188,50 +188,50 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 513
+		size = 513
 	}
 
 	bureaucrats = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	officers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 276
+		size = 276
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 1145
+		size = 1145
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 1106
+		size = 1106
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 14220
+		size = 14220
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-        size = 11060
+		size = 11060
 	}
 }
 #uncolonized/French have trade post in 1836
@@ -240,69 +240,69 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 19
+		size = 19
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 2133
+		size = 2133
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-        size = 869
+		size = 869
 	}
 
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 19
+		size = 19
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 1343
+		size = 1343
 	}
 }
 #uncolonized/British have trade post in 1836
@@ -311,63 +311,63 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 276
+		size = 276
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 750
+		size = 750
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 158
+		size = 158
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 13667
+		size = 13667
 	}
 
 	aristocrats = {
 		culture = niger_congo_a
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = animist
-        size = 316
+		size = 316
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-        size = 59
+		size = 59
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = animist
-        size = 5747
+		size = 5747
 	}
 }
 #Futa Region (328000)
@@ -377,50 +377,50 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 1303
+		size = 1303
 	}
 
 	bureaucrats = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	officers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 711
+		size = 711
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 2784
+		size = 2784
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 1343
+		size = 1343
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 50560
+		size = 50560
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-        size = 11850
+		size = 11850
 	}
 }
 #Matam (216000/54000 POPS)
@@ -428,38 +428,38 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 770
+		size = 770
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 414
+		size = 414
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 1718
+		size = 1718
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 1046
+		size = 1046
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 26860
+		size = 26860
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-        size = 11850
+		size = 11850
 	}
 }
 #Bakel (140000/35000 POPS)
@@ -467,63 +467,63 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 454
+		size = 454
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 237
+		size = 237
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 928
+		size = 928
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 237
+		size = 237
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-        size = 17103
+		size = 17103
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = animist
-        size = 237
+		size = 237
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-        size = 59
+		size = 59
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = animist
-        size = 4404
+		size = 4404
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-        size = 3950
+		size = 3950
 	}
 }
 #Casamance Region (224000) #see Guinea Bissau.txt and Guinea.txt for balance of Region
@@ -533,38 +533,38 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = animist
-        size = 908
+		size = 908
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = animist
-        size = 474
+		size = 474
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = animist
-        size = 1896
+		size = 1896
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-        size = 869
+		size = 869
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = animist
-        size = 32192
+		size = 32192
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-        size = 11060
+		size = 11060
 	}
 }
 #Velingara (104000/26000 POPS
@@ -572,38 +572,38 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = animist
-        size = 395
+		size = 395
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = animist
-        size = 197
+		size = 197
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = animist
-        size = 829
+		size = 829
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-        size = 217
+		size = 217
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = animist
-        size = 15740
+		size = 15740
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-        size = 3160
+		size = 3160
 	}
 
 }

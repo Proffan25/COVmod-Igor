@@ -120,8 +120,8 @@ deep_shaft_mining = {
 
 motor_housing_insulation = {
 	limit = { 
-                advanced_metallurgy = 1
-        }
+				advanced_metallurgy = 1
+		}
 	chance = {
 		base = 0
 		modifier = {
@@ -154,8 +154,8 @@ motor_housing_insulation = {
 #Electric Furnace
 modern_mine_hoists = {
 	limit = { 
-                electric_furnace = 1
-        }
+				electric_furnace = 1
+		}
 	chance = {
 		base = 2
 		modifier = {
@@ -192,8 +192,8 @@ modern_mine_hoists = {
 
 mine_cutting_machines = {
 	limit = { 
-                electric_furnace = 1
-        }
+				electric_furnace = 1
+		}
 	chance = {
 		base = 2
 		modifier = {
@@ -228,8 +228,8 @@ mine_cutting_machines = {
 #High and Low Pressure Steam Engines
 steam_shovel = {
 	limit = { 
-                high_n_low_pressure_steam_engines = 1
-        }
+				high_n_low_pressure_steam_engines = 1
+		}
 	chance = {
 		base = 2
 		modifier = {

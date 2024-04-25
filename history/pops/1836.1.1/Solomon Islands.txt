@@ -5,31 +5,31 @@
 	aristocrats = {
 		culture = melanesian
 		religion = animist
-        size = 177
+		size = 177
 	}
 
 	clergymen = {
 		culture = melanesian
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	artisans = {
 		culture = melanesian
 		religion = animist
-        size = 474
+		size = 474
 	}
 
 	soldiers = {
 		culture = melanesian
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	farmers = {
 		culture = melanesian
 		religion = animist
-        size = 8630
+		size = 8630
 	}
 }
 #Santa Cruz Islands (6000/1500 POPS) 
@@ -37,30 +37,30 @@
 	aristocrats = {
 		culture = melanesian
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = melanesian
 		religion = animist
-        size = 27
+		size = 27
 	}
 
 	artisans = {
 		culture = melanesian
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	soldiers = {
 		culture = melanesian
 		religion = animist
-        size = 11
+		size = 11
 	}
 
 	farmers = {
 		culture = melanesian
 		religion = animist
-        size = 1066
+		size = 1066
 	}
 }

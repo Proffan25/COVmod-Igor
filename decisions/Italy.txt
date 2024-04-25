@@ -271,9 +271,9 @@ political_decisions = {
 	}
 
 	accademia_della_crusca = {
-        	potential = {
-           		tag = TUS
-            		NOT = { has_country_flag = accademia_della_crusca }
+			potential = {
+		   		tag = TUS
+					NOT = { has_country_flag = accademia_della_crusca }
 		}
 
 		allow = {
@@ -282,10 +282,10 @@ political_decisions = {
 		}
 
 		effect = { 
-           	 	prestige = 15                   
-           	 	political_reform = free_press
-           	 	set_country_flag = accademia_della_crusca
-        	}
+		   	 	prestige = 15				   
+		   	 	political_reform = free_press
+		   	 	set_country_flag = accademia_della_crusca
+			}
 	}
 
 	unite_with_tuscany = {

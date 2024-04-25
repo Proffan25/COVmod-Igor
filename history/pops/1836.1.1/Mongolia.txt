@@ -5,73 +5,73 @@
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-        size = 1461
+		size = 1461
 	}
 
 	bureaucrats = {
 		culture = mongol
 		religion = gelugpa
-        size = 59
+		size = 59
 	}
 
 	officers = {
 		culture = mongol
 		religion = gelugpa
-        size = 256
+		size = 256
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-        size = 3160
+		size = 3160
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-        size = 3555
+		size = 3555
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-        size = 711
+		size = 711
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-        size = 66636
+		size = 66636
 	}
 
 	bureaucrats = {
 		culture = beifaren
 		religion = mahayana
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-        size = 316
+		size = 316
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-        size = 2607
+		size = 2607
 	}
 }
 #Dalandzadgad (212000/53000 POPS)   
@@ -79,31 +79,31 @@
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-        size = 829
+		size = 829
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-        size = 434
+		size = 434
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-        size = 2093
+		size = 2093
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-        size = 434
+		size = 434
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-        size = 38078
+		size = 38078
 	}
 }
 #Bayan Tumen (176000/44000 POPS)   
@@ -111,61 +111,61 @@
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-        size = 651
+		size = 651
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-        size = 335
+		size = 335
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-        size = 1619
+		size = 1619
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-        size = 335
+		size = 335
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-        size = 29447
+		size = 29447
 	}
 
 	aristocrats = {
 		culture = yakut
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = yakut
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = yakut
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	soldiers = {
 		culture = yakut
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = yakut
 		religion = animist
-        size = 2172
+		size = 2172
 	}
 }
 #Uliastay (140000/35000 POPS)   
@@ -173,31 +173,31 @@
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-        size = 513
+		size = 513
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-        size = 276
+		size = 276
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-        size = 1382
+		size = 1382
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-        size = 276
+		size = 276
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-        size = 25201
+		size = 25201
 	}
 }
 
@@ -206,31 +206,31 @@
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-        size = 276
+		size = 276
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-        size = 138
+		size = 138
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-        size = 691
+		size = 691
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-        size = 138
+		size = 138
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-        size = 12798
+		size = 12798
 	}
 }
 
@@ -239,31 +239,31 @@
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-        size = 592
+		size = 592
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-        size = 296
+		size = 296
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-        size = 1185
+		size = 1185
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-        size = 296
+		size = 296
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-        size = 27650
+		size = 27650
 	}
 }
 #Bulgan (84000/21000 POPS)   
@@ -271,31 +271,31 @@
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-        size = 316
+		size = 316
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-        size = 158
+		size = 158
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-        size = 829
+		size = 829
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-        size = 177
+		size = 177
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-        size = 13528
+		size = 13528
 	}
 }
 #Khovd (120000/30000 POPS)   
@@ -303,61 +303,61 @@
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-        size = 276
+		size = 276
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-        size = 138
+		size = 138
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-        size = 711
+		size = 711
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-        size = 138
+		size = 138
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-        size = 12956
+		size = 12956
 	}
 
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 474
+		size = 474
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 8670
+		size = 8670
 	}
 }
 #Uliatai (32000/8000 POPS) #now Tuva Republic of Russia  Tatar = Tuvan   
@@ -365,31 +365,31 @@
 	aristocrats = {
 		culture = tatar
 		religion = gelugpa
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = tatar
 		religion = gelugpa
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = tatar
 		religion = gelugpa
-        size = 316
+		size = 316
 	}
 
 	soldiers = {
 		culture = tatar
 		religion = gelugpa
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = tatar
 		religion = gelugpa
-        size = 5767
+		size = 5767
 	}
 
 }

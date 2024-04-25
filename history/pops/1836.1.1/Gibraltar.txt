@@ -2,63 +2,63 @@
 #Ruled by Britain 1836
 #Gibraltar (16000/4000 POPS)
 517 = {
-    officers = {
-        culture = british
-        religion = protestant
-        size = 3
-    }
+	officers = {
+		culture = british
+		religion = protestant
+		size = 3
+	}
 
-    bureaucrats = {
-        culture = british
-        religion = protestant
-        size = 19
-    }
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 19
+	}
 
-    clergymen = {
-        culture = british
-        religion = protestant
-        size = 3
-    }
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 3
+	}
 
-    soldiers = {
-        culture = british
-        religion = protestant
-        size = 79
-    }
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 79
+	}
 
-    artisans = {
-        culture = british
-        religion = protestant
-        size = 106
-    }
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 106
+	}
 
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 316
-    }
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 316
+	}
 
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 39
-    }
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 39
+	}
 
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 2370
-    }
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 2370
+	}
 
-    soldiers = {
-        culture = spanish
-        religion = catholic
-        size = 39
-    }
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 39
+	}
 
-    farmers = {
-        culture = spanish
-        religion = catholic
-        size = 158
-    }
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 158
+	}
 }

@@ -1,5 +1,5 @@
 ###############################
-#        RUBBER EVENTS        #
+#		RUBBER EVENTS		#
 ###############################
 province_event = {
 	
@@ -247,7 +247,7 @@ province_event = {
 }
 
 ############################
-#        OIL EVENTS        #
+#		OIL EVENTS		#
 ############################
 province_event = {
 

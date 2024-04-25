@@ -5,38 +5,38 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 1382
+		size = 1382
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 869
+		size = 869
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 3160
+		size = 3160
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 790
+		size = 790
 
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 57077
+		size = 57077
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-        size = 15800
+		size = 15800
 	}
 }
 #Madingou (160000/40000 POPS)
@@ -44,38 +44,38 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 592
+		size = 592
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 395
+		size = 395
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 1382
+		size = 1382
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 395
+		size = 395
 
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 20935
+		size = 20935
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-        size = 7900
+		size = 7900
 	}
 }
 #Loango (320000/80000 POPS)
@@ -83,44 +83,44 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 1185
+		size = 1185
 	}
 	
 	bureaucrats = {
 		culture = bantu
 		religion = animist
-        size = 316
+		size = 316
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 592
+		size = 592
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 2567
+		size = 2567
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 790
+		size = 790
 
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 42265
+		size = 42265
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-        size = 15800
+		size = 15800
 	}
 }
 #uncolonized in 1836 
@@ -129,32 +129,32 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 276
+		size = 276
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 5036
+		size = 5036
 	}
 }
 #Impfondo (32000/8000 POPS)
@@ -162,32 +162,32 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 118
+		size = 118
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 316
+		size = 316
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 59
+		size = 59
 
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 5767
+		size = 5767
 	}
 
 }

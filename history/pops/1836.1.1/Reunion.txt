@@ -2,69 +2,69 @@
 #Ruled by France 1836
 #Reunion (98000/24500 POPS)
 2126 = {
-    aristocrats = {
-        culture = french
-        religion = catholic
-        size = 592
-    }
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 592
+	}
 
-    bureaucrats = {
-        culture = french
-        religion = catholic
-        size = 197
-    }
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 197
+	}
 
-    clergymen = {
-        culture = french
-        religion = catholic
-        size = 59
-    }
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 59
+	}
 
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 395
-    }
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 395
+	}
 
-    soldiers = {
-        culture = french
-        religion = catholic
-        size = 237
-    }
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 237
+	}
 
-    farmers = {
-        culture = french
-        religion = catholic
-        size = 4601
-    }
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 4601
+	}
 
-    clergymen = {
-        culture = afro_antillean
-        religion = catholic
-        size = 98
-    }
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 98
+	}
 
-    artisans = {
-        culture = afro_antillean
-        religion = catholic
-        size = 671
-    }
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 671
+	}
 
-    soldiers = {
-        culture = afro_antillean
-        religion = catholic
-        size = 158
-    }
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 158
+	}
 
-    farmers = {
-        culture = afro_antillean
-        religion = catholic
-        size = 1441
-    }
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 1441
+	}
 
-    slaves = {
-        culture = afro_antillean
-        religion = catholic
-        size = 11060
-    }
+	slaves = {
+		culture = afro_antillean
+		religion = catholic
+		size = 11060
+	}
 }

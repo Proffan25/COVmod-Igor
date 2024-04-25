@@ -5,43 +5,43 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 1935
+		size = 1935
 	}
 
 	bureaucrats = {
 		culture = bantu
 		religion = animist
-        size = 19
+		size = 19
 	}
 
 	officers = {
 		culture = bantu
 		religion = animist
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 1382
+		size = 1382
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 4898
+		size = 4898
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 987
+		size = 987
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 89428
+		size = 89428
 	}
 }
 #uncolonized in 1836/ruled by kingdom of Burundi
@@ -50,43 +50,43 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-        size = 1718
+		size = 1718
 	}
 
 	bureaucrats = {
 		culture = bantu
 		religion = animist
-        size = 11
+		size = 11
 	}
 
 	officers = {
 		culture = bantu
 		religion = animist
-        size = 86
+		size = 86
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-        size = 888
+		size = 888
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-        size = 4424
+		size = 4424
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-        size = 888
+		size = 888
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-        size = 80461
+		size = 80461
 	}
 
 }

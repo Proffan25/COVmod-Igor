@@ -655,52 +655,52 @@ east_slavic = {
 	unit = RussianGC
 	russian = {
 		color = {0 70 10}
-                   first_names = { Adrian Aleksandr Alexander Alexandrovich Aleksey Alexei Andrei Andrey Anatoly Anton Avram Boris Dimitry Dmitry Fedor Fyodor Eduard Gennady 
-                                 Giorgi Grigoriy Igor Illarion Iosif Ivan Karl Kirill Kliment Konstantin Lavr Leonid Lev Matvey Maxim 
-                                 Mikhail Nikita Nikolai Nikolay Nikolayevich Oleg Pavel Petr Platon Pyotr Roman Semyon Sergei Stepan
-                                 Valery Vasily Viktor Vladimir Vladislav Vsevolod Yakov Yegor Yevgeny Yuri Zinovy }
+				   first_names = { Adrian Aleksandr Alexander Alexandrovich Aleksey Alexei Andrei Andrey Anatoly Anton Avram Boris Dimitry Dmitry Fedor Fyodor Eduard Gennady 
+								 Giorgi Grigoriy Igor Illarion Iosif Ivan Karl Kirill Kliment Konstantin Lavr Leonid Lev Matvey Maxim 
+								 Mikhail Nikita Nikolai Nikolay Nikolayevich Oleg Pavel Petr Platon Pyotr Roman Semyon Sergei Stepan
+								 Valery Vasily Viktor Vladimir Vladislav Vsevolod Yakov Yegor Yevgeny Yuri Zinovy }
 
-                   last_names = { 
+				   last_names = { 
 				  Abramov Alexseyev Annenkov Antonov Arklas Aslanbegov Azarov 
 				  Baklanov Barantsov Baratov Batyanov Baryatinsky Bebutov Belgard Bezobrazov Birilev Blaramberg Brusilov Budyonny Butakov 
 				  Chernyayev Chibisov Danilov Denikin Diteriks Dragomirov Drozdovsky Dubasov Dushkevich Dutov Evert Fostikov Frolov Frunze 
-			          Ganetsky Glazov Golovin Gorbatovsky Gorchakov Grabbe Grigorovich Gripenberg Grishin Gurko Imeretinsky Irmanov Istomin Ivanov
+					  Ganetsky Glazov Golovin Gorbatovsky Gorchakov Grabbe Grigorovich Gripenberg Grishin Gurko Imeretinsky Irmanov Istomin Ivanov
 				  Kaledin Kaulbars Kamenev Kalitin Kanin Kedrov Klembovsky Kolchak Kolomeytsev Kolpakovsky Konev Konstantinov Kornilov Kosych Krabbe Krasnov Kuropatkin Kutepov Kuzhmin-Karavayev
-                                  Lazarev Lebedev Lechitsky Lomnovsky Loris-Melikov Linevitch Liprandi Litke Litvinov
+								  Lazarev Lebedev Lechitsky Lomnovsky Loris-Melikov Linevitch Liprandi Litke Litvinov
 				  Makarov Markov Menshikov Milyutin "Moller-Zakomelsky" "Muraviev-Amursky" "Muraviev-Karsky" 
 				  Nakhimov Nebogatov Nikitin Nikolaevich Ostrovsky Palitsyn Parsky Paskevich Pavlov Pleshkov Plehve Popov Putyatin 
 				  Radkevich Romanov "Romeyko-Gurko" Rozhestvensky Rennenkampf Rudnev Ruzsky
 				  Sakharov Sherbachev Selivanov Shaposhnikov Shikilinsky Shuvalov Shuvayev Sievers Skobelev Skrydlov Stoessel Stoletov Sukhomlinov Sukhozanet Surkov 
 				  Tottleben Tukhachevsky Ukhtomsky Vannovsky Vasilchikov Vorontsov Vorontsov-Dashkov Vitgeft Voroshilov Yanuskevich Yegorov Yudenich Zavoyko Zherebrekov Zhilinsky
 		   }
-        }
+		}
 	byelorussian = {
 		color = {100 140 110}
-                        first_names = { Alaksandr Alexei Andrei Anton Boris Cyril Danya Dz'mitry Giorgi 
-                                        Ivan Janka Jury Lavr Leonid Leu Mikhail Paval Piotr Roman Ryhor 
-                                        Stanislaw Sergey Valery Vasily Viktar Uladzimir Vladislav }
-     
-                        last_names = { Alexseyev "Bulak-Balachowicz" Chibisov Denikin Dragomirov Dubasov Golivin Gurko 
-                                       Ivanov Kalinowski Kornilov Kolchak Kuropatkin Lukashenka Menshikov Nakhimov 
-                                       Nebogatov Nikolaevich Pavlov Putyatin Rozhestvensky Skobelev Sukhoi 
-                                       Tukhachevsky Yegorov Vorontsov Zhauryd }
-        }
+						first_names = { Alaksandr Alexei Andrei Anton Boris Cyril Danya Dz'mitry Giorgi 
+										Ivan Janka Jury Lavr Leonid Leu Mikhail Paval Piotr Roman Ryhor 
+										Stanislaw Sergey Valery Vasily Viktar Uladzimir Vladislav }
+	 
+						last_names = { Alexseyev "Bulak-Balachowicz" Chibisov Denikin Dragomirov Dubasov Golivin Gurko 
+									   Ivanov Kalinowski Kornilov Kolchak Kuropatkin Lukashenka Menshikov Nakhimov 
+									   Nebogatov Nikolaevich Pavlov Putyatin Rozhestvensky Skobelev Sukhoi 
+									   Tukhachevsky Yegorov Vorontsov Zhauryd }
+		}
 	ukrainian = {
 		color = {160 160 60}
-                     first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev 
-                                     Mikhail Mykola Nikita  Oleksandr Pavel Petro Roman Semyon Sergiy Vasily Valeriy 
-                                     Viktor Volodimir Vladislav Yuriy }
+					 first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev 
+									 Mikhail Mykola Nikita  Oleksandr Pavel Petro Roman Semyon Sergiy Vasily Valeriy 
+									 Viktor Volodimir Vladislav Yuriy }
 
-                     last_names = { Bezruchko Chernyakhovsky Dyachenko Gamula Grigoriev Hrekov Ivanenko Ivanov 
-                                    Kapustiansky Kondratenko Leshchenko Leshchinskiy "Omelianovych-Pavlenko" 
-                                    Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky Zavoyko }
+					 last_names = { Bezruchko Chernyakhovsky Dyachenko Gamula Grigoriev Hrekov Ivanenko Ivanov 
+									Kapustiansky Kondratenko Leshchenko Leshchinskiy "Omelianovych-Pavlenko" 
+									Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky Zavoyko }
 									radicalism = 10
-        }
+		}
 	ugrian = {  
 		color = {60 160 160}
-                  first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
+				  first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
 
-                  last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
+				  last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
 	}
 
 }
@@ -1017,21 +1017,21 @@ central_asian = {
 	mongol = {
 		color = {230 230 44}
 		first_names = { 
-               Peljidiin Balingiin Sodnomyn Kubilai Baterdene Dogsomyn Damdin Khorloogiin Dambyan 
-               Gonchigjalzangiin Badamdorj Chingis Otgonbayar Batbayar }
+			   Peljidiin Balingiin Sodnomyn Kubilai Baterdene Dogsomyn Damdin Khorloogiin Dambyan 
+			   Gonchigjalzangiin Badamdorj Chingis Otgonbayar Batbayar }
 
 		last_names = { 
-               Genden Amar Tserendorj Tomorbaatar Damdinbazar Bodoo Sukhbaatar Jamyan Choibalsan Chagdarjav
+			   Genden Amar Tserendorj Tomorbaatar Damdinbazar Bodoo Sukhbaatar Jamyan Choibalsan Chagdarjav
 		}
 	}
 	
 	siberian = {
 		color = {40 240 240}
 		first_names = {
-               Aleksandr Diniyar Mirsayet Sihabetdin Gabdull Afanasiy Viktor Grigory 
+			   Aleksandr Diniyar Mirsayet Sihabetdin Gabdull Afanasiy Viktor Grigory 
 		}
 		last_names = { 
-               Shaimiev Bilyaletdinov Shchapov Yadrintsev Krakovetsky Kolchak Potanin Shashkov
+			   Shaimiev Bilyaletdinov Shchapov Yadrintsev Krakovetsky Kolchak Potanin Shashkov
 		}
 	}
 
@@ -1041,7 +1041,7 @@ central_asian = {
 			Aysen Nyurgun Elley Aytal Manchaary
 		}
 		last_names = { 
-              Okhlopkov Shishigin Shtyrov Ondar Sivtsev 
+			  Okhlopkov Shishigin Shtyrov Ondar Sivtsev 
 		}
 	}
 	
@@ -1052,7 +1052,7 @@ central_asian = {
 		}
 		
 		last_names = { 
-               Dzasa Wangyal Shatra Lungshar Rinpoche Chöphel Shakabpa Tashi 
+			   Dzasa Wangyal Shatra Lungshar Rinpoche Chöphel Shakabpa Tashi 
 		}
 		radicalism = 10
 	}
@@ -1063,7 +1063,7 @@ central_asian = {
 		}
 		
 		last_names = { Thapa "Singh Thapa" Singh Rana "Bahadur Rana" 
-               
+			   
 		}
 	}
 }
@@ -1078,7 +1078,7 @@ south_asian = {
 		}
 		
 		last_names = { Singh
-               
+			   
 		}
 	}
 	dravidian = {
@@ -1088,7 +1088,7 @@ south_asian = {
 		}
 		
 		last_names = { Mudaliar Krishnamachari Rajapopalachari Sastri Dalawa
-               
+			   
 		}
 	}
 	union = HND
@@ -1104,7 +1104,7 @@ southeast_asian = {
 		}
 		
 		last_names = { "vinh Thuy" Han Tuan "Vinh San" Cuong Khai Nien Than Quang "Trong Hiep" "Mien Lam" "Mien Trinh" "Buu Lan"
-               
+			   
 		}
 		radicalism = 5
 	}
@@ -1115,7 +1115,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Eng Chan Em Snguon Mey Reachea Tong Non
-               
+			   
 		}
 	}
 	malay = {
@@ -1125,7 +1125,7 @@ southeast_asian = {
 		}
 		
 		last_names = { "Raja Inu" al-Marhum "Raja Ahmad" "Riayat Shah" al-Khairat Muadzam Bendahara Aadzam Murshidul
-               
+			   
 		}
 	}
 	filipino = {
@@ -1135,7 +1135,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Aguainaldo Mabini Bonifacio Jacinto Rizal Díaz Plata Diwa Arellano
-               
+			   
 		}
 	}
 	javan = {
@@ -1145,7 +1145,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Salihin Mufakhir Alaeddin Muttakin Sepuh Nurus Khairuddin Djalaluddin Emiruddin Akbaruddin Tajul Natadiningrat
-               
+			   
 		}
 	}
 	moluccan = {
@@ -1155,7 +1155,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Leiwakabessy Mainaky Weisapy Bouma Palyama Pattinama Pelmelay Lilipaly Hafiedz
-               
+			   
 		}
 	}
 	thai = {
@@ -1165,7 +1165,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Suriyawongse Saovabha Chichalerm "Praya Siri" Nitithada Phonphayuhasena
-               
+			   
 		}
 	}
 	lao = {
@@ -1175,7 +1175,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Vong Kuman Söm Bun Supho Long Intharavong Anuvong
-               
+			   
 		}
 	}
 	shan = {
@@ -1185,7 +1185,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min
-               
+			   
 		}
 	}
 	burmese = {
@@ -1195,7 +1195,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Min Bagyidaw Bandula "Ne Myo" Myo Thura Dabayin
-               
+			   
 		}
 	}
 	asian_minor = {
@@ -1205,7 +1205,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Singh Prasad Ambedkar Khan Pandit Besant Sarabhai Gaidinliu Iyengar Baharjee Naidu
-               
+			   
 		}
 	}
 	kachin = {
@@ -1215,7 +1215,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Ratang Nawng Sin Lahpai Lahtaw Maran Marip Nhkum
-               
+			   
 		}
 	}
 	karen = {
@@ -1225,7 +1225,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Che Baw U Lawi Lasa Pyatin "Law Paw" Kyi Pun Nge Bye Kye
-               
+			   
 		}
 	}
 }

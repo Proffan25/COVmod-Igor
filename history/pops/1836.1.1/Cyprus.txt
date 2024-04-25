@@ -2,163 +2,163 @@
 #under the rule of Ottoman Empire in 1836
 #Nicosia (64000/16000 POPS)
 855 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 217
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 217
+	}
 
-    bureaucrats = {
-        culture = turkish
-        religion = sunni
-        size = 197
-    }
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 197
+	}
 
-    officers = {
-        culture = turkish
-        religion = sunni
-        size = 39
-    }
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 39
+	}
 
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 59
-    }
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 59
+	}
 
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 395
-    }
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 395
+	}
 
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 138
-    }
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 138
+	}
 
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 2271
-    }
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 2271
+	}
 
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 79
-    }
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 79
+	}
 
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 592
-    }
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 592
+	}
 
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 8808
-    }
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 8808
+	}
 }
 #Limassol (44000/11000 POPS)
 856 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 158
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 158
+	}
 
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 39
-    }
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 39
+	}
 
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 237
-    }
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 237
+	}
 
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 79
-    }
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 79
+	}
 
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 1066
-    }
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 1066
+	}
 
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 59
-    }
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 59
+	}
 
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 316
-    }
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 316
+	}
 
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 6734
-    }
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 6734
+	}
 }
 #Famagusta (44000/11000 POPS)
 857 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 158
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 158
+	}
 
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 39
-    }
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 39
+	}
 
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 118
-    }
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 118
+	}
 
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 79
-    }
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 79
+	}
 
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 1975
-    }
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 1975
+	}
 
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 59
-    }
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 59
+	}
 
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 316
-    }
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 316
+	}
 
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 5944
-    }
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 5944
+	}
 }

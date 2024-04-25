@@ -755,7 +755,7 @@ fertilizer_factory = {
 	pop_build_factory = yes
 }
 
-fort = {      
+fort = {	  
 	type = fort
 	cost = 400
 	goods_cost =
@@ -774,7 +774,7 @@ fort = {
 	fort_level = 1
 }
 
-naval_base = {    
+naval_base = {	
 	type = naval_base
 	cost = 5000
 	goods_cost =
@@ -794,11 +794,11 @@ naval_base = {
 	max_level = 6
 	colonial_points = { 30 50 70 90 95 100 } #points at levels 1-6
 	province = yes
-    one_per_state = yes
+	one_per_state = yes
 	colonial_range = 50
 	local_ship_build = -0.05
 }
-       
+	   
 railroad = {   
 	type = infrastructure
 	goods_cost =

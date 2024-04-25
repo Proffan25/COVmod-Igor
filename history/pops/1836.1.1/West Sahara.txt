@@ -5,61 +5,61 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-        size = 7
+		size = 7
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-        size = 11
+		size = 11
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-        size = 711
+		size = 711
 	}
 
 	aristocrats = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = berber
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-        size = 1422
+		size = 1422
 	}
 }
 #Dahkla (8000/2000 POPS)  
@@ -67,61 +67,61 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-        size = 7
+		size = 7
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-        size = 11
+		size = 11
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-        size = 711
+		size = 711
 	}
 
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 7
+		size = 7
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 11
+		size = 11
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 19
+		size = 19
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-        size = 711
+		size = 711
 	}
 
 }

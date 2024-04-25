@@ -5,183 +5,183 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 632
+		size = 632
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 335
+		size = 335
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 1580
+		size = 1580
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 5530
+		size = 5530
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 26682
+		size = 26682
 	}
 
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 237
+		size = 237
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 5095
+		size = 5095
 	}
 
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 98
+		size = 98
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 276
+		size = 276
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 5826
+		size = 5826
 	}
 }
-#Naryn (56000/14000 POPS) #now part of Kirghizstan    
+#Naryn (56000/14000 POPS) #now part of Kirghizstan	
 1190 = {
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 869
+		size = 869
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 2192
+		size = 2192
 	}
 
 	aristocrats = {
 		culture = turkic
 		religion = animist
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = turkic
 		religion = animist
-        size = 197
+		size = 197
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = animist
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = turkic
 		religion = animist
-        size = 3614
+		size = 3614
 	}
 
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 158
+		size = 158
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 39
+		size = 39
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 3634
+		size = 3634
 	}
 }
 #Mawarannahr Region (112000) #see turkichstan.txt, turkicistan.txt, turkicistan.txt for balance of region 
@@ -191,61 +191,61 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 59
+		size = 59
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 355
+		size = 355
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 79
+		size = 79
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 6478
+		size = 6478
 	}
 
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-        size = 296
+		size = 296
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-        size = 138
+		size = 138
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-        size = 711
+		size = 711
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-        size = 3160
+		size = 3160
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-        size = 10704
+		size = 10704
 	}
 
 }

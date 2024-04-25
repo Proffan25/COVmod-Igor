@@ -170,101 +170,101 @@ political_decisions = {
 		}
 	}
 
-    end_wallachia_independence = {
-        picture = map_wallachia
-        potential = {
-            tag = TUR
-            NOT = { exists = ROM }
-            exists = WAL
-            NOT = { has_country_flag = wallachia_annexed }
-        }
+	end_wallachia_independence = {
+		picture = map_wallachia
+		potential = {
+			tag = TUR
+			NOT = { exists = ROM }
+			exists = WAL
+			NOT = { has_country_flag = wallachia_annexed }
+		}
 
-        allow = {
-            war = no
-            nationalism_n_imperialism = 1
-            WAL = {
-                vassal_of = THIS
-                neighbour = THIS
-            }
-        }
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			WAL = {
+				vassal_of = THIS
+				neighbour = THIS
+			}
+		}
 
-        effect = {
-            set_country_flag = wallachia_annexed
-            badboy = 5
-            WAL = { annex_to = THIS }
-        }
+		effect = {
+			set_country_flag = wallachia_annexed
+			badboy = 5
+			WAL = { annex_to = THIS }
+		}
 
-        ai_will_do = {
-            factor = 1
-            modifier = {
-                factor = 0
-                badboy = 0.5
-            }
-        }
-    }
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.5
+			}
+		}
+	}
 
-    end_moldavia_independence = {
-        picture = map_moldavia
-        potential = {
-            tag = TUR
-            NOT = { exists = ROM }
-            exists = MOL
-            NOT = { has_country_flag = moldavia_annexed }
-        }
+	end_moldavia_independence = {
+		picture = map_moldavia
+		potential = {
+			tag = TUR
+			NOT = { exists = ROM }
+			exists = MOL
+			NOT = { has_country_flag = moldavia_annexed }
+		}
 
-        allow = {
-            war = no
-            nationalism_n_imperialism = 1
-            MOL = {
-                vassal_of = THIS
-                neighbour = THIS
-            }
-        }
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			MOL = {
+				vassal_of = THIS
+				neighbour = THIS
+			}
+		}
 
-        effect = {
-            set_country_flag = moldavia_annexed
-            badboy = 5
-            MOL = { annex_to = THIS }
-        }
+		effect = {
+			set_country_flag = moldavia_annexed
+			badboy = 5
+			MOL = { annex_to = THIS }
+		}
 
-        ai_will_do = {
-            factor = 1
-            modifier = {
-                factor = 0
-                badboy = 0.5
-            }
-        }
-    }
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.5
+			}
+		}
+	}
 
-    end_romania_independence = {
-        picture = create_romania
-        potential = {
-            tag = TUR
-            exists = ROM
-            NOT = { has_country_flag = romania_annexed }
-        }
+	end_romania_independence = {
+		picture = create_romania
+		potential = {
+			tag = TUR
+			exists = ROM
+			NOT = { has_country_flag = romania_annexed }
+		}
 
-        allow = {
-            war = no
-            nationalism_n_imperialism = 1
-            ROM = {
-                vassal_of = THIS
-                neighbour = THIS
-            }
-        }
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			ROM = {
+				vassal_of = THIS
+				neighbour = THIS
+			}
+		}
 
-        effect = {
-            set_country_flag = romania_annexed
-            badboy = 10
-            ROM = { annex_to = THIS }
-        }
+		effect = {
+			set_country_flag = romania_annexed
+			badboy = 10
+			ROM = { annex_to = THIS }
+		}
 
-        ai_will_do = {
-            factor = 1
-            modifier = {
-                factor = 0
-                badboy = 1
-            }
-        }
-    }
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 1
+			}
+		}
+	}
 }

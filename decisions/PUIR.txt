@@ -404,9 +404,9 @@ political_decisions = {
 		}
 		allow = {
 			owns = 860	# Istanbul
-			owns = 828      # Edirne
+			owns = 828	  # Edirne
 			owns = 805 	# Salonika
-			owns = 831      # Larisa
+			owns = 831	  # Larisa
 		}
 		effect = {
 			set_global_flag = constantinople_restored
@@ -838,7 +838,7 @@ political_decisions = {
 		}
 		allow = {
 			owns = 860	# Istanbul
-			owns = 828      # Edirne
+			owns = 828	  # Edirne
 		}
 		effect = {
 			set_global_flag = istabul_restored
@@ -1491,9 +1491,9 @@ political_decisions = {
 			owns = 1020 #Nizhni Novgorod
 			owns = 1033 #Simbirsk
 			owns = 1034 #Samara
-        		owns = 1039 #Tsaritsyn
-        		owns = 1058 #Ekaterinburg
-        		owns = 2637 #Novo Mariinsk
+				owns = 1039 #Tsaritsyn
+				owns = 1058 #Ekaterinburg
+				owns = 2637 #Novo Mariinsk
 		}
 		
 		effect = {
@@ -1542,9 +1542,9 @@ political_decisions = {
 			owns = 1020 #Nizhni Novgorod
 			owns = 1033 #Simbirsk
 			owns = 1034 #Samara
-        		owns = 1039 #Tsaritsyn
-        		owns = 1058 #Ekaterinburg
-        		owns = 2637 #Novo Mariinsk
+				owns = 1039 #Tsaritsyn
+				owns = 1058 #Ekaterinburg
+				owns = 2637 #Novo Mariinsk
 		}
 		
 		effect = {
@@ -1686,7 +1686,7 @@ political_decisions = {
 				target = CHI
 				attacker_goal = {
 					casus_belli = acquire_treaty_port
-			                state_province_id = 1496
+							state_province_id = 1496
 				}
 			}
 			CHI = {
@@ -2021,7 +2021,7 @@ political_decisions = {
 			}
 		}
 		allow = {
-		        2526 = {
+				2526 = {
 				empty = yes
 			}
 			OR = {

@@ -333,6 +333,6 @@ unit_names = {
 	steam_transport = { 
 	}
 	commerce_raider = {
-		"Björn Järnsida" "Erik Segersäll" "Gardarr Svavarsson" Birka Asgård Kraken Bäckahäst Storsjön Vänern Vättern     
+		"Björn Järnsida" "Erik Segersäll" "Gardarr Svavarsson" Birka Asgård Kraken Bäckahäst Storsjön Vänern Vättern	 
 	}
 }

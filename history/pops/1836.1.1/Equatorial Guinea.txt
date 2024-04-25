@@ -2,90 +2,90 @@
 #Ruled By Spain in 1836
 #Fernando Po (11000/2750 POPS)
 1955 = {
-    aristocrats = {
-        culture = spanish
-        religion = catholic
-        size = 2
-    }
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
 
-    bureaucrats = {
-        culture = spanish
-        religion = catholic
-        size = 7
-    }
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 7
+	}
 
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 3
-    }
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 3
+	}
 
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 3
-    }
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 3
+	}
 
-    soldiers = {
-        culture = spanish
-        religion = catholic
-        size = 3
-    }
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 3
+	}
 
-    artisans = {
-        culture = niger_congo_a
-        religion = catholic
-        size = 94
-    }
+	artisans = {
+		culture = niger_congo_a
+		religion = catholic
+		size = 94
+	}
 
-    soldiers = {
-        culture = niger_congo_a
-        religion = catholic
-        size = 39
-    }
+	soldiers = {
+		culture = niger_congo_a
+		religion = catholic
+		size = 39
+	}
 
-    farmers = {
-        culture = niger_congo_a
-        religion = catholic
-        size = 1208
-    }
+	farmers = {
+		culture = niger_congo_a
+		religion = catholic
+		size = 1208
+	}
 
-    slaves = {
-        culture = niger_congo_a
-        religion = animist
-        size = 869
-    }
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 869
+	}
 }
 #uncolonized in 1836
 #Bata (132000/33000 POPS)
 1973 = {
-    aristocrats = {
-        culture = bantu
-        religion = animist
-        size = 276
-    }
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 276
+	}
 
-    clergymen = {
-        culture = bantu
-        religion = animist
-        size = 237
-    }
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 237
+	}
 
-    artisans = {
-        culture = bantu
-        religion = animist
-        size = 1185
-    }
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 1185
+	}
 
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 276
-    }
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 276
+	}
 
-    farmers = {
-        culture = bantu
-        religion = animist
-        size = 24885
-    }
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 24885
+	}
 }

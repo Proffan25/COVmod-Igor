@@ -2,463 +2,463 @@
 #under the rule of Russia in 1836
 #Baku (76000/19000 POPS)
 1102 = {
-    bureaucrats = {
-        culture = russian
-        religion = orthodox
-        size = 158
-    }
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 158
+	}
 
-    clergymen = {
-        culture = russian
-        religion = orthodox
-        size = 3
-    }
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 3
+	}
 
-    artisans = {
-        culture = russian
-        religion = orthodox
-        size = 11
-    }
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 11
+	}
 
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 31
-    }
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 31
+	}
 
-    aristocrats = {
-        culture = azerbaijani
-        religion = sunni
-        size = 98
-    }
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 98
+	}
 
-    bureaucrats = {
-        culture = azerbaijani
-        religion = sunni
-        size = 59
-    }
+	bureaucrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 59
+	}
 
-    clergymen = {
-        culture = azerbaijani
-        religion = sunni
-        size = 39
-    }
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 39
+	}
 
-    artisans = {
-        culture = azerbaijani
-        religion = sunni
-        size = 237
-    }
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 237
+	}
 
-    soldiers = {
-        culture = azerbaijani
-        religion = sunni
-        size = 47
-    }
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 47
+	}
 
-    farmers = {
-        culture = azerbaijani
-        religion = sunni
-        size = 4226
-    }
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 4226
+	}
 
-    aristocrats = {
-        culture = azerbaijani
-        religion = shiite
-        size = 138
-    }
+	aristocrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 138
+	}
 
-    bureaucrats = {
-        culture = azerbaijani
-        religion = shiite
-        size = 19
-    }
+	bureaucrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 19
+	}
 
-    clergymen = {
-        culture = azerbaijani
-        religion = shiite
-        size = 86
-    }
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 86
+	}
 
-    artisans = {
-        culture = azerbaijani
-        religion = shiite
-        size = 474
-    }
+	artisans = {
+		culture = azerbaijani
+		religion = shiite
+		size = 474
+	}
 
-    soldiers = {
-        culture = azerbaijani
-        religion = shiite
-        size = 98
-    }
+	soldiers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 98
+	}
 
-    farmers = {
-        culture = azerbaijani
-        religion = shiite
-        size = 8678
-    }
+	farmers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 8678
+	}
 
-    clergymen = {
-        culture = armenian
-        religion = orthodox
-        size = 7
-    }
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 7
+	}
 
-    artisans = {
-        culture = armenian
-        religion = orthodox
-        size = 584
-    }
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 584
+	}
 
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 3
-    }
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	}
 
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 193
-    }
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 193
+	}
 }
 #Siyazen (56000/14000 POPS)
 1103 = {
-    aristocrats = {
-        culture = azerbaijani
-        religion = sunni
-        size = 39
-    }
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 39
+	}
 
-    clergymen = {
-        culture = azerbaijani
-        religion = sunni
-        size = 39
-    }
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 39
+	}
 
-    artisans = {
-        culture = azerbaijani
-        religion = sunni
-        size = 118
-    }
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 118
+	}
 
-    soldiers = {
-        culture = azerbaijani
-        religion = sunni
-        size = 19
-    }
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 19
+	}
 
-    farmers = {
-        culture = azerbaijani
-        religion = sunni
-        size = 2152
-    }
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 2152
+	}
 
-    aristocrats = {
-        culture = azerbaijani
-        religion = shiite
-        size = 98
-    }
+	aristocrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 98
+	}
 
-    clergymen = {
-        culture = azerbaijani
-        religion = shiite
-        size = 59
-    }
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 59
+	}
 
-    artisans = {
-        culture = azerbaijani
-        religion = shiite
-        size = 276
-    }
+	artisans = {
+		culture = azerbaijani
+		religion = shiite
+		size = 276
+	}
 
-    soldiers = {
-        culture = azerbaijani
-        religion = shiite
-        size = 59
-    }
+	soldiers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 59
+	}
 
-    farmers = {
-        culture = azerbaijani
-        religion = shiite
-        size = 5056
-    }
+	farmers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 5056
+	}
 
-    aristocrats = {
-        culture = north_caucasian
-        religion = sunni
-        size = 59
-    }
+	aristocrats = {
+		culture = north_caucasian
+		religion = sunni
+		size = 59
+	}
 
-    clergymen = {
-        culture = north_caucasian
-        religion = sunni
-        size = 59
-    }
+	clergymen = {
+		culture = north_caucasian
+		religion = sunni
+		size = 59
+	}
 
-    artisans = {
-        culture = north_caucasian
-        religion = sunni
-        size = 158
-    }
+	artisans = {
+		culture = north_caucasian
+		religion = sunni
+		size = 158
+	}
 
-    soldiers = {
-        culture = north_caucasian
-        religion = sunni
-        size = 39
-    }
+	soldiers = {
+		culture = north_caucasian
+		religion = sunni
+		size = 39
+	}
 
-    farmers = {
-        culture = north_caucasian
-        religion = sunni
-        size = 2844
-    }
+	farmers = {
+		culture = north_caucasian
+		religion = sunni
+		size = 2844
+	}
 }
 #Sheki (24000/6000 POPS)
 1104 = {
-    aristocrats = {
-        culture = azerbaijani
-        religion = sunni
-        size = 23
-    }
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 23
+	}
 
-    clergymen = {
-        culture = azerbaijani
-        religion = sunni
-        size = 35
-    }
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 35
+	}
 
-    artisans = {
-        culture = azerbaijani
-        religion = sunni
-        size = 79
-    }
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 79
+	}
 
-    soldiers = {
-        culture = azerbaijani
-        religion = sunni
-        size = 19
-    }
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 19
+	}
 
-    farmers = {
-        culture = azerbaijani
-        religion = sunni
-        size = 1422
-    }
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 1422
+	}
 
-    aristocrats = {
-        culture = georgian
-        religion = orthodox
-        size = 15
-    }
+	aristocrats = {
+		culture = georgian
+		religion = orthodox
+		size = 15
+	}
 
-    clergymen = {
-        culture = georgian
-        religion = orthodox
-        size = 15
-    }
+	clergymen = {
+		culture = georgian
+		religion = orthodox
+		size = 15
+	}
 
-    artisans = {
-        culture = georgian
-        religion = orthodox
-        size = 39
-    }
+	artisans = {
+		culture = georgian
+		religion = orthodox
+		size = 39
+	}
 
-    soldiers = {
-        culture = georgian
-        religion = orthodox
-        size = 7
-    }
+	soldiers = {
+		culture = georgian
+		religion = orthodox
+		size = 7
+	}
 
-    farmers = {
-        culture = georgian
-        religion = orthodox
-        size = 711
-    }
+	farmers = {
+		culture = georgian
+		religion = orthodox
+		size = 711
+	}
 
-    aristocrats = {
-        culture = north_caucasian
-        religion = sunni
-        size = 39
-    }
+	aristocrats = {
+		culture = north_caucasian
+		religion = sunni
+		size = 39
+	}
 
-    clergymen = {
-        culture = north_caucasian
-        religion = sunni
-        size = 39
-    }
+	clergymen = {
+		culture = north_caucasian
+		religion = sunni
+		size = 39
+	}
 
-    artisans = {
-        culture = north_caucasian
-        religion = sunni
-        size = 118
-    }
+	artisans = {
+		culture = north_caucasian
+		religion = sunni
+		size = 118
+	}
 
-    soldiers = {
-        culture = north_caucasian
-        religion = sunni
-        size = 39
-    }
+	soldiers = {
+		culture = north_caucasian
+		religion = sunni
+		size = 39
+	}
 
-    farmers = {
-        culture = north_caucasian
-        religion = sunni
-        size = 2054
-    }
+	farmers = {
+		culture = north_caucasian
+		religion = sunni
+		size = 2054
+	}
 }
 #Ganja (68000/17000 POPS)
 1105 = {
-    aristocrats = {
-        culture = azerbaijani
-        religion = shiite
-        size = 177
-    }
+	aristocrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 177
+	}
 
-    clergymen = {
-        culture = azerbaijani
-        religion = shiite
-        size = 59
-    }
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 59
+	}
 
-    artisans = {
-        culture = azerbaijani
-        religion = shiite
-        size = 395
-    }
+	artisans = {
+		culture = azerbaijani
+		religion = shiite
+		size = 395
+	}
 
-    soldiers = {
-        culture = azerbaijani
-        religion = shiite
-        size = 79
-    }
+	soldiers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 79
+	}
 
-    farmers = {
-        culture = azerbaijani
-        religion = shiite
-        size = 7189
-    }
+	farmers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 7189
+	}
 
-    aristocrats = {
-        culture = armenian
-        religion = orthodox
-        size = 59
-    }
+	aristocrats = {
+		culture = armenian
+		religion = orthodox
+		size = 59
+	}
 
-    clergymen = {
-        culture = armenian
-        religion = orthodox
-        size = 59
-    }
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 59
+	}
 
-    artisans = {
-        culture = armenian
-        religion = orthodox
-        size = 276
-    }
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 276
+	}
 
-    soldiers = {
-        culture = armenian
-        religion = orthodox
-        size = 59
-    }
+	soldiers = {
+		culture = armenian
+		religion = orthodox
+		size = 59
+	}
 
-    farmers = {
-        culture = armenian
-        religion = orthodox
-        size = 5075
-    }
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 5075
+	}
 }
 #Agdam (60000/15000 POPS)
 1106 = {
-    aristocrats = {
-        culture = azerbaijani
-        religion = sunni
-        size = 118
-    }
+	aristocrats = {
+		culture = azerbaijani
+		religion = sunni
+		size = 118
+	}
 
-    clergymen = {
-        culture = azerbaijani
-        religion = sunni
-        size = 59
-    }
+	clergymen = {
+		culture = azerbaijani
+		religion = sunni
+		size = 59
+	}
 
-    artisans = {
-        culture = azerbaijani
-        religion = sunni
-        size = 355
-    }
+	artisans = {
+		culture = azerbaijani
+		religion = sunni
+		size = 355
+	}
 
-    soldiers = {
-        culture = azerbaijani
-        religion = sunni
-        size = 79
-    }
+	soldiers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 79
+	}
 
-    farmers = {
-        culture = azerbaijani
-        religion = sunni
-        size = 6497
-    }
+	farmers = {
+		culture = azerbaijani
+		religion = sunni
+		size = 6497
+	}
 
-    aristocrats = {
-        culture = armenian
-        religion = orthodox
-        size = 79
-    }
+	aristocrats = {
+		culture = armenian
+		religion = orthodox
+		size = 79
+	}
 
-    clergymen = {
-        culture = armenian
-        religion = orthodox
-        size = 39
-    }
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 39
+	}
 
-    artisans = {
-        culture = armenian
-        religion = orthodox
-        size = 237
-    }
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 237
+	}
 
-    soldiers = {
-        culture = armenian
-        religion = orthodox
-        size = 59
-    }
+	soldiers = {
+		culture = armenian
+		religion = orthodox
+		size = 59
+	}
 
-    farmers = {
-        culture = armenian
-        religion = orthodox
-        size = 4325
-    }
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 4325
+	}
 }
 #Lankaran (56000/14000 POPS)
 1107 = {
-    aristocrats = {
-        culture = azerbaijani
-        religion = shiite
-        size = 177
-    }
+	aristocrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 177
+	}
 
-    clergymen = {
-        culture = azerbaijani
-        religion = shiite
-        size = 98
-    }
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 98
+	}
 
-    artisans = {
-        culture = azerbaijani
-        religion = shiite
-        size = 553
-    }
+	artisans = {
+		culture = azerbaijani
+		religion = shiite
+		size = 553
+	}
 
-    soldiers = {
-        culture = azerbaijani
-        religion = shiite
-        size = 118
-    }
+	soldiers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 118
+	}
 
-    farmers = {
-        culture = azerbaijani
-        religion = shiite
-        size = 10112
-    }
+	farmers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 10112
+	}
 }

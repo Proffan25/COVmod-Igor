@@ -404,7 +404,7 @@ unit_names = {
 	}
 	
 	ironclad = {
-                "New Ironsides" Dunderberg Cairo Carondelet Cincinnati Louisville "Mound City" Pittsburg "St. Louis" Eastport Essex Indianola Benton Chilicothe Choctaw Lafayette Tuscumbia Keokuk
+				"New Ironsides" Dunderberg Cairo Carondelet Cincinnati Louisville "Mound City" Pittsburg "St. Louis" Eastport Essex Indianola Benton Chilicothe Choctaw Lafayette Tuscumbia Keokuk
 	}
 	manowar = {
 		America Columbus Franklin Independence Washington Chipewa "New Orleans" Pennsylvania Delaware Vermont "New Hampshire" Virginia

@@ -5,9 +5,9 @@
 
 accelerated_vulcanization = {
 	limit = { 
-                organic_chemistry = 1
+				organic_chemistry = 1
 		year = 1900
-        }
+		}
 	chance = {
 		base = 2
 		modifier = {
@@ -35,8 +35,8 @@ accelerated_vulcanization = {
 
 silk_waste_spinning = {
 	limit = { 
-                mechanical_production = 1
-        }
+				mechanical_production = 1
+		}
 	chance = {
 		base = 5
 		modifier = {

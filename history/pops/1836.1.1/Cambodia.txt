@@ -2,286 +2,286 @@
 #under the rule of Cambodia in 1836
 #Phnom Penh (468000/117000 POPS)
 1364 = {
-    aristocrats = {
-        culture = khmer
-        religion = theravada
-        size = 1580
-    }
+	aristocrats = {
+		culture = khmer
+		religion = theravada
+		size = 1580
+	}
 
-    bureaucrats = {
-        culture = khmer
-        religion = theravada
-        size = 118
-    }
+	bureaucrats = {
+		culture = khmer
+		religion = theravada
+		size = 118
+	}
 
-    officers = {
-        culture = khmer
-        religion = theravada
-        size = 158
-    }
+	officers = {
+		culture = khmer
+		religion = theravada
+		size = 158
+	}
 
-    clergymen = {
-        culture = khmer
-        religion = theravada
-        size = 888
-    }
+	clergymen = {
+		culture = khmer
+		religion = theravada
+		size = 888
+	}
 
-    artisans = {
-        culture = khmer
-        religion = theravada
-        size = 4345
-    }
+	artisans = {
+		culture = khmer
+		religion = theravada
+		size = 4345
+	}
 
-    soldiers = {
-        culture = khmer
-        religion = theravada
-        size = 3160
-    }
+	soldiers = {
+		culture = khmer
+		religion = theravada
+		size = 3160
+	}
 
-    farmers = {
-        culture = khmer
-        religion = theravada
-        size = 77439
-    }
+	farmers = {
+		culture = khmer
+		religion = theravada
+		size = 77439
+	}
 
-    slaves = {
-        culture = khmer
-        religion = theravada
-        size = 1580
-    }
+	slaves = {
+		culture = khmer
+		religion = theravada
+		size = 1580
+	}
 
-    clergymen = {
-        culture = khmer
-        religion = mahayana
-        size = 59
-    }
+	clergymen = {
+		culture = khmer
+		religion = mahayana
+		size = 59
+	}
 
-    artisans = {
-        culture = khmer
-        religion = mahayana
-        size = 987
-    }
+	artisans = {
+		culture = khmer
+		religion = mahayana
+		size = 987
+	}
 
-    farmers = {
-        culture = khmer
-        religion = mahayana
-        size = 2113
-    }
+	farmers = {
+		culture = khmer
+		religion = mahayana
+		size = 2113
+	}
 }
 #Kampot (160000/40000 POPS)
 1367 = {
-    aristocrats = {
-        culture = khmer
-        religion = theravada
-        size = 572
-    }
+	aristocrats = {
+		culture = khmer
+		religion = theravada
+		size = 572
+	}
 
-    clergymen = {
-        culture = khmer
-        religion = theravada
-        size = 296
-    }
+	clergymen = {
+		culture = khmer
+		religion = theravada
+		size = 296
+	}
 
-    artisans = {
-        culture = khmer
-        religion = theravada
-        size = 1382
-    }
+	artisans = {
+		culture = khmer
+		religion = theravada
+		size = 1382
+	}
 
-    soldiers = {
-        culture = khmer
-        religion = theravada
-        size = 869
-    }
+	soldiers = {
+		culture = khmer
+		religion = theravada
+		size = 869
+	}
 
-    farmers = {
-        culture = khmer
-        religion = theravada
-        size = 26978
-    }
+	farmers = {
+		culture = khmer
+		religion = theravada
+		size = 26978
+	}
 
-    clergymen = {
-        culture = khmer
-        religion = mahayana
-        size = 19
-    }
+	clergymen = {
+		culture = khmer
+		religion = mahayana
+		size = 19
+	}
 
-    artisans = {
-        culture = khmer
-        religion = mahayana
-        size = 395
-    }
+	artisans = {
+		culture = khmer
+		religion = mahayana
+		size = 395
+	}
 
-    farmers = {
-        culture = khmer
-        religion = mahayana
-        size = 1165
-    }
+	farmers = {
+		culture = khmer
+		religion = mahayana
+		size = 1165
+	}
 }
 #Stongtreng (84000/21000 POPS)
 1368 = {
-    aristocrats = {
-        culture = khmer
-        religion = theravada
-        size = 237
-    }
+	aristocrats = {
+		culture = khmer
+		religion = theravada
+		size = 237
+	}
 
-    clergymen = {
-        culture = khmer
-        religion = theravada
-        size = 138
-    }
+	clergymen = {
+		culture = khmer
+		religion = theravada
+		size = 138
+	}
 
-    artisans = {
-        culture = khmer
-        religion = theravada
-        size = 711
-    }
+	artisans = {
+		culture = khmer
+		religion = theravada
+		size = 711
+	}
 
-    soldiers = {
-        culture = khmer
-        religion = theravada
-        size = 138
-    }
+	soldiers = {
+		culture = khmer
+		religion = theravada
+		size = 138
+	}
 
-    farmers = {
-        culture = khmer
-        religion = theravada
-        size = 12995
-    }
+	farmers = {
+		culture = khmer
+		religion = theravada
+		size = 12995
+	}
 
-    aristocrats = {
-        culture = khmer
-        religion = animist
-        size = 39
-    }
+	aristocrats = {
+		culture = khmer
+		religion = animist
+		size = 39
+	}
 
-    clergymen = {
-        culture = khmer
-        religion = animist
-        size = 39
-    }
+	clergymen = {
+		culture = khmer
+		religion = animist
+		size = 39
+	}
 
-    artisans = {
-        culture = khmer
-        religion = animist
-        size = 98
-    }
+	artisans = {
+		culture = khmer
+		religion = animist
+		size = 98
+	}
 
-    soldiers = {
-        culture = khmer
-        religion = animist
-        size = 19
-    }
+	soldiers = {
+		culture = khmer
+		religion = animist
+		size = 19
+	}
 
-    farmers = {
-        culture = khmer
-        religion = animist
-        size = 2172
-    }
+	farmers = {
+		culture = khmer
+		religion = animist
+		size = 2172
+	}
 }
 #under the rule of Siam in 1836
 #Battambang (152000/48000 POPS)
 1366 = {
-    aristocrats = {
-        culture = thai
-        religion = theravada
-        size = 19
-    }
+	aristocrats = {
+		culture = thai
+		religion = theravada
+		size = 19
+	}
 
-    bureaucrats = {
-        culture = thai
-        religion = theravada
-        size = 39
-    }
+	bureaucrats = {
+		culture = thai
+		religion = theravada
+		size = 39
+	}
 
-    officers = {
-        culture = thai
-        religion = theravada
-        size = 59
-    }
+	officers = {
+		culture = thai
+		religion = theravada
+		size = 59
+	}
 
-    clergymen = {
-        culture = thai
-        religion = theravada
-        size = 19
-    }
+	clergymen = {
+		culture = thai
+		religion = theravada
+		size = 19
+	}
 
-    artisans = {
-        culture = thai
-        religion = theravada
-        size = 39
-    }
+	artisans = {
+		culture = thai
+		religion = theravada
+		size = 39
+	}
 
-    soldiers = {
-        culture = thai
-        religion = theravada
-        size = 39
-    }
+	soldiers = {
+		culture = thai
+		religion = theravada
+		size = 39
+	}
 
-    farmers = {
-        culture = thai
-        religion = theravada
-        size = 572
-    }
+	farmers = {
+		culture = thai
+		religion = theravada
+		size = 572
+	}
 
-    aristocrats = {
-        culture = khmer
-        religion = theravada
-        size = 592
-    }
+	aristocrats = {
+		culture = khmer
+		religion = theravada
+		size = 592
+	}
 
-    clergymen = {
-        culture = khmer
-        religion = theravada
-        size = 316
-    }
+	clergymen = {
+		culture = khmer
+		religion = theravada
+		size = 316
+	}
 
-    artisans = {
-        culture = khmer
-        religion = theravada
-        size = 1580
-    }
+	artisans = {
+		culture = khmer
+		religion = theravada
+		size = 1580
+	}
 
-    soldiers = {
-        culture = khmer
-        religion = theravada
-        size = 335
-    }
+	soldiers = {
+		culture = khmer
+		religion = theravada
+		size = 335
+	}
 
-    farmers = {
-        culture = khmer
-        religion = theravada
-        size = 31145
-    }
+	farmers = {
+		culture = khmer
+		religion = theravada
+		size = 31145
+	}
 
-    slaves = {
-        culture = khmer
-        religion = theravada
-        size = 869
-    }
+	slaves = {
+		culture = khmer
+		religion = theravada
+		size = 869
+	}
 
-    clergymen = {
-        culture = thai
-        religion = mahayana
-        size = 39
-    }
+	clergymen = {
+		culture = thai
+		religion = mahayana
+		size = 39
+	}
 
-    artisans = {
-        culture = thai
-        religion = mahayana
-        size = 592
-    }
+	artisans = {
+		culture = thai
+		religion = mahayana
+		size = 592
+	}
 
-    soldiers = {
-        culture = thai
-        religion = mahayana
-        size = 39
-    }
+	soldiers = {
+		culture = thai
+		religion = mahayana
+		size = 39
+	}
 
-    farmers = {
-        culture = thai
-        religion = mahayana
-        size = 1698
-    }
+	farmers = {
+		culture = thai
+		religion = mahayana
+		size = 1698
+	}
 }

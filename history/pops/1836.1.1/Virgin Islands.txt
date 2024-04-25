@@ -5,43 +5,43 @@
 	aristocrats = {
 		culture = danish
 		religion = protestant
-        size = 158
+		size = 158
 	}
 
 	bureaucrats = {
 		culture = danish
 		religion = protestant
-        size = 19
+		size = 19
 	}
 
 	artisans = {
 		culture = danish
 		religion = protestant
-        size = 296
+		size = 296
 	}
 
 	farmers = {
 		culture = danish
 		religion = protestant
-        size = 316
+		size = 316
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = catholic
-        size = 118
+		size = 118
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = catholic
-        size = 2646
+		size = 2646
 	}
 
 	slaves = {
 		culture = afro_caribbean
 		religion = catholic
-        size = 5135
+		size = 5135
 	}
 
 }

@@ -93,8 +93,8 @@ govt_flag = {
 }
 
 govt_flag = {
-    government = absolute_monarchy
-    flag = presidential_dictatorship
+	government = absolute_monarchy
+	flag = presidential_dictatorship
 }
 
 schools = culture_tech_school

@@ -887,12 +887,12 @@ badboymod = {
 	global_immigrant_attract = -4.0
 	diplomatic_points_modifier = -1.0
 	org_regain = -0.2
-    land_organisation = -0.2
-    naval_organisation = -0.2
-    factory_throughput = -0.5
-    RGO_throughput = -0.5
-    prestige = -0.2
-    war_exhaustion = 2
+	land_organisation = -0.2
+	naval_organisation = -0.2
+	factory_throughput = -0.5
+	RGO_throughput = -0.5
+	prestige = -0.2
+	war_exhaustion = 2
 	icon = 17
 }
 
@@ -1133,7 +1133,7 @@ minoan_excavations = {
 #### No More War Reperations ####
 
 no_more_war_reperations = {
-    icon = 2
+	icon = 2
 }
 
 ### RGO Change ###
@@ -1158,13 +1158,13 @@ bureaucrats_fix_cooldown = {
 }
 
 migration_factor_reduced = {
-    icon = 14
+	icon = 14
 	immigrant_push = -100
 }
 
 timber_employment_fix = {
-    local_RGO_throughput = -0.95
-    icon = 14
+	local_RGO_throughput = -0.95
+	icon = 14
 }
 
 ### Dynamic Cores ###
