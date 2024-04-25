@@ -3,7 +3,7 @@ graphical_culture = ItalianGC
 
 party = {
 	name = "generic_conservative"
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
@@ -17,7 +17,7 @@ party = {
 
 party = {
 	name = "generic_reactionary"
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
@@ -31,7 +31,7 @@ party = {
 
 party = {
 	name = "generic_liberal"
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 2000.1.1
 
 	ideology = liberal
@@ -87,7 +87,7 @@ party = {
 
 party = {
 	name = "ITA_reactionary" #Monarchico
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 1891.1.1
 
 	ideology = reactionary
@@ -115,7 +115,7 @@ party = {
 
 party = {
 	name = "ITA_conservative" #Liberali Moderati
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 1851.1.1
 
 	ideology = conservative
@@ -129,7 +129,7 @@ party = {
 
 party = {
 	name = "ITA_liberal" #Liberali Radicali
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 1851.1.1
 
 	ideology = liberal
@@ -285,7 +285,7 @@ party = {
 
 party = {
 	name = "ITA_anarcho_liberal" #Partito d'Azione
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 1880.1.1
 
 	ideology = anarcho_liberal

@@ -4,7 +4,7 @@ graphical_culture = EuropeanGC
 #GENERIC PARTIES
 party = {
 	name = "generic_conservative"
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
@@ -18,7 +18,7 @@ party = {
 
 party = {
 	name = "generic_reactionary"
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
@@ -32,7 +32,7 @@ party = {
 
 party = {
 	name = "generic_liberal"
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 2000.1.1
 
 	ideology = liberal
@@ -89,7 +89,7 @@ party = {
 #NON GENERIC
 party = {
 	name = "GRE_conservative"
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 1875.1.1
 
 	ideology = conservative
@@ -103,7 +103,7 @@ party = {
 
 party = {
 	name = "GRE_reactionary"
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 1875.1.1
 
 	ideology = reactionary
@@ -117,7 +117,7 @@ party = {
 
 party = {
 	name = "GRE_liberal"
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 1875.1.1
 
 	ideology = liberal
@@ -159,7 +159,7 @@ party = {
 
 party = {
 	name = "GRE_anarcho_liberal"
-	start_date = 1830.1.1
+	start_date = 1815.1.1
 	end_date = 2000.1.1
 
 	ideology = anarcho_liberal
