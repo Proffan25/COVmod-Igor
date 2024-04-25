@@ -5,112 +5,112 @@
 	aristocrats = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	bureaucrats = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 40
+        size = 31
 	}
 
 	officers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 60
+        size = 47
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 400
+        size = 316
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 1800
+        size = 1422
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 400
+        size = 316
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 24800
+        size = 19592
 	}
 
 	aristocrats = {
 		culture = nilo_saharan
 		religion = animist
-		size = 400
+        size = 316
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = animist
-		size = 1200
+        size = 948
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = animist
-		size = 200
+        size = 158
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = animist
-		size = 22000
+        size = 17380
 	}
 
 	slaves = {
 		culture = nilo_saharan
 		religion = animist
-		size = 8000
+        size = 6320
 	}
 
 	aristocrats = {
 		culture = nilo_saharan
 		religion = animist
-		size = 300
+        size = 237
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = animist
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = animist
-		size = 200
+        size = 158
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = animist
-		size = 18300
+        size = 14457
 	}
 }
 #Moundou (48000/12000 POPS)
@@ -118,75 +118,75 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 50
+        size = 39
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 575
+        size = 454
 	}
 
 	aristocrats = {
 		culture = niger_congo_a
 		religion = animist
-		size = 125
+        size = 98
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = animist
-		size = 350
+        size = 276
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 75
+        size = 59
 
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 6375
+        size = 5036
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-		size = 2000
+        size = 1580
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-		size = 2000
+        size = 1580
 	}
 }
 #Bongor (36000/9000 POPS)
@@ -194,63 +194,63 @@
 	aristocrats = {
 		culture = nilo_saharan
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = animist
-		size = 25
+        size = 19
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = animist
-		size = 1800
+        size = 1422
 	}
 
 	aristocrats = {
 		culture = nilo_saharan
 		religion = animist
-		size = 125
+        size = 98
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = animist
-		size = 350
+        size = 276
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = animist
-		size = 75
+        size = 59
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = animist
-		size = 6375
+        size = 5036
 	}
 }
 #Wadai Region (488000)
@@ -260,81 +260,81 @@
 	aristocrats = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 350
+        size = 276
 	}
 
 	bureaucrats = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	officers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 200
+        size = 158
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 1250
+        size = 987
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 13000
+        size = 10270
 	}
 
 	aristocrats = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 600
+        size = 474
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 100
+        size = 79
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 9000
+        size = 7110
 	}
 
 	slaves = {
 		culture = nilo_saharan
 		religion = animist
-		size = 8000
+        size = 6320
 	}
 }
 #Am Timan (168000/42000 POPS)
@@ -342,69 +342,69 @@
 	aristocrats = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 550
+        size = 434
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 1200
+        size = 948
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 300
+        size = 237
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 21650
+        size = 17103
 	}
 
 	slaves = {
 		culture = nilo_saharan
 		religion = animist
-		size = 10000
+        size = 7900
 	}
 
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 350
+        size = 276
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 100
+        size = 79
 
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 7300
+        size = 5767
 	}
 }
 #Mongo (184000/46000 POPS)
@@ -412,100 +412,100 @@
 	aristocrats = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 700
+        size = 553
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 350
+        size = 276
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 1450
+        size = 1145
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 1000
+        size = 790
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 26500
+        size = 20935
 	}
 
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 50
+        size = 39
 
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 5400
+        size = 4266
 	}
 
 	aristocrats = {
 		culture = nilo_saharan
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = animist
-		size = 50
+        size = 39
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = animist
-		size = 3600
+        size = 2844
 	}
 
 	slaves = {
 		culture = nilo_saharan
 		religion = animist
-		size = 6000
+        size = 4740
 	}
 }
 #Kanem Region (288000)
@@ -515,112 +515,112 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 2600
+        size = 2054
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 1300
+        size = 1027
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 5300
+        size = 4187
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 1400
+        size = 1106
 
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 93400
+        size = 73786
 	}
 
 	aristocrats = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 200
+        size = 158
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 400
+        size = 316
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 100
+        size = 79
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 7200
+        size = 5688
 	}
 
 	aristocrats = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 900
+        size = 711
 	}
 
 	bureaucrats = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	officers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 200
+        size = 158
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 2400
+        size = 1896
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 500
+        size = 395
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 23400
+        size = 18486
 	}
 
 	slaves = {
 		culture = nilo_saharan
 		religion = animist
-		size = 48000
+        size = 37920
 	}
 }
 #Zouar (72000/18000 POPS)
@@ -628,63 +628,63 @@
 	aristocrats = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 800
+        size = 632
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 175
+        size = 138
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 14575
+        size = 11514
 	}
 
 	aristocrats = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 25
+        size = 19
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 1800
+        size = 1422
 	}
 }
 #under the rule of Wadai in 1836
@@ -693,32 +693,32 @@
 	aristocrats = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	artisans = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 700
+        size = 553
 	}
 
 	soldiers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 150
+        size = 118
 
 	}
 
 	farmers = {
 		culture = nilo_saharan
 		religion = sunni
-		size = 12750
+        size = 10072
 	}
 
 }

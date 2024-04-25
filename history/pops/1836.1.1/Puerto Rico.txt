@@ -5,91 +5,91 @@
 	aristocrats = {
 		culture = spanish
 		religion = catholic
-		size = 250
+        size = 197
 	}
 
 	bureaucrats = {
 		culture = spanish
 		religion = catholic
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = spanish
 		religion = catholic
-		size = 300
+        size = 237
 	}
 
 	artisans = {
 		culture = spanish
 		religion = catholic
-		size = 800
+        size = 632
 	}
 
 	soldiers = {
 		culture = spanish
 		religion = catholic
-		size = 50
+        size = 39
 	}
 
 	aristocrats = {
 		culture = caribeno
 		religion = catholic
-		size = 1100
+        size = 869
 	}
 
 	bureaucrats = {
 		culture = caribeno
 		religion = catholic
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-		size = 200
+        size = 158
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-		size = 450
+        size = 355
 	}
 
 	farmers = {
 		culture = caribeno
 		religion = catholic
-		size = 40850
+        size = 32271
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 400
+        size = 316
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 30600
+        size = 24174
 	}
 
 	slaves = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 10000
+        size = 7900
 	}
 
 }

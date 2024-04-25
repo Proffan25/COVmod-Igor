@@ -4,61 +4,61 @@
 	aristocrats = {
 		culture = british
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 1750
+        size = 1382
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 1100
+        size = 869
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 2750
+        size = 2172
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 18925
+        size = 14950
 	}
 }
 #Saint Lucia (18000/4500 POPS) #now independent
@@ -66,49 +66,49 @@
 	aristocrats = {
 		culture = british
 		religion = protestant
-		size = 10
+        size = 7
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 10
+        size = 7
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 130
+        size = 102
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 100
+        size = 79
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 4050
+        size = 3199
 	}
 }
 #Dominica (19000/4750 POPS) #now independent
@@ -116,49 +116,49 @@
 	aristocrats = {
 		culture = british
 		religion = protestant
-		size = 10
+        size = 7
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 10
+        size = 7
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 130
+        size = 102
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 150
+        size = 118
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 4250
+        size = 3357
 	}
 }
 #Grenada (30000/7500 POPS) #now independent
@@ -166,55 +166,55 @@
 	aristocrats = {
 		culture = british
 		religion = protestant
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 20
+        size = 15
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 250
+        size = 197
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 5
+        size = 3
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 200
+        size = 158
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 150
+        size = 118
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 6725
+        size = 5312
 	}
 }
 #Saint Vincent (21000/5250 POPS) #now independent
@@ -222,49 +222,49 @@
 	aristocrats = {
 		culture = british
 		religion = protestant
-		size = 10
+        size = 7
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 10
+        size = 7
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 130
+        size = 102
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 200
+        size = 158
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 4700
+        size = 3713
 	}
 
 }

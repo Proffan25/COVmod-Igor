@@ -5,85 +5,85 @@
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 20
+        size = 15
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 130
+        size = 102
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 25
+        size = 19
 	}
 
 	aristocrats = {
 		culture = french
 		religion = catholic
-		size = 50
+        size = 39
 	}
 
 	bureaucrats = {
 		culture = french
 		religion = catholic
-		size = 30
+        size = 23
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 180
+        size = 142
 	}
 
 	clergymen = {
 		culture = french
 		religion = catholic
-		size = 20
+        size = 15
 	}
 
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 20
+        size = 15
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 200
+        size = 158
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = protestant
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = protestant
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = protestant
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = catholic
-		size = 22375
+        size = 17676
 	}
 }
 #Diego Garcia (700/175 POPS) #remains under British Rule
@@ -91,7 +91,7 @@
 	farmers = {
 		culture = malagasy
 		religion = catholic
-		size = 175
+        size = 138
 	}
 
 }

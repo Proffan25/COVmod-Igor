@@ -6,61 +6,61 @@
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sikh
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sikh
-		size = 150
+        size = 118
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 300
+        size = 237
 	}
 
 	aristocrats = {
 		culture = aryan
 		religion = sunni
-		size = 1200
+        size = 948
 	}
 
 	bureaucrats = {
 		culture = aryan
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = aryan
 		religion = sunni
-		size = 1200
+        size = 948
 	}
 
 	artisans = {
 		culture = aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = aryan
 		religion = sunni
-		size = 4500
+        size = 3555
 	}
 
 	soldiers = {
 		culture = aryan
 		religion = sunni
-		size = 4000
+        size = 3160
 	}
 
 	farmers = {
 		culture = aryan
 		religion = sunni
-		size = 108250
+        size = 85517
 	}
 }
 #Chitral (160000/40000 POPS)
@@ -68,31 +68,31 @@
 	aristocrats = {
 		culture = aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	artisans = {
 		culture = aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = aryan
 		religion = sunni
-		size = 41000
+        size = 32390
 	}
 
 }
@@ -102,31 +102,31 @@
 	aristocrats = {
 		culture = aryan
 		religion = sunni
-		size = 350
+        size = 276
 	}
 
 	clergymen = {
 		culture = aryan
 		religion = sunni
-		size = 325
+        size = 256
 	}
 
 	artisans = {
 		culture = aryan
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = aryan
 		religion = sunni
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = aryan
 		religion = sunni
-		size = 20325
+        size = 16056
 	}
 }
 #Dalbandin (88000/22000 POPS)
@@ -134,31 +134,31 @@
 	aristocrats = {
 		culture = aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = aryan
 		religion = sunni
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = aryan
 		religion = sunni
-		size = 13500
+        size = 10665
 	}
 }
 #Kalat (104000/26000 POPS)
@@ -166,43 +166,43 @@
 	aristocrats = {
 		culture = aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	bureaucrats = {
 		culture = aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	officers = {
 		culture = aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = aryan
 		religion = sunni
-		size = 1250
+        size = 987
 	}
 
 	soldiers = {
 		culture = aryan
 		religion = sunni
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = aryan
 		religion = sunni
-		size = 16925
+        size = 13370
 	}
 }
 #Under the Rule of Makran 1836
@@ -211,43 +211,43 @@
 	aristocrats = {
 		culture = aryan
 		religion = sunni
-		size = 350
+        size = 276
 	}
 
 	bureaucrats = {
 		culture = aryan
 		religion = sunni
-		size = 25
+        size = 19
 	}
 
 	officers = {
 		culture = aryan
 		religion = sunni
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = aryan
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	artisans = {
 		culture = aryan
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	soldiers = {
 		culture = aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = aryan
 		religion = sunni
-		size = 27800
+        size = 21962
 	}
 }
 #Kashmir Region (1208000)
@@ -257,115 +257,115 @@
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sikh
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sikh
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sikh
-		size = 1500
+        size = 1185
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 3250
+        size = 2567
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 350
+        size = 276
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 325
+        size = 256
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 325
+        size = 256
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 29975
+        size = 23680
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1600
+        size = 1264
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 9000
+        size = 7110
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 114825
+        size = 90711
 	}
 }
 #Gilgit (264000/66000 POPS)
@@ -373,91 +373,91 @@
 	aristocrats = {
 		culture = aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	soldiers = {
 		culture = aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = aryan
 		religion = sunni
-		size = 4600
+        size = 3634
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 450
+        size = 355
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 425
+        size = 335
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 400
+        size = 316
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 36725
+        size = 29012
 	}
 
 	aristocrats = {
 		culture = tibetan
 		religion = mahayana
-		size = 200
+        size = 158
 	}
 
 	clergymen = {
 		culture = tibetan
 		religion = mahayana
-		size = 225
+        size = 177
 	}
 
 	artisans = {
 		culture = tibetan
 		religion = mahayana
-		size = 800
+        size = 632
 	}
 
 	soldiers = {
 		culture = tibetan
 		religion = mahayana
-		size = 200
+        size = 158
 	}
 
 	farmers = {
 		culture = tibetan
 		religion = mahayana
-		size = 19575
+        size = 15464
 	}
 }
 #Leh (196000/49000 POPS)
@@ -465,61 +465,61 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 350
+        size = 276
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 6425
+        size = 5075
 	}
 
 	aristocrats = {
 		culture = tibetan
 		religion = mahayana
-		size = 400
+        size = 316
 	}
 
 	clergymen = {
 		culture = tibetan
 		religion = mahayana
-		size = 425
+        size = 335
 	}
 
 	artisans = {
 		culture = tibetan
 		religion = mahayana
-		size = 2100
+        size = 1659
 	}
 
 	soldiers = {
 		culture = tibetan
 		religion = mahayana
-		size = 400
+        size = 316
 	}
 
 	farmers = {
 		culture = tibetan
 		religion = mahayana
-		size = 38675
+        size = 30553
 	}
 
 }
@@ -530,121 +530,121 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sikh
-		size = 2500
+        size = 1975
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sikh
-		size = 1400
+        size = 1106
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 2000
+        size = 1580
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sikh
-		size = 1150
+        size = 908
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sikh
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sikh
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 3000
+        size = 2370
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 88950
+        size = 70270
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 800
+        size = 632
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 550
+        size = 434
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1050
+        size = 829
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 88600
+        size = 69994
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 900
+        size = 711
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4500
+        size = 3555
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 5000
+        size = 3950
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 420600
+        size = 332274
 	}
 }
 #Multan (656000/164000 POPS)
@@ -652,91 +652,91 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sikh
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sikh
-		size = 100
+        size = 79
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sikh
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 200
+        size = 158
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 6600
+        size = 5214
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 124500
+        size = 98355
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 200
+        size = 158
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 150
+        size = 118
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 16500
+        size = 13035
 	}
 }
 #Sialkot (548000/137000 POPS)
@@ -744,61 +744,61 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1300
+        size = 1027
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1300
+        size = 1027
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 6000
+        size = 4740
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 115400
+        size = 91166
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 100
+        size = 79
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 8700
+        size = 6873
 	}
 }
 #Attock (344000/87000 POPS)
@@ -806,91 +806,91 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2500
+        size = 1975
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 47000
+        size = 37130
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sikh
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sikh
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sikh
-		size = 500
+        size = 395
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 150
+        size = 118
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 8250
+        size = 6517
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 275
+        size = 217
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 26225
+        size = 20717
 	}
 }
 #Bahawalpur (352000/88000 POPS)
@@ -898,61 +898,61 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 700
+        size = 553
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3500
+        size = 2765
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 73050
+        size = 57709
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 150
+        size = 118
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 16575
+        size = 13094
 	}
 }
 #Shahpur (1132000/283000 POPS)
@@ -960,97 +960,97 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sikh
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sikh
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sikh
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 4850
+        size = 3831
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2500
+        size = 1975
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2500
+        size = 1975
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2500
+        size = 1975
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 228500
+        size = 180515
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 300
+        size = 237
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 26700
+        size = 21093
 	}
 }
 #Amritsar (2228000/557000 POPS)
@@ -1058,103 +1058,103 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sikh
-		size = 1100
+        size = 869
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sikh
-		size = 800
+        size = 632
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sikh
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sikh
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 64200
+        size = 50718
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2500
+        size = 1975
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 290500
+        size = 229495
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1250
+        size = 987
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 153750
+        size = 121462
 	}
 }
 #Firuzapur (952000/238000 POPS)
@@ -1162,121 +1162,121 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sikh
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sikh
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sikh
-		size = 1500
+        size = 1185
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 21000
+        size = 16590
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 800
+        size = 632
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4000
+        size = 3160
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75450
+        size = 59605
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 600
+        size = 474
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 650
+        size = 513
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 600
+        size = 474
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 60150
+        size = 47518
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 650
+        size = 513
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 650
+        size = 513
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 650
+        size = 513
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 57950
+        size = 45780
 	}
 }
 #Under Rule of Britain 1836
@@ -1285,121 +1285,121 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3775
+        size = 2982
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 600
+        size = 474
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 625
+        size = 493
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2400
+        size = 1896
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 750
+        size = 592
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 53625
+        size = 42363
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 750
+        size = 592
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3500
+        size = 2765
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 70750
+        size = 55892
 	}
 
 	aristocrats = {
 		culture = british
 		religion = protestant
-		size = 200
+        size = 158
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 100
+        size = 79
 	}
 
 	officers = {
 		culture = british
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 100
+        size = 79
 	}
 
 }
@@ -1410,121 +1410,121 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1750
+        size = 1382
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1125
+        size = 888
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 88125
+        size = 69618
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2500
+        size = 1975
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3500
+        size = 2765
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2500
+        size = 1975
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2500
+        size = 1975
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 189000
+        size = 149310
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sikh
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sikh
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sikh
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 15250
+        size = 12047
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 75
+        size = 59
 	}
 }
 #Panipat (1280000/320000 POPS)
@@ -1532,91 +1532,91 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 625
+        size = 493
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 57625
+        size = 45523
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sikh
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sikh
-		size = 375
+        size = 296
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sikh
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sikh
-		size = 29875
+        size = 23601
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2250
+        size = 1777
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 206250
+        size = 162937
 	}
 }
 #Dehra Dun (952000/238000 POPS)
@@ -1624,91 +1624,91 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 16250
+        size = 12837
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1250
+        size = 987
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1750
+        size = 1382
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1750
+        size = 1382
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 157250
+        size = 124227
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 500
+        size = 395
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 45000
+        size = 35550
 	}
 }
 #Meerut (1580000/395000 POPS)
@@ -1716,67 +1716,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 375
+        size = 296
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4000
+        size = 3160
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 24375
+        size = 19256
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3500
+        size = 2765
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3500
+        size = 2765
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 338000
+        size = 267020
 	}
 }
 #Agra (4180000/1045000 POPS)
@@ -1784,85 +1784,85 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 85500
+        size = 67545
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7500
+        size = 5925
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 11250
+        size = 8887
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 875250
+        size = 691447
 	}
 }
 #Kanpur (3720000/930000 POPS)
@@ -1870,79 +1870,79 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7500
+        size = 5925
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 8750
+        size = 6912
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 8000
+        size = 6320
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 736750
+        size = 582032
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1750
+        size = 1382
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1375
+        size = 1086
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 9000
+        size = 7110
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 118375
+        size = 93516
 	}
 }
 #Allahabad (3008000/752000 POPS)
@@ -1950,79 +1950,79 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6500
+        size = 5135
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 602500
+        size = 475975
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1250
+        size = 987
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1250
+        size = 987
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 88500
+        size = 69915
 	}
 }
 #Benares (2512000/628000 POPS)
@@ -2030,73 +2030,73 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 60000
+        size = 47400
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6500
+        size = 5135
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6250
+        size = 4937
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 507250
+        size = 400727
 	}
 }
 #Gorakhpur (2476000/619000 POPS)
@@ -2104,73 +2104,73 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 375
+        size = 296
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 6000
+        size = 4740
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 41625
+        size = 32883
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6500
+        size = 5135
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6250
+        size = 4937
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 526250
+        size = 415737
 	}
 }
 #Ruled by Awadh in 1836 (4820000)
@@ -2179,151 +2179,151 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1250
+        size = 987
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1125
+        size = 888
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 56125
+        size = 44338
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = shiite
-		size = 750
+        size = 592
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = shiite
-		size = 700
+        size = 553
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = shiite
-		size = 750
+        size = 592
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = shiite
-		size = 275
+        size = 217
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = shiite
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = shiite
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = shiite
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = shiite
-		size = 5525
+        size = 4364
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4500
+        size = 3555
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5500
+        size = 4345
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 528500
+        size = 417515
 	}
 }
 #Fyzabad (2064000/516000 POPS)
@@ -2331,67 +2331,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4500
+        size = 3555
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 454500
+        size = 359055
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 700
+        size = 553
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 400
+        size = 316
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 21400
+        size = 16906
 	}
 
 }
@@ -2402,97 +2402,97 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 8000
+        size = 6320
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6500
+        size = 5135
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2250
+        size = 1777
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6500
+        size = 5135
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 585750
+        size = 462742
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1250
+        size = 987
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 7000
+        size = 5530
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1250
+        size = 987
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 103750
+        size = 81962
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 50
+        size = 39
 	}
 }
 #Gaya (3056000/764000 POPS)
@@ -2500,79 +2500,79 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6500
+        size = 5135
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3500
+        size = 2765
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6500
+        size = 5135
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 644500
+        size = 509155
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3500
+        size = 2765
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 61500
+        size = 48585
 	}
 }
 #Kharswari (2740000/685000 POPS)
@@ -2580,79 +2580,79 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7500
+        size = 5925
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 609500
+        size = 481505
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 73500
+        size = 58065
 	}
 }
 #Bhagalpur (1900000/475000 POPS)
@@ -2660,73 +2660,73 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4250
+        size = 3357
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4500
+        size = 3555
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 385250
+        size = 304347
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 625
+        size = 493
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50375
+        size = 39796
 	}
 
 }
@@ -2737,175 +2737,175 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 12500
+        size = 9875
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6500
+        size = 5135
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 12500
+        size = 9875
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 15000
+        size = 11850
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 966500
+        size = 763535
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 63250
+        size = 49967
 	}
 
 	aristocrats = {
 		culture = british
 		religion = protestant
-		size = 550
+        size = 434
 	}
 
 	officers = {
 		culture = british
 		religion = protestant
-		size = 400
+        size = 316
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 500
+        size = 395
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 2000
+        size = 1580
 	}
 }
 #Darjeeling (3248000/812000 POPS)
@@ -2913,79 +2913,79 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6250
+        size = 4937
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 500
+        size = 395
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 565250
+        size = 446547
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 9500
+        size = 7505
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 182500
+        size = 144175
 	}
 }
 #Bardwan (4456000/1114000 POPS)
@@ -2993,85 +2993,85 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10125
+        size = 7998
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 939875
+        size = 742501
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4750
+        size = 3752
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 86500
+        size = 68335
 	}
 }
 #Dacca (5276000/1319000 POPS)
@@ -3079,91 +3079,91 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 8000
+        size = 6320
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 7000
+        size = 5530
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 688000
+        size = 543520
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 533000
+        size = 421070
 	}
 }
 #Rajshahi (2332000/583000 POPS)
@@ -3171,67 +3171,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1750
+        size = 1382
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3750
+        size = 2962
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3750
+        size = 2962
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 353750
+        size = 279462
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 181500
+        size = 143385
 	}
 }
 #Jessore (2372000/593000 POPS)
@@ -3239,67 +3239,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3750
+        size = 2962
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 8750
+        size = 6912
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3750
+        size = 2962
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 347250
+        size = 274327
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2250
+        size = 1777
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2250
+        size = 1777
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 201500
+        size = 159185
 	}
 }
 #Chittagong (5884000/1471000 POPS)
@@ -3307,127 +3307,127 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 8000
+        size = 6320
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 8500
+        size = 6715
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 8500
+        size = 6715
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 789000
+        size = 623310
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 9000
+        size = 7110
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 545000
+        size = 430550
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 500
+        size = 395
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 20750
+        size = 16392
 	}
 }
 #Andaman Islands (14000/3500 POPS)
@@ -3435,19 +3435,19 @@
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 3400
+        size = 2686
 	}
 
 }
@@ -3458,97 +3458,97 @@
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 25
+        size = 19
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 145500
+        size = 114945
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2500
+        size = 1975
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 45750
+        size = 36142
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 500
+        size = 395
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 500
+        size = 395
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 2500
+        size = 1975
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 53500
+        size = 42265
 	}
 }
 #Imphal (616000/154000 POPS)
@@ -3556,85 +3556,85 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4750
+        size = 3752
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 88250
+        size = 69717
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 375
+        size = 296
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 28125
+        size = 22218
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 1250
+        size = 987
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 25000
+        size = 19750
 	}
 }
 #Dibrugarh (392000/98000 POPS)
@@ -3642,55 +3642,55 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 750
+        size = 592
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4500
+        size = 3555
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 79750
+        size = 63002
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 500
+        size = 395
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 9425
+        size = 7445
 	}
 }
 #Agartala (608000/152000 POPS)
@@ -3698,55 +3698,55 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = animist
-		size = 1100
+        size = 869
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 875
+        size = 691
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 89125
+        size = 70408
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 625
+        size = 493
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2750
+        size = 2172
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 51125
+        size = 40388
 	}
 
 }
@@ -3757,55 +3757,55 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2250
+        size = 1777
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 215500
+        size = 170245
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 25
+        size = 19
 	}
 }
 #Ruled by Native Rulers 1836 (644000)
@@ -3814,79 +3814,79 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 900
+        size = 711
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 850
+        size = 671
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 75150
+        size = 59368
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = animist
-		size = 225
+        size = 177
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 19325
+        size = 15266
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2925
+        size = 2310
 	}
 }
 #Sambalpur (208000/52000 POPS)
@@ -3894,67 +3894,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 300
+        size = 237
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 300
+        size = 237
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1450
+        size = 1145
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 25900
+        size = 20461
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 225
+        size = 177
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 1050
+        size = 829
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 21225
+        size = 16767
 	}
 
 }
@@ -3965,73 +3965,73 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 500
+        size = 395
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 29450
+        size = 23265
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 8325
+        size = 6576
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 10
+        size = 7
 	}
 }
 #Under rule of Jaisalmer 1836  
@@ -4040,67 +4040,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 125
+        size = 98
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1050
+        size = 829
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 95525
+        size = 75464
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2500
+        size = 1975
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 5325
+        size = 4206
 	}
 }
 #Under rule of Jodhpur 1836  
@@ -4109,85 +4109,85 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3200
+        size = 2528
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 350
+        size = 276
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 350
+        size = 276
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3050
+        size = 2409
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 265050
+        size = 209389
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4200
+        size = 3318
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2500
+        size = 1975
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 200
+        size = 158
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 7100
+        size = 5609
 	}
 }
 #Under rule of Bikaner 1836  
@@ -4196,67 +4196,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2600
+        size = 2054
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 275
+        size = 217
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2750
+        size = 2172
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 8500
+        size = 6715
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 16000
+        size = 12640
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 227625
+        size = 179823
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2825
+        size = 2231
 	}
 }
 #Under rule of Jaipur 1836  
@@ -4265,85 +4265,85 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3600
+        size = 2844
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 450
+        size = 355
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 450
+        size = 355
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3500
+        size = 2765
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 320000
+        size = 252800
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 5050
+        size = 3989
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 600
+        size = 474
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 59050
+        size = 46649
 	}
 }
 #Under rule of Mewar 1836  
@@ -4352,73 +4352,73 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3400
+        size = 2686
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 350
+        size = 276
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 350
+        size = 276
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3300
+        size = 2607
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 303600
+        size = 239844
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 900
+        size = 711
 	}
 
 }
@@ -4429,67 +4429,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 250
+        size = 197
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 300
+        size = 237
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4375
+        size = 3456
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 9000
+        size = 7110
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 257075
+        size = 203089
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 6000
+        size = 4740
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 200
+        size = 158
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 8650
+        size = 6833
 	}
 }
 #Under rule of Indore 1836
@@ -4498,67 +4498,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2600
+        size = 2054
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 250
+        size = 197
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 9000
+        size = 7110
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 233400
+        size = 184386
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4000
+        size = 3160
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2875
+        size = 2271
 	}
 }
 #Under rule of Bhopal 1836
@@ -4567,67 +4567,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 200
+        size = 158
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 200
+        size = 158
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7500
+        size = 5925
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 181100
+        size = 143069
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2500
+        size = 1975
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 400
+        size = 316
 	}
 }
 #Under Native Rule 1836
@@ -4636,85 +4636,85 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4500
+        size = 3555
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 84350
+        size = 66636
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = animist
-		size = 700
+        size = 553
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 750
+        size = 592
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 1500
+        size = 1185
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 650
+        size = 513
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 59600
+        size = 47084
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 950
+        size = 750
 	}
 }
 #Rewah (748000/187000 POPS)
@@ -4722,85 +4722,85 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1400
+        size = 1106
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 200
+        size = 158
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1300
+        size = 1027
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4500
+        size = 3555
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 117600
+        size = 92904
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4000
+        size = 3160
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1925
+        size = 1520
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = animist
-		size = 600
+        size = 474
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 5050
+        size = 3989
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 550
+        size = 434
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 53700
+        size = 42423
 	}
 
 }
@@ -4810,91 +4810,91 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7500
+        size = 5925
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 850
+        size = 671
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6500
+        size = 5135
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7500
+        size = 5925
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 668650
+        size = 528233
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 25950
+        size = 20500
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 25
+        size = 19
 	}
 }
 #Hoshangabad (596000/149000 POPS)
@@ -4902,55 +4902,55 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7500
+        size = 5925
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 125000
+        size = 98750
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 600
+        size = 474
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 11200
+        size = 8848
 	}
 }
 #Nagpur Region (5028000)
@@ -4960,103 +4960,103 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3750
+        size = 2962
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1150
+        size = 908
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 750
+        size = 592
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3750
+        size = 2962
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3750
+        size = 2962
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 337850
+        size = 266901
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 350
+        size = 276
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4000
+        size = 3160
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 350
+        size = 276
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 28300
+        size = 22357
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = animist
-		size = 650
+        size = 513
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 600
+        size = 474
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 650
+        size = 513
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 57100
+        size = 45109
 	}
 }
 #Raipur (804000/201000 POPS)
@@ -5064,61 +5064,61 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 850
+        size = 671
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 800
+        size = 632
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 800
+        size = 632
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 70550
+        size = 55734
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = animist
-		size = 1250
+        size = 987
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 1225
+        size = 967
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 3050
+        size = 2409
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 1250
+        size = 987
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 114225
+        size = 90237
 	}
 }
 #Bilsapur (672000/168000 POPS)
@@ -5126,61 +5126,61 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 850
+        size = 671
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 850
+        size = 671
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 74300
+        size = 58697
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = animist
-		size = 850
+        size = 671
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 850
+        size = 671
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 3400
+        size = 2686
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 850
+        size = 671
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 80050
+        size = 63239
 	}
 }
 #Under rule of Hyderabad 1836
@@ -5189,55 +5189,55 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7500
+        size = 5925
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 280500
+        size = 221595
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 200
+        size = 158
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 11500
+        size = 9085
 	}
 }
 #Under Rule of Bastar 1836
@@ -5246,91 +5246,91 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 750
+        size = 592
 	}
 
 	officers = {
 		culture = dravidian
 		religion = hindu
-		size = 100
+        size = 79
 	}
 
 	bureaucrats = {
 		culture = dravidian
 		religion = hindu
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 650
+        size = 513
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 59400
+        size = 46926
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 4500
+        size = 3555
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = animist
-		size = 400
+        size = 316
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 350
+        size = 276
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 400
+        size = 316
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 33850
+        size = 26741
 	}
 }
 #Under Native Rule 1836
@@ -5339,67 +5339,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1125
+        size = 888
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 125
+        size = 98
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1050
+        size = 829
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 97600
+        size = 77104
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = animist
-		size = 350
+        size = 276
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 300
+        size = 237
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = animist
-		size = 350
+        size = 276
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 30000
+        size = 23700
 	}
 
 }
@@ -5410,133 +5410,133 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 3250
+        size = 2567
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 3500
+        size = 2765
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 338250
+        size = 267217
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 1250
+        size = 987
 	}
 
 	bureaucrats = {
 		culture = dravidian
 		religion = sunni
-		size = 2250
+        size = 1777
 	}
 
 	officers = {
 		culture = dravidian
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 625
+        size = 493
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 6000
+        size = 4740
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 13875
+        size = 10961
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = shiite
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = shiite
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = shiite
-		size = 4000
+        size = 3160
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = shiite
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = shiite
-		size = 1835
+        size = 1449
 	}
 }
 #Aurangabad (1244000/311000 POPS)
@@ -5544,61 +5544,61 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2250
+        size = 1777
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7500
+        size = 5925
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 249750
+        size = 197302
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 900
+        size = 711
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 700
+        size = 553
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 36900
+        size = 29151
 	}
 }
 #Nizamabad (1052000/263000 POPS)
@@ -5606,61 +5606,61 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 1750
+        size = 1382
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 6500
+        size = 5135
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 208350
+        size = 164596
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 7000
+        size = 5530
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 800
+        size = 632
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 33700
+        size = 26623
 	}
 }
 #Gulbarga (784000/196000 POPS)
@@ -5668,61 +5668,61 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 1800
+        size = 1422
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 176300
+        size = 139277
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 200
+        size = 158
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4525
+        size = 3574
 	}
 }
 #Warangal (1560000/390000 POPS)
@@ -5730,61 +5730,61 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 3250
+        size = 2567
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 3325
+        size = 2626
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 9500
+        size = 7505
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 3500
+        size = 2765
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 354325
+        size = 279916
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 5350
+        size = 4226
 	}
 
 }
@@ -5795,97 +5795,97 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1900
+        size = 1501
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 800
+        size = 632
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1875
+        size = 1481
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 9000
+        size = 7110
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4000
+        size = 3160
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 164125
+        size = 129658
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = shiite
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = shiite
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = shiite
-		size = 300
+        size = 237
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = shiite
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = shiite
-		size = 5650
+        size = 4463
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 350
+        size = 276
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 375
+        size = 296
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 39275
+        size = 31027
 	}
 }
 #Sukkur (348000/87000 POPS)
@@ -5893,55 +5893,55 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 850
+        size = 671
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 850
+        size = 671
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4000
+        size = 3160
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4000
+        size = 3160
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 73300
+        size = 57907
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 200
+        size = 158
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3700
+        size = 2923
 	}
 }
 #Umarkot (596000/149000 POPS)
@@ -5949,55 +5949,55 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1350
+        size = 1066
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1350
+        size = 1066
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 6750
+        size = 5332
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4000
+        size = 3160
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 132700
+        size = 104833
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 125
+        size = 98
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 800
+        size = 632
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 14950
+        size = 11810
 	}
 
 }
@@ -6008,109 +6008,109 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 350
+        size = 276
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 169650
+        size = 134023
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 400
+        size = 316
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 3000
+        size = 2370
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 18400
+        size = 14536
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 375
+        size = 296
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 20775
+        size = 16412
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 10
+        size = 7
 	}
 }
 #Surat (1072000/268000 POPS) 
@@ -6118,67 +6118,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 212000
+        size = 167480
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 375
+        size = 296
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 24375
+        size = 19256
 	}
 }
 #Under Rule of Beroda 1836 (3396000)
@@ -6187,73 +6187,73 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4500
+        size = 3555
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4500
+        size = 3555
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4500
+        size = 3555
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 416500
+        size = 329035
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 850
+        size = 671
 	}
 }
 #Beroda (1580000/395000 POPS)
@@ -6261,79 +6261,79 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 900
+        size = 711
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 800
+        size = 632
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 354300
+        size = 279897
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1850
+        size = 1461
 	}
 }
 #Under Native Rule 1836
@@ -6342,79 +6342,79 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 451500
+        size = 356685
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 17200
+        size = 13588
 	}
 }
 #Mandvi (312000/78000 POPS)
@@ -6422,67 +6422,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 725
+        size = 572
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 700
+        size = 553
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 59050
+        size = 46649
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 70
+        size = 55
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 5780
+        size = 4566
 	}
 
 }
@@ -6492,61 +6492,61 @@
 	bureaucrats = {
 		culture = portuguese
 		religion = catholic
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 25
+        size = 19
 	}
 	
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 100
+        size = 79
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = catholic
-		size = 200
+        size = 158
 	}
 	
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 100
+        size = 79
 	}
 	
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2250
+        size = 1777
 	}
 	
 	farmers = {
 		culture = indo_aryan
 		religion = catholic
-		size = 250
+        size = 197
 	}
 }
 #Bombay Presidency Region : 7848000
@@ -6556,199 +6556,199 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5500
+        size = 4345
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 420000
+        size = 331800
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = jewish
-		size = 1100
+        size = 869
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = catholic
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = catholic
-		size = 1950
+        size = 1540
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = catholic
-		size = 2000
+        size = 1580
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 625
+        size = 493
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 8000
+        size = 6320
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 38125
+        size = 30118
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1250
+        size = 987
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 6000
+        size = 4740
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 97250
+        size = 76827
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = shiite
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = shiite
-		size = 3875
+        size = 3061
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = shiite
-		size = 2075
+        size = 1639
 	}
 
 	aristocrats = {
 		culture = british
 		religion = protestant
-		size = 1125
+        size = 888
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 250
+        size = 197
 	}
 
 	officers = {
 		culture = british
 		religion = protestant
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 125
+        size = 98
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 3000
+        size = 2370
 	}
 }
 #Nasik (796000/199000 POPS)
@@ -6756,61 +6756,61 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1250
+        size = 987
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 181750
+        size = 143582
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = sunni
-		size = 4775
+        size = 3772
 	}
 }
 #Poona (1196000/299000 POPS)
@@ -6818,67 +6818,67 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 255500
+        size = 201845
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 200
+        size = 158
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 175
+        size = 138
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 9375
+        size = 7406
 	}
 }
 #Bijapur (1044000/261000 POPS)
@@ -6886,67 +6886,67 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 226500
+        size = 178935
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = catholic
-		size = 9000
+        size = 7110
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 4750
+        size = 3752
 	}
 }
 #Kolhapur (880000/220000 POPS)
@@ -6954,61 +6954,61 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2250
+        size = 1777
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 2250
+        size = 1777
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 198000
+        size = 156420
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 3775
+        size = 2982
 	}
 }
 #Belgaum (1252000/313000 POPS)
@@ -7016,79 +7016,79 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 2750
+        size = 2172
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 249250
+        size = 196907
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = animist
-		size = 350
+        size = 276
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = animist
-		size = 5000
+        size = 3950
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = animist
-		size = 14350
+        size = 11336
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 4000
+        size = 3160
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 19450
+        size = 15365
 	}
 
 }
@@ -7098,91 +7098,91 @@
 	aristocrats = {
 		culture = portuguese
 		religion = catholic
-		size = 150
+        size = 118
 	}
 
 	bureaucrats = {
 		culture = portuguese
 		religion = catholic
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 500
+        size = 395
 	}
 
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 25
+        size = 19
 	}
 
 	aristocrats = {
 		culture = indo_aryan
 		religion = catholic
-		size = 450
+        size = 355
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = catholic
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = catholic
-		size = 450
+        size = 355
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = catholic
-		size = 2300
+        size = 1817
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = catholic
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = catholic
-		size = 43725
+        size = 34542
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 100
+        size = 79
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 500
+        size = 395
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 9300
+        size = 7347
 	}
 
 }
@@ -7193,61 +7193,61 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	bureaucrats = {
 		culture = dravidian
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 3750
+        size = 2962
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 3500
+        size = 2765
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 283750
+        size = 224162
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 75
+        size = 59
 	}
 }
 #Masulipatnam (1736000/434000 POPS)
@@ -7255,67 +7255,67 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 4500
+        size = 3555
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 4500
+        size = 3555
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 395000
+        size = 312050
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 175
+        size = 138
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 5575
+        size = 4404
 	}
 }
 #Nellore (1056000/264000 POPS)
@@ -7323,67 +7323,67 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 3500
+        size = 2765
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 234500
+        size = 185255
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 6000
+        size = 4740
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 6625
+        size = 5233
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = shiite
-		size = 1100
+        size = 869
 	}
 }
 #Kurnool (1256000/314000 POPS)
@@ -7391,61 +7391,61 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 3250
+        size = 2567
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 2875
+        size = 2271
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 9000
+        size = 7110
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 265875
+        size = 210041
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 325
+        size = 256
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 7000
+        size = 5530
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 22225
+        size = 17557
 	}
 
 }
@@ -7456,157 +7456,157 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	bureaucrats = {
 		culture = dravidian
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 855000
+        size = 675450
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = catholic
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = catholic
-		size = 1750
+        size = 1382
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = catholic
-		size = 16125
+        size = 12738
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = protestant
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = protestant
-		size = 1750
+        size = 1382
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = protestant
-		size = 13125
+        size = 10368
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	bureaucrats = {
 		culture = dravidian
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 6000
+        size = 4740
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 138500
+        size = 109415
 	}
 
 	aristocrats = {
 		culture = british
 		religion = protestant
-		size = 1375
+        size = 1086
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 375
+        size = 296
 	}
 
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 250
+        size = 197
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 3000
+        size = 2370
 	}
 }
 #Tanjore (1448000/362000 POPS)
@@ -7614,67 +7614,67 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 3500
+        size = 2765
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 3750
+        size = 2962
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 3500
+        size = 2765
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 320250
+        size = 252997
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 175
+        size = 138
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 9475
+        size = 7485
 	}
 }
 #Madurai (1720000/430000 POPS)
@@ -7682,67 +7682,67 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 4500
+        size = 3555
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 4250
+        size = 3357
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 375250
+        size = 296447
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 19300
+        size = 15247
 	}
 }
 #Coimbatore (2116000/529000 POPS)
@@ -7750,67 +7750,67 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 6000
+        size = 4740
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 9000
+        size = 7110
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 5000
+        size = 3950
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 444000
+        size = 350760
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 7500
+        size = 5925
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 500
+        size = 395
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 41250
+        size = 32587
 	}
 
 }
@@ -7820,73 +7820,73 @@
 	bureaucrats = {
 		culture = french
 		religion = catholic
-		size = 10
+        size = 7
 	}
 
 	clergymen = {
 		culture = french
 		religion = catholic
-		size = 15
+        size = 11
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 25
+        size = 19
 	}
 
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 300
+        size = 237
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 27950
+        size = 22080
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = catholic
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = catholic
-		size = 200
+        size = 158
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = catholic
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = catholic
-		size = 2600
+        size = 2054
 	}
 
 }
@@ -7896,67 +7896,67 @@
 	bureaucrats = {
 		culture = danish
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = danish
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = danish
 		religion = protestant
-		size = 75
+        size = 59
 	}
 
 	soldiers = {
 		culture = danish
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 575
+        size = 454
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 2650
+        size = 2093
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = protestant
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = protestant
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = protestant
-		size = 275
+        size = 217
 	}
 
 }
@@ -7967,73 +7967,73 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 1700
+        size = 1343
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 1650
+        size = 1303
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 9000
+        size = 7110
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 1700
+        size = 1343
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 129950
+        size = 102660
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 6000
+        size = 4740
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 6625
+        size = 5233
 	}
 }
 #Mysore (872000/218000 POPS)
@@ -8041,79 +8041,79 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 2250
+        size = 1777
 	}
 
 	bureaucrats = {
 		culture = dravidian
 		religion = hindu
-		size = 850
+        size = 671
 	}
 
 	officers = {
 		culture = dravidian
 		religion = hindu
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 2250
+        size = 1777
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 9000
+        size = 7110
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 194150
+        size = 153378
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	bureaucrats = {
 		culture = dravidian
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 4625
+        size = 3653
 	}
 }
 #Chitaldroog (416000/104000 POPS)
@@ -8121,61 +8121,61 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 92000
+        size = 72680
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 3850
+        size = 3041
 	}
 
 }
@@ -8185,61 +8185,61 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 3000
+        size = 2370
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 2625
+        size = 2073
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 10000
+        size = 7900
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 2750
+        size = 2172
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 241625
+        size = 190883
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 18300
+        size = 14457
 	}
 }
 #Malabar Region  (2656000)
@@ -8249,121 +8249,121 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 2500
+        size = 1975
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 2250
+        size = 1777
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 8000
+        size = 6320
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 175250
+        size = 138447
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 750
+        size = 592
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 875
+        size = 691
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 5000
+        size = 3950
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 77375
+        size = 61126
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = orthodox
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = orthodox
-		size = 175
+        size = 138
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = orthodox
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = orthodox
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = orthodox
-		size = 28425
+        size = 22455
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = catholic
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = catholic
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = catholic
-		size = 2000
+        size = 1580
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = catholic
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = catholic
-		size = 34250
+        size = 27057
 	}
 }
 #Under Rule of Travancore 1836 (1284000)
@@ -8372,139 +8372,139 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 1500
+        size = 1185
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 4000
+        size = 3160
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 128000
+        size = 101120
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 350
+        size = 276
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 1500
+        size = 1185
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 29550
+        size = 23344
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = shiite
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = shiite
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = shiite
-		size = 950
+        size = 750
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = orthodox
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = orthodox
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = orthodox
-		size = 750
+        size = 592
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = orthodox
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = orthodox
-		size = 12925
+        size = 10210
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = catholic
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = catholic
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = catholic
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = catholic
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = catholic
-		size = 10675
+        size = 8433
 	}
 }
 #Trivandrum (476000/119000 POPS)
@@ -8512,151 +8512,151 @@
 	aristocrats = {
 		culture = dravidian
 		religion = hindu
-		size = 850
+        size = 671
 	}
 
 	bureaucrats = {
 		culture = dravidian
 		religion = hindu
-		size = 600
+        size = 474
 	}
 
 	officers = {
 		culture = dravidian
 		religion = hindu
-		size = 300
+        size = 237
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = hindu
-		size = 825
+        size = 651
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = hindu
-		size = 2750
+        size = 2172
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = hindu
-		size = 66675
+        size = 52673
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = sunni
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = sunni
-		size = 14550
+        size = 11494
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = shiite
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = shiite
-		size = 700
+        size = 553
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = shiite
-		size = 275
+        size = 217
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = orthodox
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = orthodox
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = orthodox
-		size = 850
+        size = 671
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = orthodox
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = orthodox
-		size = 12825
+        size = 10131
 	}
 
 	aristocrats = {
 		culture = dravidian
 		religion = catholic
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = dravidian
 		religion = catholic
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = dravidian
 		religion = catholic
-		size = 650
+        size = 513
 	}
 
 	soldiers = {
 		culture = dravidian
 		religion = catholic
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = dravidian
 		religion = catholic
-		size = 8125
+        size = 6418
 	}
 
 }
@@ -8667,42 +8667,42 @@
 	aristocrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 250
+        size = 197
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
 		religion = hindu
-		size = 10
+        size = 7
 	}
 
 	officers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 15
+        size = 11
 	}
 
 	clergymen = {
 		culture = indo_aryan
 		religion = hindu
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = indo_aryan
 		religion = hindu
-		size = 700
+        size = 553
 	}
 
 	soldiers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = indo_aryan
 		religion = hindu
-		size = 11900
+        size = 9401
 	}
 }

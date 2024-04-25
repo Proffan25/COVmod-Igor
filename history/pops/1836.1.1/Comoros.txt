@@ -6,61 +6,61 @@
 	clergymen = {
 		culture = malagasy
 		religion = sunni
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = sunni
-		size = 10
+        size = 7
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = sunni
-		size = 400
+        size = 316
 	}
 
 	aristocrats = {
 		culture = malagasy
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = animist
-		size = 900
+        size = 711
 	}
 
 	slaves = {
 		culture = malagasy
 		religion = animist
-		size = 500
+        size = 395
 	}
 
 }
@@ -70,61 +70,61 @@
 	clergymen = {
 		culture = malagasy
 		religion = sunni
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = sunni
-		size = 10
+        size = 7
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = sunni
-		size = 400
+        size = 316
 	}
 
 	aristocrats = {
 		culture = malagasy
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	clergymen = {
 		culture = malagasy
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = malagasy
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	soldiers = {
 		culture = malagasy
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = animist
-		size = 900
+        size = 711
 	}
 
 	slaves = {
 		culture = malagasy
 		religion = animist
-		size = 500
+        size = 395
 	}
 
 }

@@ -5,31 +5,31 @@
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 255
+        size = 201
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 4590
+        size = 3626
     }
 }
 #Amazonas Region (80000)
@@ -39,67 +39,67 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     bureaucrats = {
         culture = brazilian
         religion = catholic
-        size = 17
+        size = 13
     }
 
     officers = {
         culture = brazilian
         religion = catholic
-        size = 17
+        size = 13
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 5873
+        size = 4639
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 510
+        size = 402
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 100
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 9392
+        size = 7419
     }
 }
 #Under loose authority of Brazil 1836
@@ -108,31 +108,31 @@
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 170
+        size = 134
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 3060
+        size = 2417
     }
 }
 #Tefe (4000/1000 POPS)
@@ -140,31 +140,31 @@
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 17
+        size = 13
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 25
+        size = 19
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 1530
+        size = 1208
     }
 }
 #Borba (12000/3000 POPS)
@@ -172,31 +172,31 @@
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 255
+        size = 201
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 4590
+        size = 3626
     }
 }
 #Tabatinga (4000/1000 POPS)
@@ -204,31 +204,31 @@
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 17
+        size = 13
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 25
+        size = 19
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 1530
+        size = 1208
     }
 }
 #Oriximina (8000/2000 POPS)
@@ -236,31 +236,31 @@
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 170
+        size = 134
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 3060
+        size = 2417
     }
 }
 #Forte Sao Joaquim (4000/1000 POPS) #now Roraima state Brazil
@@ -268,31 +268,31 @@
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 17
+        size = 13
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 25
+        size = 19
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 1530
+        size = 1208
     }
 }
 #Para Region (128000)
@@ -302,25 +302,25 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     bureaucrats = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     officers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -328,19 +328,19 @@
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 552
+        size = 436
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 12197
+        size = 9635
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -348,7 +348,7 @@
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -356,7 +356,7 @@
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 425
+        size = 335
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -364,7 +364,7 @@
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -372,7 +372,7 @@
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 1955
+        size = 1544
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -380,7 +380,7 @@
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 4250
+        size = 3357
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -388,7 +388,7 @@
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -396,7 +396,7 @@
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 100
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -404,7 +404,7 @@
     artisans = {
         culture = brazilian
         religion = animist
-        size = 255
+        size = 201
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -412,7 +412,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -420,7 +420,7 @@
     farmers = {
         culture = brazilian
         religion = animist
-        size = 4590
+        size = 3626
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -430,13 +430,13 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -444,19 +444,19 @@
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 2975
+        size = 2350
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -464,7 +464,7 @@
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 42
+        size = 33
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -472,7 +472,7 @@
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -480,7 +480,7 @@
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 17
+        size = 13
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -488,7 +488,7 @@
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 535
+        size = 422
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -496,7 +496,7 @@
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 1020
+        size = 805
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -504,7 +504,7 @@
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -512,7 +512,7 @@
     artisans = {
         culture = brazilian
         religion = animist
-        size = 170
+        size = 134
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -520,7 +520,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -528,7 +528,7 @@
     farmers = {
         culture = brazilian
         religion = animist
-        size = 3145
+        size = 2484
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -539,55 +539,55 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 1530
+        size = 1208
     }
 
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 17
+        size = 13
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 25
+        size = 19
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 1530
+        size = 1208
     }
 }
 #Cachimbo (12000/3000 POPS)
@@ -595,7 +595,7 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -603,19 +603,19 @@
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 1530
+        size = 1208
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -623,7 +623,7 @@
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -631,7 +631,7 @@
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -639,7 +639,7 @@
     artisans = {
         culture = brazilian
         religion = animist
-        size = 170
+        size = 134
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -647,7 +647,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -655,7 +655,7 @@
     farmers = {
         culture = brazilian
         religion = animist
-        size = 3060
+        size = 2417
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -665,79 +665,79 @@
     aristocrats = {
         culture = french
         religion = catholic
-        size = 40
+        size = 31
     }
 
     clergymen = {
         culture = french
         religion = catholic
-        size = 25
+        size = 19
     }
 
     artisans = {
         culture = french
         religion = catholic
-        size = 15
+        size = 11
     }
 
     soldiers = {
         culture = french
         religion = catholic
-        size = 25
+        size = 19
     }
 
     clergymen = {
         culture = afro_antillean
         religion = catholic
-        size = 10
+        size = 7
     }
 
     artisans = {
         culture = afro_antillean
         religion = catholic
-        size = 50
+        size = 39
     }
 
     soldiers = {
         culture = afro_antillean
         religion = catholic
-        size = 10
+        size = 7
     }
 
     farmers = {
         culture = afro_antillean
         religion = catholic
-        size = 150
+        size = 118
     }
 
     slaves = {
         culture = afro_antillean
         religion = catholic
-        size = 680
+        size = 537
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 25
+        size = 19
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 1547
+        size = 1222
     }
 }
 #Macapa (8000/2000 POPS)
@@ -745,55 +745,55 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 1530
+        size = 1208
     }
 
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 17
+        size = 13
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 25
+        size = 19
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 1530
+        size = 1208
     }
 }
 #Altamira (12000/3000 POPS)
@@ -801,7 +801,7 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -809,19 +809,19 @@
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 1530
+        size = 1208
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -829,7 +829,7 @@
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -837,7 +837,7 @@
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -845,7 +845,7 @@
     artisans = {
         culture = brazilian
         religion = animist
-        size = 170
+        size = 134
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -853,7 +853,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -861,7 +861,7 @@
     farmers = {
         culture = brazilian
         religion = animist
-        size = 3060
+        size = 2417
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -873,67 +873,67 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 382
+        size = 301
     }
 
     bureaucrats = {
         culture = brazilian
         religion = catholic
-        size = 17
+        size = 13
     }
 
     officers = {
         culture = brazilian
         religion = catholic
-        size = 25
+        size = 19
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 9180
+        size = 7252
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 850
+        size = 671
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 15810
+        size = 12489
     }
 }
 #Under loose authority of Brazil 1836
@@ -942,55 +942,55 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 3102
+        size = 2450
     }
 
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 100
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 425
+        size = 335
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 7777
+        size = 6143
     }
 }
 #Cuiaba (28000/7000 POPS)
@@ -998,85 +998,85 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 1530
+        size = 1208
     }
 
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 17
+        size = 13
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 25
+        size = 19
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 1530
+        size = 1208
     }
 
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 254
+        size = 200
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 850
+        size = 671
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 15554
+        size = 12287
     }
 }
 #Corumba (8000/2000 POPS)
@@ -1084,55 +1084,55 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 1530
+        size = 1208
     }
 
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 17
+        size = 13
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 25
+        size = 19
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 1530
+        size = 1208
     }
 }
 #Paraguay Region (20000) #see Paraguay.txt & Argentina.txt for balance of region
@@ -1142,55 +1142,55 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 3102
+        size = 2450
     }
 
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 254
+        size = 200
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 510
+        size = 402
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 66
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 9180
+        size = 7252
     }
 }
 #Goias Region (64000)
@@ -1200,73 +1200,73 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 382
+        size = 301
     }
 
     bureaucrats = {
         culture = brazilian
         religion = catholic
-        size = 17
+        size = 13
     }
 
     officers = {
         culture = brazilian
         religion = catholic
-        size = 25
+        size = 19
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 9095
+        size = 7185
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 2805
+        size = 2215
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 5100
+        size = 4029
     }
 }
 #Under loose authority of Brazil 1836
@@ -1275,55 +1275,55 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 1530
+        size = 1208
     }
 
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 17
+        size = 13
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 25
+        size = 19
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 1530
+        size = 1208
     }
 }
 #Palmas (12000/3000 POPS)
@@ -1331,55 +1331,55 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 1530
+        size = 1208
     }
 
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 170
+        size = 134
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 3060
+        size = 2417
     }
 }
 #Maranhao Region (412000)
@@ -1389,25 +1389,25 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1402
+        size = 1107
     }
 
     bureaucrats = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     officers = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 552
+        size = 436
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -1415,19 +1415,19 @@
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1700
+        size = 1343
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 38037
+        size = 30049
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -1435,7 +1435,7 @@
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -1443,7 +1443,7 @@
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1275
+        size = 1007
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -1451,7 +1451,7 @@
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 255
+        size = 201
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -1459,7 +1459,7 @@
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 8542
+        size = 6748
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -1467,7 +1467,7 @@
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 15300
+        size = 12087
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -1477,31 +1477,31 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 765
+        size = 604
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 13812
+        size = 10911
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -1509,7 +1509,7 @@
     clergymen = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 66
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -1517,7 +1517,7 @@
     artisans = {
         culture = platinean
         religion = animist
-        size = 510
+        size = 402
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -1525,7 +1525,7 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 66
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -1533,7 +1533,7 @@
     farmers = {
         culture = platinean
         religion = animist
-        size = 9350
+        size = 7386
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -1543,61 +1543,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1402
+        size = 1107
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 510
+        size = 402
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1487
+        size = 1174
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1700
+        size = 1343
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 32300
+        size = 25517
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1530
+        size = 1208
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 297
+        size = 234
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 9945
+        size = 7856
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 18700
+        size = 14773
     }
 }
 #Oieras (44000/11000 POPS)
@@ -1605,55 +1605,55 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 382
+        size = 301
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 850
+        size = 671
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 15427
+        size = 12187
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 34
+        size = 26
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 34
+        size = 26
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 3162
+        size = 2497
     }
 }
 #Paraiba Region (456000)
@@ -1663,61 +1663,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 807
+        size = 637
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1232
+        size = 973
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 297
+        size = 234
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 27922
+        size = 22058
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 2805
+        size = 2215
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 5100
+        size = 4029
     }
 }
 #Fortaleza (180000/45000 POPS)
@@ -1725,73 +1725,73 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1572
+        size = 1241
     }
 
     bureaucrats = {
         culture = brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     officers = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 510
+        size = 402
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 3655
+        size = 2887
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1700
+        size = 1343
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 39525
+        size = 31224
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1445
+        size = 1141
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 297
+        size = 234
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 10030
+        size = 7923
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 17000
+        size = 13430
     }
 }
 #Crato (52000/13000 POPS)
@@ -1799,61 +1799,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 467
+        size = 368
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 552
+        size = 436
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 12282
+        size = 9702
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 2805
+        size = 2215
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 5100
+        size = 4029
     }
 }
 #Natal (132000/33000 POPS)
@@ -1861,61 +1861,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1147
+        size = 906
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 4675
+        size = 3693
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 23842
+        size = 18835
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1275
+        size = 1007
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 8542
+        size = 6748
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 15300
+        size = 12087
     }
 }
 #Pernambuco Region (516000)
@@ -1925,73 +1925,73 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1402
+        size = 1107
     }
 
     bureaucrats = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     officers = {
         culture = brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 552
+        size = 436
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 15300
+        size = 12087
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 22355
+        size = 17660
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 5100
+        size = 4029
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 297
+        size = 234
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 6375
+        size = 5036
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 17000
+        size = 13430
     }
 }
 #Cabreibo (80000/20000 POPS)
@@ -1999,61 +1999,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 722
+        size = 570
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 552
+        size = 436
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 11942
+        size = 9434
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1020
+        size = 805
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 7182
+        size = 5673
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 11900
+        size = 9401
     }
 }
 #Maceio (152000/38000 POPS)
@@ -2061,61 +2061,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1317
+        size = 1040
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 510
+        size = 402
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1530
+        size = 1208
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1700
+        size = 1343
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 32342
+        size = 25550
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1360
+        size = 1074
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 297
+        size = 234
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 8415
+        size = 6647
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 17000
+        size = 13430
     }
 }
 #Aracaju (120000/30000 POPS)
@@ -2123,61 +2123,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1062
+        size = 838
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 382
+        size = 301
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1190
+        size = 940
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 297
+        size = 234
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 25967
+        size = 20513
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1105
+        size = 872
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 7097
+        size = 5606
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 13600
+        size = 10744
     }
 }
 #Bahia Region (896000)
@@ -2187,73 +2187,73 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 3060
+        size = 2417
     }
 
     bureaucrats = {
         culture = brazilian
         religion = catholic
-        size = 595
+        size = 470
     }
 
     officers = {
         culture = brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 1275
+        size = 1007
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 45900
+        size = 36261
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1700
+        size = 1343
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 47345
+        size = 37402
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 9350
+        size = 7386
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 510
+        size = 402
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 10285
+        size = 8125
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 30600
+        size = 24174
     }
 }
 #Juazeiro (180000/45000 POPS)
@@ -2261,61 +2261,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1572
+        size = 1241
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 510
+        size = 402
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1275
+        size = 1007
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 28602
+        size = 22595
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 2210
+        size = 1745
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 467
+        size = 368
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 14110
+        size = 11146
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 27200
+        size = 21488
     }
 }
 #Vila do Barra (140000/35000 POPS)
@@ -2323,61 +2323,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1232
+        size = 973
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 467
+        size = 368
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1360
+        size = 1074
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 30600
+        size = 24174
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1275
+        size = 1007
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 8542
+        size = 6748
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 15300
+        size = 12087
     }
 }
 #Porto Seguro (120000/30000 POPS)
@@ -2385,61 +2385,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1062
+        size = 838
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 382
+        size = 301
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1190
+        size = 940
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 297
+        size = 234
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 25967
+        size = 20513
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1105
+        size = 872
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 7097
+        size = 5606
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 13600
+        size = 10744
     }
 }
 #Vitoria da Conquista (100000/25000 POPS)
@@ -2447,61 +2447,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 892
+        size = 704
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 297
+        size = 234
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 765
+        size = 604
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 16532
+        size = 13060
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1190
+        size = 940
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 9477
+        size = 7486
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 14450
+        size = 11415
     }
 }
 #Minas Gerais Region (716000)
@@ -2511,73 +2511,73 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1997
+        size = 1577
     }
 
     bureaucrats = {
         culture = brazilian
         religion = catholic
-        size = 510
+        size = 402
     }
 
     officers = {
         culture = brazilian
         religion = catholic
-        size = 382
+        size = 301
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 807
+        size = 637
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 2465
+        size = 1947
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1700
+        size = 1343
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 53847
+        size = 42539
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1870
+        size = 1477
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 382
+        size = 301
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 15512
+        size = 12254
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 22100
+        size = 17459
     }
 }
 #Sabara (104000/26000 POPS)
@@ -2585,61 +2585,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 892
+        size = 704
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 892
+        size = 704
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 22440
+        size = 17727
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1105
+        size = 872
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 7097
+        size = 5606
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 13600
+        size = 10744
     }
 }
 #Januaria (100000/25000 POPS)
@@ -2647,61 +2647,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 935
+        size = 738
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 297
+        size = 234
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 680
+        size = 537
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 14917
+        size = 11784
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1275
+        size = 1007
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 8542
+        size = 6748
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 15300
+        size = 12087
     }
 }
 #Paracatu (80000/20000 POPS)
@@ -2709,61 +2709,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 722
+        size = 570
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 765
+        size = 604
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 16405
+        size = 12959
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 765
+        size = 604
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 4930
+        size = 3894
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 9350
+        size = 7386
     }
 }
 #Uberaba (68000/17000 POPS)
@@ -2771,61 +2771,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 595
+        size = 470
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 467
+        size = 368
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 10497
+        size = 8292
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 850
+        size = 671
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 5695
+        size = 4499
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 10200
+        size = 8058
     }
 }
 #Sao Joao del Rey (132000/33000 POPS)
@@ -2833,61 +2833,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1147
+        size = 906
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 382
+        size = 301
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 892
+        size = 704
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 19550
+        size = 15444
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1700
+        size = 1343
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 11390
+        size = 8998
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 20400
+        size = 16116
     }
 }
 #Rio de Janeiro Region (976000)
@@ -2897,73 +2897,73 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 4505
+        size = 3558
     }
 
     bureaucrats = {
         culture = brazilian
         religion = catholic
-        size = 765
+        size = 604
     }
 
     officers = {
         culture = brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 2720
+        size = 2148
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 51255
+        size = 40491
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 17000
+        size = 13430
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 185130
+        size = 146252
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 3995
+        size = 3156
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 510
+        size = 402
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 15640
+        size = 12355
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 30600
+        size = 24174
     }
 }
 #Campos (160000/40000 POPS)
@@ -2971,61 +2971,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1445
+        size = 1141
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 510
+        size = 402
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1360
+        size = 1074
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 30345
+        size = 23972
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1700
+        size = 1343
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 13770
+        size = 10878
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 20400
+        size = 16116
     }
 }
 #Vitoria (120000/30000 POPS)
@@ -3033,61 +3033,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1062
+        size = 838
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 382
+        size = 301
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1232
+        size = 973
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 297
+        size = 234
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 27625
+        size = 21823
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1020
+        size = 805
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 7182
+        size = 5673
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 11900
+        size = 9401
     }
 }
 #Sao Paulo Region (580000)
@@ -3097,55 +3097,55 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 1530
+        size = 1208
     }
 
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 34
+        size = 26
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 66
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 50
+        size = 39
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 3060
+        size = 2417
     }
 }
 #Sao Paulo (252000/63000 POPS)
@@ -3153,73 +3153,73 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 2167
+        size = 1711
     }
 
     bureaucrats = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     officers = {
         culture = brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 935
+        size = 738
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 3272
+        size = 2584
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1700
+        size = 1343
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 72930
+        size = 57614
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1275
+        size = 1007
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 8542
+        size = 6748
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 15300
+        size = 12087
     }
 }
 #Santos (132000/33000 POPS)
@@ -3227,61 +3227,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1147
+        size = 906
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 467
+        size = 368
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1572
+        size = 1241
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 35487
+        size = 28034
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 850
+        size = 671
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 5695
+        size = 4499
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 10200
+        size = 8058
     }
 }
 #Campiras (64000/16000 POPS)
@@ -3289,61 +3289,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 552
+        size = 436
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 680
+        size = 537
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 15385
+        size = 12154
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 510
+        size = 402
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 3527
+        size = 2786
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 5950
+        size = 4700
     }
 }
 #Assis (52000/14000 POPS)
@@ -3351,61 +3351,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 510
+        size = 402
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 680
+        size = 537
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 170
+        size = 134
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 15470
+        size = 12221
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 2040
+        size = 1611
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 4250
+        size = 3357
     }
 }
 #Iguape (64000/16000 POPS)
@@ -3413,61 +3413,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 552
+        size = 436
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 765
+        size = 604
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 16957
+        size = 13396
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 2890
+        size = 2283
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 5100
+        size = 4029
     }
 }
 #Araraquara (8000/2000 POPS)
@@ -3475,55 +3475,55 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 1530
+        size = 1208
     }
 
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 34
+        size = 26
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 66
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 50
+        size = 39
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 3060
+        size = 2417
     }
 }
 #Parana Region (512000)
@@ -3533,73 +3533,73 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1487
+        size = 1174
     }
 
     bureaucrats = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     officers = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 680
+        size = 537
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 2592
+        size = 2047
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1700
+        size = 1343
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 57587
+        size = 45493
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 2890
+        size = 2283
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 5100
+        size = 4029
     }
 }
 #Garapuava (40000/10000 POPS)
@@ -3607,85 +3607,85 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 9180
+        size = 7252
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 2125
+        size = 1678
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 2975
+        size = 2350
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 66
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 50
+        size = 39
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 3094
+        size = 2444
     }
 }
 #Lajes (60000/15000 POPS)
@@ -3693,91 +3693,91 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 382
+        size = 301
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 425
+        size = 335
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 9137
+        size = 7218
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 2040
+        size = 1611
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 4250
+        size = 3357
     }
 
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 254
+        size = 200
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 850
+        size = 671
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 15554
+        size = 12287
     }
 }
 #Castro (72000/18000 POPS)
@@ -3785,85 +3785,85 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 637
+        size = 503
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 892
+        size = 704
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 20102
+        size = 15880
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 2040
+        size = 1611
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 4250
+        size = 3357
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 66
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 50
+        size = 39
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 3094
+        size = 2444
     }
 }
 #Desterro (88000/22000 POPS)
@@ -3871,61 +3871,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 765
+        size = 604
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1105
+        size = 872
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 297
+        size = 234
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 24692
+        size = 19506
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 510
+        size = 402
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 3527
+        size = 2786
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 5950
+        size = 4700
     }
 }
 #Sao Miguel (80000/20000 POPS)
@@ -3933,61 +3933,61 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 722
+        size = 570
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 892
+        size = 704
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 20017
+        size = 15813
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 595
+        size = 470
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 4250
+        size = 3357
     }
 
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 6800
+        size = 5372
     }
 }
 #Sao Pedro Region (532000)
@@ -3997,25 +3997,25 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 1742
+        size = 1376
     }
 
     bureaucrats = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     officers = {
         culture = brazilian
         religion = catholic
-        size = 212
+        size = 167
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 765
+        size = 604
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4023,19 +4023,19 @@
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 2932
+        size = 2316
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 1700
+        size = 1343
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 65407
+        size = 51671
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4043,7 +4043,7 @@
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4051,7 +4051,7 @@
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 1105
+        size = 872
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4059,7 +4059,7 @@
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 212
+        size = 167
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4067,7 +4067,7 @@
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 7097
+        size = 5606
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4075,7 +4075,7 @@
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 13600
+        size = 10744
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4085,13 +4085,13 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 382
+        size = 301
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4099,19 +4099,19 @@
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 510
+        size = 402
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 10752
+        size = 8494
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4119,7 +4119,7 @@
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4127,7 +4127,7 @@
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 340
+        size = 268
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4135,7 +4135,7 @@
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4143,7 +4143,7 @@
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 2040
+        size = 1611
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4151,7 +4151,7 @@
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 4250
+        size = 3357
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4161,13 +4161,13 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 977
+        size = 771
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 425
+        size = 335
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4175,19 +4175,19 @@
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1232
+        size = 973
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 297
+        size = 234
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 27667
+        size = 21856
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4195,7 +4195,7 @@
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4203,7 +4203,7 @@
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 425
+        size = 335
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4211,7 +4211,7 @@
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4219,7 +4219,7 @@
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 2890
+        size = 2283
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4227,7 +4227,7 @@
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 5100
+        size = 4029
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4235,7 +4235,7 @@
     clergymen = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4243,7 +4243,7 @@
     artisans = {
         culture = platinean
         religion = animist
-        size = 850
+        size = 671
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4251,7 +4251,7 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4259,7 +4259,7 @@
     farmers = {
         culture = platinean
         religion = animist
-        size = 15810
+        size = 12489
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4269,13 +4269,13 @@
     aristocrats = {
         culture = brazilian
         religion = catholic
-        size = 765
+        size = 604
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4283,19 +4283,19 @@
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 1105
+        size = 872
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 297
+        size = 234
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 24692
+        size = 19506
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4303,7 +4303,7 @@
     clergymen = {
         culture = afro_brazilian
         religion = catholic
-        size = 85
+        size = 67
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4311,7 +4311,7 @@
     artisans = {
         culture = afro_brazilian
         religion = catholic
-        size = 510
+        size = 402
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4319,7 +4319,7 @@
     soldiers = {
         culture = afro_brazilian
         religion = catholic
-        size = 127
+        size = 100
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4327,7 +4327,7 @@
     farmers = {
         culture = afro_brazilian
         religion = catholic
-        size = 3527
+        size = 2786
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4335,7 +4335,7 @@
     slaves = {
         culture = afro_brazilian
         religion = catholic
-        size = 5950
+        size = 4700
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4345,7 +4345,7 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 127
+        size = 100
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4353,19 +4353,19 @@
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 340
+        size = 268
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 6247
+        size = 4935
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4373,7 +4373,7 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 254
+        size = 200
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4381,7 +4381,7 @@
     clergymen = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4389,7 +4389,7 @@
     artisans = {
         culture = platinean
         religion = animist
-        size = 850
+        size = 671
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4397,7 +4397,7 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 134
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4405,7 +4405,7 @@
     farmers = {
         culture = platinean
         religion = animist
-        size = 15554
+        size = 12287
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4417,31 +4417,31 @@
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 100
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 340
+        size = 268
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 6162
+        size = 4867
     }
 }
 #Forte do Principe (16000/4000 POPS) #now part of Brazil - Rondonia State
@@ -4449,54 +4449,54 @@
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 1530
+        size = 1208
     }
 
     aristocrats = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 67
     }
 
     clergymen = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 100
     }
 
     artisans = {
         culture = brazilian
         religion = animist
-        size = 255
+        size = 201
     }
 
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = animist
-        size = 4590
+        size = 3626
     }
 }

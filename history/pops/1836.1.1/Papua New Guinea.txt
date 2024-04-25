@@ -5,31 +5,31 @@
 	aristocrats = {
 		culture = melanesian
 		religion = animist
-		size = 1025
+        size = 809
 	}
 
 	clergymen = {
 		culture = melanesian
 		religion = animist
-		size = 525
+        size = 414
 	}
 
 	artisans = {
 		culture = melanesian
 		religion = animist
-		size = 2650
+        size = 2093
 	}
 
 	soldiers = {
 		culture = melanesian
 		religion = animist
-		size = 550
+        size = 434
 	}
 
 	farmers = {
 		culture = melanesian
 		religion = animist
-		size = 48350
+        size = 38196
 	}
 }
 #Kerema (116000/29000 POPS) 
@@ -37,31 +37,31 @@
 	aristocrats = {
 		culture = melanesian
 		religion = animist
-		size = 550
+        size = 434
 	}
 
 	clergymen = {
 		culture = melanesian
 		religion = animist
-		size = 300
+        size = 237
 	}
 
 	artisans = {
 		culture = melanesian
 		religion = animist
-		size = 1450
+        size = 1145
 	}
 
 	soldiers = {
 		culture = melanesian
 		religion = animist
-		size = 300
+        size = 237
 	}
 
 	farmers = {
 		culture = melanesian
 		religion = animist
-		size = 26400
+        size = 20856
 	}
 }
 #Lae (264000/66000 POPS) 
@@ -69,31 +69,31 @@
 	aristocrats = {
 		culture = melanesian
 		religion = animist
-		size = 1300
+        size = 1027
 	}
 
 	clergymen = {
 		culture = melanesian
 		religion = animist
-		size = 650
+        size = 513
 	}
 
 	artisans = {
 		culture = melanesian
 		religion = animist
-		size = 3300
+        size = 2607
 	}
 
 	soldiers = {
 		culture = melanesian
 		religion = animist
-		size = 675
+        size = 533
 	}
 
 	farmers = {
 		culture = melanesian
 		religion = animist
-		size = 60075
+        size = 47459
 	}
 }
 #Madang (300000/75000 POPS) 
@@ -101,31 +101,31 @@
 	aristocrats = {
 		culture = melanesian
 		religion = animist
-		size = 1475
+        size = 1165
 	}
 
 	clergymen = {
 		culture = melanesian
 		religion = animist
-		size = 750
+        size = 592
 	}
 
 	artisans = {
 		culture = melanesian
 		religion = animist
-		size = 3750
+        size = 2962
 	}
 
 	soldiers = {
 		culture = melanesian
 		religion = animist
-		size = 750
+        size = 592
 	}
 
 	farmers = {
 		culture = melanesian
 		religion = animist
-		size = 68375
+        size = 54016
 	}
 }
 #Northern Melanesia (226000) 
@@ -135,31 +135,31 @@
 	aristocrats = {
 		culture = melanesian
 		religion = animist
-		size = 500
+        size = 395
 	}
 
 	clergymen = {
 		culture = melanesian
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = melanesian
 		religion = animist
-		size = 1300
+        size = 1027
 	}
 
 	soldiers = {
 		culture = melanesian
 		religion = animist
-		size = 275
+        size = 217
 	}
 
 	farmers = {
 		culture = melanesian
 		religion = animist
-		size = 23675
+        size = 18703
 	}
 }
 #New Britain (144000/POPS) 
@@ -167,31 +167,31 @@
 	aristocrats = {
 		culture = melanesian
 		religion = animist
-		size = 700
+        size = 553
 	}
 
 	clergymen = {
 		culture = melanesian
 		religion = animist
-		size = 350
+        size = 276
 	}
 
 	artisans = {
 		culture = melanesian
 		religion = animist
-		size = 1800
+        size = 1422
 	}
 
 	soldiers = {
 		culture = melanesian
 		religion = animist
-		size = 375
+        size = 296
 	}
 
 	farmers = {
 		culture = melanesian
 		religion = animist
-		size = 32775
+        size = 25892
 	}
 }
 #Bougainville (56000/POPS) 
@@ -199,30 +199,30 @@
 	aristocrats = {
 		culture = melanesian
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = melanesian
 		religion = animist
-		size = 150
+        size = 118
 	}
 
 	artisans = {
 		culture = melanesian
 		religion = animist
-		size = 700
+        size = 553
 	}
 
 	soldiers = {
 		culture = melanesian
 		religion = animist
-		size = 150
+        size = 118
 	}
 
 	farmers = {
 		culture = melanesian
 		religion = animist
-		size = 12750
+        size = 10072
 	}
 }

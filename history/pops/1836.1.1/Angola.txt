@@ -5,133 +5,133 @@
 	aristocrats = {
 		culture = portuguese
 		religion = catholic
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 50
+        size = 39
 	}
 
 	bureaucrats = {
 		culture = portuguese
 		religion = catholic
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 500
+        size = 395
 	}
 
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 50
+        size = 39
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = catholic
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = catholic
-		size = 150
+        size = 118
 	}
 
 	artisans = {
 		culture = bantu
 		religion = catholic
-		size = 3000
+        size = 2370
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = catholic
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = bantu
 		religion = catholic
-		size = 11550
+        size = 9124
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 500
+        size = 395
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 5200
+        size = 4108
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 7000
+        size = 5530
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 7600
+        size = 6004
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 3000
+        size = 2370
 	}
 }
 #uncolonized in 1836
@@ -140,103 +140,103 @@
 	aristocrats = {
 		culture = bantu
 		religion = catholic
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = catholic
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = bantu
 		religion = catholic
-		size = 400
+        size = 316
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = catholic
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = bantu
 		religion = catholic
-		size = 7350
+        size = 5806
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 150
+        size = 118
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 13450
+        size = 10625
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 4000
+        size = 3160
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 150
+        size = 118
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 700
+        size = 553
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 13250
+        size = 10467
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 3500
+        size = 2765
 	}
 }
 #Quibala (120000/30000 POPS)
@@ -244,37 +244,37 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 300
+        size = 237
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 1200
+        size = 948
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 300
+        size = 237
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 21950
+        size = 17340
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 6000
+        size = 4740
 	}
 
 }
@@ -285,67 +285,67 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 125
+        size = 98
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 350
+        size = 276
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 6375
+        size = 5036
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 5000
+        size = 3950
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = catholic
-		size = 425
+        size = 335
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = catholic
-		size = 225
+        size = 177
 	}
 
 	artisans = {
 		culture = bantu
 		religion = catholic
-		size = 900
+        size = 711
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = catholic
-		size = 225
+        size = 177
 	}
 
 	farmers = {
 		culture = bantu
 		religion = catholic
-		size = 15225
+        size = 12027
 	}
 
 }
@@ -357,37 +357,37 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 300
+        size = 237
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 300
+        size = 237
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 1500
+        size = 1185
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 300
+        size = 237
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 20800
+        size = 16432
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 5800
+        size = 4582
 	}
 }
 #Mocamedes (116000/29000 POPS)
@@ -395,37 +395,37 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 300
+        size = 237
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 600
+        size = 474
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 750
+        size = 592
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 300
+        size = 237
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 21250
+        size = 16787
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 5800
+        size = 4582
 	}
 }
 #Huambo (208000/52000 POPS)
@@ -433,37 +433,37 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 600
+        size = 474
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 550
+        size = 434
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 2600
+        size = 2054
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 600
+        size = 474
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 36650
+        size = 28953
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 11000
+        size = 8690
 	}
 
 }
@@ -474,37 +474,37 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 350
+        size = 276
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 350
+        size = 276
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 1800
+        size = 1422
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 400
+        size = 316
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 26700
+        size = 21093
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 7500
+        size = 5925
 	}
 }
 #Mavinga (80000/20000 POPS)
@@ -512,73 +512,73 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 2400
+        size = 1896
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 1350
+        size = 1066
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 175
+        size = 138
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 175
+        size = 138
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 800
+        size = 632
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 11450
+        size = 9045
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 3200
+        size = 2528
 	}
 }
 #Ondjiva (36000/9000 POPS)
@@ -586,73 +586,73 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 30
+        size = 23
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 60
+        size = 47
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 30
+        size = 23
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 2205
+        size = 1741
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 600
+        size = 474
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 300
+        size = 237
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 4275
+        size = 3377
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 1250
+        size = 987
 	}
 
 }
@@ -663,109 +663,109 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 4350
+        size = 3436
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 1200
+        size = 948
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 30
+        size = 23
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 60
+        size = 47
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 60
+        size = 47
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 2175
+        size = 1718
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 600
+        size = 474
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 1400
+        size = 1106
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 400
+        size = 316
 	}
 }
 #Saurimo (112000/28000 POPS)
@@ -773,73 +773,73 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 1250
+        size = 987
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 14000
+        size = 11060
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 8000
+        size = 6320
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 2850
+        size = 2251
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 800
+        size = 632
 	}
 }
 #Kubanda (76000/19000 POPS)
@@ -847,73 +847,73 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 125
+        size = 98
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 750
+        size = 592
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 150
+        size = 118
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 8125
+        size = 6418
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 4700
+        size = 3713
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 3600
+        size = 2844
 	}
 
 	slaves = {
 		culture = bantu
 		religion = animist
-		size = 1100
+        size = 869
 	}
 
 }

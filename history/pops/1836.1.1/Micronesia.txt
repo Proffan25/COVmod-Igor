@@ -5,37 +5,37 @@
 	bureaucrats = {
 		culture = spanish
 		religion = catholic
-		size = 1
+        size = 0
 	}
 
 	clergymen = {
 		culture = spanish
 		religion = catholic
-		size = 4
+        size = 3
 	}
 
 	soldiers = {
 		culture = spanish
 		religion = catholic
-		size = 5
+        size = 3
 	}
 
 	artisans = {
 		culture = micronesian
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	soldiers = {
 		culture = micronesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	farmers = {
 		culture = micronesian
 		religion = animist
-		size = 1490
+        size = 1177
 	}
 }
 #Saipan (5600/1400 POPS)
@@ -43,25 +43,25 @@
 	clergymen = {
 		culture = spanish
 		religion = catholic
-		size = 2
+        size = 1
 	}
 
 	artisans = {
 		culture = micronesian
 		religion = animist
-		size = 70
+        size = 55
 	}
 
 	soldiers = {
 		culture = micronesian
 		religion = animist
-		size = 3
+        size = 2
 	}
 
 	farmers = {
 		culture = micronesian
 		religion = animist
-		size = 1325
+        size = 1046
 	}
 }
 #uncolonized in 1836
@@ -70,31 +70,31 @@
 	aristocrats = {
 		culture = micronesian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = micronesian
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = micronesian
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	soldiers = {
 		culture = micronesian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = micronesian
 		religion = animist
-		size = 1800
+        size = 1422
 	}
 }
 #Yap (2200/550 POPS)
@@ -102,31 +102,31 @@
 	aristocrats = {
 		culture = micronesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	clergymen = {
 		culture = micronesian
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	artisans = {
 		culture = micronesian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	soldiers = {
 		culture = micronesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	farmers = {
 		culture = micronesian
 		religion = animist
-		size = 485
+        size = 383
 	}
 }
 #Truk (3140/785 POPS)
@@ -134,31 +134,31 @@
 	aristocrats = {
 		culture = micronesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	clergymen = {
 		culture = micronesian
 		religion = animist
-		size = 20
+        size = 15
 	}
 
 	artisans = {
 		culture = micronesian
 		religion = animist
-		size = 40
+        size = 31
 	}
 
 	soldiers = {
 		culture = micronesian
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	farmers = {
 		culture = micronesian
 		religion = animist
-		size = 700
+        size = 553
 	}
 }
 #Ponape (2660/665 POPS)
@@ -166,31 +166,31 @@
 	aristocrats = {
 		culture = micronesian
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	clergymen = {
 		culture = micronesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	artisans = {
 		culture = micronesian
 		religion = animist
-		size = 35
+        size = 27
 	}
 
 	soldiers = {
 		culture = micronesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	farmers = {
 		culture = micronesian
 		religion = animist
-		size = 600
+        size = 474
 	}
 }
 #Northern Micronesia (180)
@@ -200,7 +200,7 @@
 	farmers = {
 		culture = micronesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 }
 #Wake (60/15 POPS)
@@ -208,7 +208,7 @@
 	farmers = {
 		culture = micronesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 }
 #Marcus (60/15 POPS)
@@ -216,7 +216,7 @@
 	farmers = {
 		culture = micronesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 }
 #Easterns Micronesia (21000)
@@ -226,31 +226,31 @@
 	aristocrats = {
 		culture = micronesian
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	clergymen = {
 		culture = micronesian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = micronesian
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	soldiers = {
 		culture = micronesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	farmers = {
 		culture = micronesian
 		religion = animist
-		size = 1375
+        size = 1086
 	}
 }
 #Nauru (1000/250 POPS)
@@ -258,31 +258,31 @@
 	aristocrats = {
 		culture = micronesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	clergymen = {
 		culture = micronesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	artisans = {
 		culture = micronesian
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	soldiers = {
 		culture = micronesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	farmers = {
 		culture = micronesian
 		religion = animist
-		size = 225
+        size = 177
 	}
 }
 #Gilbert Islands (14000/3250 POPS)
@@ -290,31 +290,31 @@
 	aristocrats = {
 		culture = micronesian
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = micronesian
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = micronesian
 		religion = animist
-		size = 175
+        size = 138
 	}
 
 	soldiers = {
 		culture = micronesian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = micronesian
 		religion = animist
-		size = 3125
+        size = 2468
 	}
 
 }

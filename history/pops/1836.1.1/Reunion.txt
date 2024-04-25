@@ -5,66 +5,66 @@
     aristocrats = {
         culture = french
         religion = catholic
-        size = 750
+        size = 592
     }
 
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 250
+        size = 197
     }
 
     clergymen = {
         culture = french
         religion = catholic
-        size = 75
+        size = 59
     }
 
     artisans = {
         culture = french
         religion = catholic
-        size = 500
+        size = 395
     }
 
     soldiers = {
         culture = french
         religion = catholic
-        size = 300
+        size = 237
     }
 
     farmers = {
         culture = french
         religion = catholic
-        size = 5825
+        size = 4601
     }
 
     clergymen = {
         culture = afro_antillean
         religion = catholic
-        size = 125
+        size = 98
     }
 
     artisans = {
         culture = afro_antillean
         religion = catholic
-        size = 850
+        size = 671
     }
 
     soldiers = {
         culture = afro_antillean
         religion = catholic
-        size = 200
+        size = 158
     }
 
     farmers = {
         culture = afro_antillean
         religion = catholic
-        size = 1825
+        size = 1441
     }
 
     slaves = {
         culture = afro_antillean
         religion = catholic
-        size = 14000
+        size = 11060
     }
 }

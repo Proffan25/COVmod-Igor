@@ -4,145 +4,145 @@
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 150
+        size = 118
     }
 
     clerks = {
         culture = ashkenazi
         religion = jewish
-        size = 150
+        size = 118
     }
 
     craftsmen = {
         culture = ashkenazi
         religion = jewish
-        size = 750
+        size = 592
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 1950
+        size = 1540
     }
 
     aristocrats = {
         culture = flemish
         religion = catholic
-        size = 2250
+        size = 1777
     }
 
     officers = {
         culture = flemish
         religion = catholic
-        size = 300
+        size = 237
     }
 
     bureaucrats = {
         culture = flemish
         religion = catholic
-        size = 6000
+        size = 4740
     }
 
     clergymen = {
         culture = flemish
         religion = catholic
-        size = 2437
+        size = 1925
     }
 
     capitalists = {
         culture = flemish
         religion = catholic
-        size = 75
+        size = 59
     }
 
     clerks = {
         culture = flemish
         religion = catholic
-        size = 3075
+        size = 2429
     }
 
     craftsmen = {
         culture = flemish
         religion = catholic
-        size = 37200
+        size = 29388
     }
 
     artisans = {
         culture = flemish
         religion = catholic
-        size = 10500
+        size = 8295
     }
 
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 4500
+        size = 3555
     }
 
     farmers = {
         culture = flemish
         religion = catholic
-        size = 180037
+        size = 142229
     }
 
     aristocrats = {
         culture = wallonian
         religion = catholic
-        size = 450
+        size = 355
     }
 
     officers = {
         culture = wallonian
         religion = catholic
-        size = 675
+        size = 533
     }
 
     bureaucrats = {
         culture = wallonian
         religion = catholic
-        size = 12000
+        size = 9480
     }
 
     clergymen = {
         culture = wallonian
         religion = catholic
-        size = 375
+        size = 296
     }
 
     capitalists = {
         culture = wallonian
         religion = catholic
-        size = 225
+        size = 177
     }
 
     clerks = {
         culture = wallonian
         religion = catholic
-        size = 900
+        size = 711
     }
 
     craftsmen = {
         culture = wallonian
         religion = catholic
-        size = 13500
+        size = 10665
     }
 
     artisans = {
         culture = wallonian
         religion = catholic
-        size = 12000
+        size = 9480
     }
 
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 1650
+        size = 1303
     }
 
     labourers = {
         culture = wallonian
         religion = catholic
-        size = 8475
+        size = 6695
     }
 }
 #Bruges (456000/114000 POPS)
@@ -150,37 +150,37 @@
     aristocrats = {
         culture = flemish
         religion = catholic
-        size = 1725
+        size = 1362
     }
 
     clergymen = {
         culture = flemish
         religion = catholic
-        size = 1687
+        size = 1332
     }
 
     craftsmen = {
         culture = flemish
         religion = catholic
-        size = 10500
+        size = 8295
     }
 
     artisans = {
         culture = flemish
         religion = catholic
-        size = 13500
+        size = 10665
     }
 
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 1800
+        size = 1422
     }
 
     farmers = {
         culture = flemish
         religion = catholic
-        size = 143187
+        size = 113117
     }
 }
 #Ghent (704000/176000 POPS)
@@ -188,61 +188,61 @@
     aristocrats = {
         culture = flemish
         religion = catholic
-        size = 2625
+        size = 2073
     }
 
     clergymen = {
         culture = flemish
         religion = catholic
-        size = 2625
+        size = 2073
     }
 
     artisans = {
         culture = flemish
         religion = catholic
-        size = 15000
+        size = 11850
     }
 
     artisans = {
         culture = flemish
         religion = catholic
-        size = 4500
+        size = 3555
     }
 
     clerks = {
         culture = flemish
         religion = catholic
-        size = 300
+        size = 237
     }
 
     craftsmen = {
         culture = flemish
         religion = catholic
-        size = 7500
+        size = 5925
     }
 
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 2625
+        size = 2073
     }
 
     farmers = {
         culture = flemish
         religion = catholic
-        size = 221325
+        size = 174846
     }
 
     clergymen = {
         culture = wallonian
         religion = catholic
-        size = 225
+        size = 177
     }
 
     artisans = {
         culture = wallonian
         religion = catholic
-        size = 7350
+        size = 5806
     }
 }
 #Antwerp (354000/88500 POPS)
@@ -250,79 +250,79 @@
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 150
+        size = 118
     }
 
     craftsmen = {
         culture = ashkenazi
         religion = jewish
-        size = 150
+        size = 118
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 1950
+        size = 1540
     }
 
     aristocrats = {
         culture = flemish
         religion = catholic
-        size = 1237
+        size = 977
     }
 
     clergymen = {
         culture = flemish
         religion = catholic
-        size = 1307
+        size = 1032
     }
 
     artisans = {
         culture = flemish
         religion = catholic
-        size = 12150
+        size = 9598
     }
 
     clerks = {
         culture = flemish
         religion = catholic
-        size = 450
+        size = 355
     }
 
     craftsmen = {
         culture = flemish
         religion = catholic
-        size = 22800
+        size = 18012
     }
 
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 1650
+        size = 1303
     }
 
     farmers = {
         culture = flemish
         religion = catholic
-        size = 86550
+        size = 68374
     }
 
     clergymen = {
         culture = wallonian
         religion = catholic
-        size = 75
+        size = 59
     }
 
     artisans = {
         culture = wallonian
         religion = catholic
-        size = 4387
+        size = 3465
     }
 
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 37
+        size = 29
     }
 }
 #Hasselt (272000/68000 POPS)
@@ -330,37 +330,37 @@
     aristocrats = {
         culture = flemish
         religion = catholic
-        size = 975
+        size = 770
     }
 
     clergymen = {
         culture = flemish
         religion = catholic
-        size = 1012
+        size = 799
     }
 
     artisans = {
         culture = flemish
         religion = catholic
-        size = 5250
+        size = 4147
     }
 
     craftsmen = {
         culture = flemish
         religion = catholic
-        size = 3000
+        size = 2370
     }
 
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 1650
+        size = 1303
     }
 
     farmers = {
         culture = flemish
         religion = catholic
-        size = 90262
+        size = 71306
     }
 }
 #Wallonia Region (1432000)
@@ -369,103 +369,103 @@
     aristocrats = {
         culture = wallonian
         religion = catholic
-        size = 1275
+        size = 1007
     }
 
     officers = {
         culture = wallonian
         religion = catholic
-        size = 525
+        size = 414
     }
 
     bureaucrats = {
         culture = wallonian
         religion = catholic
-        size = 10500
+        size = 8295
     }
 
     clergymen = {
         culture = wallonian
         religion = catholic
-        size = 1275
+        size = 1007
     }
 
     capitalists = {
         culture = wallonian
         religion = catholic
-        size = 225
+        size = 177
     }
 
     clerks = {
         culture = wallonian
         religion = catholic
-        size = 600
+        size = 474
     }
 
     craftsmen = {
         culture = wallonian
         religion = catholic
-        size = 17062
+        size = 13478
     }
 
     artisans = {
         culture = wallonian
         religion = catholic
-        size = 9000
+        size = 7110
     }
 
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 6487
+        size = 5124
     }
 
     labourers = {
         culture = wallonian
         religion = catholic
-        size = 84750
+        size = 66952
     }
 
     clergymen = {
         culture = flemish
         religion = catholic
-        size = 225
+        size = 177
     }
 
     artisans = {
         culture = flemish
         religion = catholic
-        size = 4050
+        size = 3199
     }
 
     clerks = {
         culture = flemish
         religion = catholic
-        size = 150
+        size = 118
     }
 
     craftsmen = {
         culture = flemish
         religion = catholic
-        size = 487
+        size = 384
     }
 
     labourers = {
         culture = flemish
         religion = catholic
-        size = 11737
+        size = 9272
     }
 
     clergymen = {
         culture = dutch
         religion = protestant
-        size = 112
+        size = 88
     }
 
     farmers = {
         culture = dutch
         religion = protestant
-        size = 5387
+        size = 4255
     }
 }
 #Tournai (292000/73000 POPS)
@@ -473,73 +473,73 @@
     clergymen = {
         culture = flemish
         religion = catholic
-        size = 150
+        size = 118
     }
 
     artisans = {
         culture = flemish
         religion = catholic
-        size = 1650
+        size = 1303
     }
 
     craftsmen = {
         culture = flemish
         religion = catholic
-        size = 450
+        size = 355
     }
 
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 150
+        size = 118
     }
 
     farmers = {
         culture = flemish
         religion = catholic
-        size = 12750
+        size = 10072
     }
 
     aristocrats = {
         culture = wallonian
         religion = catholic
-        size = 1050
+        size = 829
     }
 
     clergymen = {
         culture = wallonian
         religion = catholic
-        size = 937
+        size = 740
     }
 
     clerks = {
         culture = wallonian
         religion = catholic
-        size = 900
+        size = 711
     }
 
     craftsmen = {
         culture = wallonian
         religion = catholic
-        size = 18000
+        size = 14220
     }
 
     artisans = {
         culture = wallonian
         religion = catholic
-        size = 3750
+        size = 2962
     }
 
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 1650
+        size = 1303
     }
 
     farmers = {
         culture = wallonian
         religion = catholic
-        size = 83362
+        size = 65855
     }
 }
 #Charleroi (396000/99000 POPS)
@@ -547,79 +547,79 @@
     clergymen = {
         culture = flemish
         religion = catholic
-        size = 150
+        size = 118
     }
 
     artisans = {
         culture = flemish
         religion = catholic
-        size = 2250
+        size = 1777
     }
 
     clerks = {
         culture = flemish
         religion = catholic
-        size = 150
+        size = 118
     }
 
     craftsmen = {
         culture = flemish
         religion = catholic
-        size = 600
+        size = 474
     }
 
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 187
+        size = 147
     }
 
     farmers = {
         culture = flemish
         religion = catholic
-        size = 14662
+        size = 11582
     }
 
     aristocrats = {
         culture = wallonian
         religion = catholic
-        size = 1350
+        size = 1066
     }
 
     clergymen = {
         culture = wallonian
         religion = catholic
-        size = 1312
+        size = 1036
     }
 
     clerks = {
         culture = wallonian
         religion = catholic
-        size = 900
+        size = 711
     }
 
     craftsmen = {
         culture = wallonian
         religion = catholic
-        size = 21450
+        size = 16945
     }
 
     artisans = {
         culture = wallonian
         religion = catholic
-        size = 4500
+        size = 3555
     }
 
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 1650
+        size = 1303
     }
 
     farmers = {
         culture = wallonian
         religion = catholic
-        size = 99487
+        size = 78594
     }
 }
 #Namur (212000/53000 POPS)
@@ -627,43 +627,43 @@
     aristocrats = {
         culture = wallonian
         religion = catholic
-        size = 775
+        size = 612
     }
 
     clergymen = {
         culture = wallonian
         religion = catholic
-        size = 775
+        size = 612
     }
 
     clerks = {
         culture = wallonian
         religion = catholic
-        size = 600
+        size = 474
     }
 
     craftsmen = {
         culture = wallonian
         religion = catholic
-        size = 10500
+        size = 8295
     }
 
     artisans = {
         culture = wallonian
         religion = catholic
-        size = 3000
+        size = 2370
     }
 
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 1650
+        size = 1303
     }
 
     farmers = {
         culture = wallonian
         religion = catholic
-        size = 63750
+        size = 50362
     }
 }
 #Spa (144000/36000 POPS)
@@ -671,67 +671,67 @@
     aristocrats = {
         culture = wallonian
         religion = catholic
-        size = 325
+        size = 256
     }
 
     clergymen = {
         culture = wallonian
         religion = catholic
-        size = 407
+        size = 321
     }
 
     artisans = {
         culture = wallonian
         religion = catholic
-        size = 1800
+        size = 1422
     }
 
     clerks = {
         culture = wallonian
         religion = catholic
-        size = 300
+        size = 237
     }
 
     craftsmen = {
         culture = wallonian
         religion = catholic
-        size = 3000
+        size = 2370
     }
 
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 1650
+        size = 1303
     }
 
     farmers = {
         culture = wallonian
         religion = catholic
-        size = 33112
+        size = 26158
     }
 
     clergymen = {
         culture = north_german
         religion = protestant
-        size = 112
+        size = 88
     }
 
     artisans = {
         culture = north_german
         religion = protestant
-        size = 525
+        size = 414
     }
 
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 150
+        size = 118
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 12712
+        size = 10042
     }
 }
 #Luxembourg Region (172000)
@@ -740,30 +740,30 @@
     aristocrats = {
         culture = wallonian
         religion = catholic
-        size = 675
+        size = 533
     }
 
     clergymen = {
         culture = wallonian
         religion = catholic
-        size = 637
+        size = 503
     }
 
     artisans = {
         culture = wallonian
         religion = catholic
-        size = 3000
+        size = 2370
     }
 
     soldiers = {
         culture = wallonian
         religion = catholic
-        size = 1650
+        size = 1303
     }
 
     farmers = {
         culture = wallonian
         religion = catholic
-        size = 58687
+        size = 46362
     }
 }

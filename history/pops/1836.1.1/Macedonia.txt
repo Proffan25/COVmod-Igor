@@ -5,85 +5,85 @@
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 2450
+        size = 1935
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 325
+        size = 256
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 2000
+        size = 1580
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 3000
+        size = 2370
     }
 
     farmers = {
         culture = turkish
         religion = sunni
-        size = 25225
+        size = 19927
     }
 
     clergymen = {
         culture = bulgarian
         religion = orthodox
-        size = 425
+        size = 335
     }
 
     artisans = {
         culture = bulgarian
         religion = orthodox
-        size = 2100
+        size = 1659
     }
 
     farmers = {
         culture = bulgarian
         religion = orthodox
-        size = 56475
+        size = 44615
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 158
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 1200
+        size = 948
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 11600
+        size = 9164
     }
 
     clergymen = {
         culture = sephardic
         religion = jewish
-        size = 25
+        size = 19
     }
 
     artisans = {
         culture = sephardic
         religion = jewish
-        size = 700
+        size = 553
     }
 
     farmers = {
         culture = sephardic
         religion = jewish
-        size = 275
+        size = 217
     }
 }
 #Monastir Region (268000) #see Greece.txt for balance of region
@@ -93,114 +93,114 @@
     clergymen = {
         culture = bulgarian
         religion = orthodox
-        size = 300
+        size = 237
     }
 
     artisans = {
         culture = bulgarian
         religion = orthodox
-        size = 425
+        size = 335
     }
 
     farmers = {
         culture = bulgarian
         religion = orthodox
-        size = 36275
+        size = 28657
     }
 
     aristocrats = {
         culture = turkish
         religion = sunni
-        size = 1500
+        size = 1185
     }
 
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 1125
+        size = 888
     }
 
     officers = {
         culture = turkish
         religion = sunni
-        size = 175
+        size = 138
     }
 
     clergymen = {
         culture = turkish
         religion = sunni
-        size = 50
+        size = 39
     }
 
     artisans = {
         culture = turkish
         religion = sunni
-        size = 1300
+        size = 1027
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 1100
+        size = 869
     }
 
     farmers = {
         culture = turkish
         religion = sunni
-        size = 1975
+        size = 1560
     }
 
     clergymen = {
         culture = albanian
         religion = sunni
-        size = 125
+        size = 98
     }
 
     artisans = {
         culture = albanian
         religion = sunni
-        size = 400
+        size = 316
     }
 
     soldiers = {
         culture = albanian
         religion = sunni
-        size = 1100
+        size = 869
     }
 
     farmers = {
         culture = albanian
         religion = sunni
-        size = 12275
+        size = 9697
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 175
+        size = 138
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 250
+        size = 197
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 9575
+        size = 7564
     }
 
     clergymen = {
         culture = sephardic
         religion = jewish
-        size = 25
+        size = 19
     }
 
     artisans = {
         culture = sephardic
         religion = jewish
-        size = 975
+        size = 770
     }
 }

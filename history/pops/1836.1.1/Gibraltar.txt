@@ -5,60 +5,60 @@
     officers = {
         culture = british
         religion = protestant
-        size = 5
+        size = 3
     }
 
     bureaucrats = {
         culture = british
         religion = protestant
-        size = 25
+        size = 19
     }
 
     clergymen = {
         culture = british
         religion = protestant
-        size = 5
+        size = 3
     }
 
     soldiers = {
         culture = british
         religion = protestant
-        size = 100
+        size = 79
     }
 
     artisans = {
         culture = british
         religion = protestant
-        size = 135
+        size = 106
     }
 
     artisans = {
         culture = sephardic
         religion = jewish
-        size = 400
+        size = 316
     }
 
     clergymen = {
         culture = spanish
         religion = catholic
-        size = 50
+        size = 39
     }
 
     artisans = {
         culture = spanish
         religion = catholic
-        size = 3000
+        size = 2370
     }
 
     soldiers = {
         culture = spanish
         religion = catholic
-        size = 50
+        size = 39
     }
 
     farmers = {
         culture = spanish
         religion = catholic
-        size = 200
+        size = 158
     }
 }

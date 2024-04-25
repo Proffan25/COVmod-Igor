@@ -5,55 +5,55 @@
     aristocrats = {
         culture = spanish
         religion = catholic
-        size = 3
+        size = 2
     }
 
     bureaucrats = {
         culture = spanish
         religion = catholic
-        size = 10
+        size = 7
     }
 
     clergymen = {
         culture = spanish
         religion = catholic
-        size = 5
+        size = 3
     }
 
     artisans = {
         culture = spanish
         religion = catholic
-        size = 5
+        size = 3
     }
 
     soldiers = {
         culture = spanish
         religion = catholic
-        size = 5
+        size = 3
     }
 
     artisans = {
         culture = niger_congo_a
         religion = catholic
-        size = 120
+        size = 94
     }
 
     soldiers = {
         culture = niger_congo_a
         religion = catholic
-        size = 50
+        size = 39
     }
 
     farmers = {
         culture = niger_congo_a
         religion = catholic
-        size = 1530
+        size = 1208
     }
 
     slaves = {
         culture = niger_congo_a
         religion = animist
-        size = 1100
+        size = 869
     }
 }
 #uncolonized in 1836
@@ -62,30 +62,30 @@
     aristocrats = {
         culture = bantu
         religion = animist
-        size = 350
+        size = 276
     }
 
     clergymen = {
         culture = bantu
         religion = animist
-        size = 300
+        size = 237
     }
 
     artisans = {
         culture = bantu
         religion = animist
-        size = 1500
+        size = 1185
     }
 
     soldiers = {
         culture = bantu
         religion = animist
-        size = 350
+        size = 276
     }
 
     farmers = {
         culture = bantu
         religion = animist
-        size = 31500
+        size = 24885
     }
 }

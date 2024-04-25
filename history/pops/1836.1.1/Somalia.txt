@@ -6,49 +6,49 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 1050
+        size = 829
 	}
 
 	bureaucrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 25
+        size = 19
 	}
 
 	officers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 550
+        size = 434
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 2175
+        size = 1718
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 550
+        size = 434
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 43575
+        size = 34424
 	}
 
 	slaves = {
 		culture = afro_asiatic
 		religion = animist
-		size = 6000
+        size = 4740
 	}
 }
 #Kismayo (84000/21000 POPS)
@@ -56,67 +56,67 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 275
+        size = 217
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 650
+        size = 513
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 13775
+        size = 10882
 	}
 
 	aristocrats = {
 		culture = afro_asiatic
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = animist
-		size = 250
+        size = 197
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = animist
-		size = 4575
+        size = 3614
 	}
 
 	slaves = {
 		culture = afro_asiatic
 		religion = animist
-		size = 1100
+        size = 869
 	}
 }
 #uncolonized/ruled by the Sultan of Geledi in 1836
@@ -125,31 +125,31 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 450
+        size = 355
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 225
+        size = 177
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 1150
+        size = 908
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 225
+        size = 177
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 20950
+        size = 16550
 	}
 }
 #Majerteyn Region (192000)
@@ -159,37 +159,37 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 350
+        size = 276
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 175
+        size = 138
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 775
+        size = 612
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 200
+        size = 158
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 15500
+        size = 12245
 	}
 
 	slaves = {
 		culture = afro_asiatic
 		religion = animist
-		size = 2000
+        size = 1580
 	}
 }
 #Busaso (116000/29000 POPS)
@@ -197,49 +197,49 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 540
+        size = 426
 	}
 
 	bureaucrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 10
+        size = 7
 	}
 
 	officers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 275
+        size = 217
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 1175
+        size = 928
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 300
+        size = 237
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 21650
+        size = 17103
 	}
 
 	slaves = {
 		culture = afro_asiatic
 		religion = animist
-		size = 5000
+        size = 3950
 	}
 }
 #Adal Region (244000)
@@ -249,55 +249,55 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 890
+        size = 703
 	}
 
 	bureaucrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 10
+        size = 7
 	}
 
 	officers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 450
+        size = 355
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 1850
+        size = 1461
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 475
+        size = 375
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 33275
+        size = 26287
 	}
 
 	slaves = {
 		culture = afro_asiatic
 		religion = animist
-		size = 7000
+        size = 5530
 	}
 
 	slaves = {
 		culture = afro_asiatic
 		religion = animist
-		size = 3000
+        size = 2370
 	}
 }
 #Zayla (32000/8000 POPS)
@@ -305,31 +305,31 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 400
+        size = 316
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 7300
+        size = 5767
 	}
 }
 #Jibuti (28000/7000 POPS) #now part of Djibouti  
@@ -337,61 +337,61 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 2700
+        size = 2133
 	}
 
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 200
+        size = 158
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 3625
+        size = 2863
 	}
 
 }

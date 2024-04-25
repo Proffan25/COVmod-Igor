@@ -5,60 +5,60 @@
     clergymen = {
         culture = afro_caribbean
         religion = protestant
-        size = 15
+        size = 11
     }
 
     artisans = {
         culture = afro_caribbean
         religion = protestant
-        size = 100
+        size = 79
     }
 
     soldiers = {
         culture = afro_caribbean
         religion = protestant
-        size = 25
+        size = 19
     }
 
     farmers = {
         culture = afro_caribbean
         religion = protestant
-        size = 1110
+        size = 876
     }
 
     aristocrats = {
         culture = british
         religion = protestant
-        size = 25
+        size = 19
     }
 
     bureaucrats = {
         culture = british
         religion = protestant
-        size = 25
+        size = 19
     }
 
     clergymen = {
         culture = british
         religion = protestant
-        size = 25
+        size = 19
     }
 
     artisans = {
         culture = british
         religion = protestant
-        size = 150
+        size = 118
     }
 
     soldiers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 19
     }
 
     farmers = {
         culture = british
         religion = protestant
-        size = 780
+        size = 616
     }
 }

@@ -5,61 +5,61 @@
 	aristocrats = {
 		culture = portuguese
 		religion = catholic
-		size = 10
+        size = 7
 	}
 
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 15
+        size = 11
 	}
 
 	bureaucrats = {
 		culture = portuguese
 		religion = catholic
-		size = 5
+        size = 3
 	}
 
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 25
+        size = 19
 	}
 
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 20
+        size = 15
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = catholic
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = catholic
-		size = 375
+        size = 296
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = catholic
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = catholic
-		size = 5500
+        size = 4345
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = catholic
-		size = 2000
+        size = 1580
 	}
 }
 #Uncolonized in 1836/ruled by kingdom of Gabu
@@ -68,37 +68,37 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = animist
-		size = 1100
+        size = 869
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = animist
-		size = 14400
+        size = 11376
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-		size = 3000
+        size = 2370
 	}
 
 }

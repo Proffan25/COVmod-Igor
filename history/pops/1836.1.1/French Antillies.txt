@@ -5,67 +5,67 @@
     aristocrats = {
         culture = french
         religion = catholic
-        size = 750
+        size = 592
     }
 
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 500
+        size = 395
     }
 
     clergymen = {
         culture = french
         religion = catholic
-        size = 50
+        size = 39
     }
 
     artisans = {
         culture = french
         religion = catholic
-        size = 900
+        size = 711
     }
 
     soldiers = {
         culture = french
         religion = catholic
-        size = 250
+        size = 197
     }
 
     farmers = {
         culture = french
         religion = catholic
-        size = 400
+        size = 316
     }
 
     clergymen = {
         culture = afro_antillean
         religion = catholic
-        size = 125
+        size = 98
     }
 
     artisans = {
         culture = afro_antillean
         religion = catholic
-        size = 1250
+        size = 987
     }
 
     soldiers = {
         culture = afro_antillean
         religion = catholic
-        size = 250
+        size = 197
     }
 
     farmers = {
         culture = afro_antillean
         religion = catholic
-        size = 3400
+        size = 2686
     }
 
     slaves = {
         culture = afro_antillean
         religion = catholic
-        size = 20000
+        size = 15800
     }
 }
 #Guadeloupe (128400/32100 POPS)
@@ -73,60 +73,60 @@
     aristocrats = {
         culture = french
         religion = catholic
-        size = 850
+        size = 671
     }
 
     clergymen = {
         culture = french
         religion = catholic
-        size = 50
+        size = 39
     }
 
     artisans = {
         culture = french
         religion = catholic
-        size = 1300
+        size = 1027
     }
 
     soldiers = {
         culture = french
         religion = catholic
-        size = 300
+        size = 237
     }
 
     farmers = {
         culture = french
         religion = catholic
-        size = 600
+        size = 474
     }
 
     clergymen = {
         culture = afro_antillean
         religion = catholic
-        size = 150
+        size = 118
     }
 
     artisans = {
         culture = afro_antillean
         religion = catholic
-        size = 1500
+        size = 1185
     }
 
     soldiers = {
         culture = afro_antillean
         religion = catholic
-        size = 300
+        size = 237
     }
 
     farmers = {
         culture = afro_antillean
         religion = catholic
-        size = 3050
+        size = 2409
     }
 
     slaves = {
         culture = afro_antillean
         religion = catholic
-        size = 24000
+        size = 18960
     }
 }

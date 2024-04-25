@@ -5,7 +5,7 @@
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 15
+        size = 11
 	}
 }
 #Cocos Islands (500/125 POPS) #british trade post 1836 
@@ -13,13 +13,13 @@
 	aristocrats = {
 		culture = british
 		religion = protestant
-		size = 5
+        size = 3
 	}
 
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 120
+        size = 94
 	}
 
 }

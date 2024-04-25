@@ -5,67 +5,67 @@
     aristocrats = {
         culture = khmer
         religion = theravada
-        size = 2000
+        size = 1580
     }
 
     bureaucrats = {
         culture = khmer
         religion = theravada
-        size = 150
+        size = 118
     }
 
     officers = {
         culture = khmer
         religion = theravada
-        size = 200
+        size = 158
     }
 
     clergymen = {
         culture = khmer
         religion = theravada
-        size = 1125
+        size = 888
     }
 
     artisans = {
         culture = khmer
         religion = theravada
-        size = 5500
+        size = 4345
     }
 
     soldiers = {
         culture = khmer
         religion = theravada
-        size = 4000
+        size = 3160
     }
 
     farmers = {
         culture = khmer
         religion = theravada
-        size = 98025
+        size = 77439
     }
 
     slaves = {
         culture = khmer
         religion = theravada
-        size = 2000
+        size = 1580
     }
 
     clergymen = {
         culture = khmer
         religion = mahayana
-        size = 75
+        size = 59
     }
 
     artisans = {
         culture = khmer
         religion = mahayana
-        size = 1250
+        size = 987
     }
 
     farmers = {
         culture = khmer
         religion = mahayana
-        size = 2675
+        size = 2113
     }
 }
 #Kampot (160000/40000 POPS)
@@ -73,49 +73,49 @@
     aristocrats = {
         culture = khmer
         religion = theravada
-        size = 725
+        size = 572
     }
 
     clergymen = {
         culture = khmer
         religion = theravada
-        size = 375
+        size = 296
     }
 
     artisans = {
         culture = khmer
         religion = theravada
-        size = 1750
+        size = 1382
     }
 
     soldiers = {
         culture = khmer
         religion = theravada
-        size = 1100
+        size = 869
     }
 
     farmers = {
         culture = khmer
         religion = theravada
-        size = 34150
+        size = 26978
     }
 
     clergymen = {
         culture = khmer
         religion = mahayana
-        size = 25
+        size = 19
     }
 
     artisans = {
         culture = khmer
         religion = mahayana
-        size = 500
+        size = 395
     }
 
     farmers = {
         culture = khmer
         religion = mahayana
-        size = 1475
+        size = 1165
     }
 }
 #Stongtreng (84000/21000 POPS)
@@ -123,61 +123,61 @@
     aristocrats = {
         culture = khmer
         religion = theravada
-        size = 300
+        size = 237
     }
 
     clergymen = {
         culture = khmer
         religion = theravada
-        size = 175
+        size = 138
     }
 
     artisans = {
         culture = khmer
         religion = theravada
-        size = 900
+        size = 711
     }
 
     soldiers = {
         culture = khmer
         religion = theravada
-        size = 175
+        size = 138
     }
 
     farmers = {
         culture = khmer
         religion = theravada
-        size = 16450
+        size = 12995
     }
 
     aristocrats = {
         culture = khmer
         religion = animist
-        size = 50
+        size = 39
     }
 
     clergymen = {
         culture = khmer
         religion = animist
-        size = 50
+        size = 39
     }
 
     artisans = {
         culture = khmer
         religion = animist
-        size = 125
+        size = 98
     }
 
     soldiers = {
         culture = khmer
         religion = animist
-        size = 25
+        size = 19
     }
 
     farmers = {
         culture = khmer
         religion = animist
-        size = 2750
+        size = 2172
     }
 }
 #under the rule of Siam in 1836
@@ -186,102 +186,102 @@
     aristocrats = {
         culture = thai
         religion = theravada
-        size = 25
+        size = 19
     }
 
     bureaucrats = {
         culture = thai
         religion = theravada
-        size = 50
+        size = 39
     }
 
     officers = {
         culture = thai
         religion = theravada
-        size = 75
+        size = 59
     }
 
     clergymen = {
         culture = thai
         religion = theravada
-        size = 25
+        size = 19
     }
 
     artisans = {
         culture = thai
         religion = theravada
-        size = 50
+        size = 39
     }
 
     soldiers = {
         culture = thai
         religion = theravada
-        size = 50
+        size = 39
     }
 
     farmers = {
         culture = thai
         religion = theravada
-        size = 725
+        size = 572
     }
 
     aristocrats = {
         culture = khmer
         religion = theravada
-        size = 750
+        size = 592
     }
 
     clergymen = {
         culture = khmer
         religion = theravada
-        size = 400
+        size = 316
     }
 
     artisans = {
         culture = khmer
         religion = theravada
-        size = 2000
+        size = 1580
     }
 
     soldiers = {
         culture = khmer
         religion = theravada
-        size = 425
+        size = 335
     }
 
     farmers = {
         culture = khmer
         religion = theravada
-        size = 39425
+        size = 31145
     }
 
     slaves = {
         culture = khmer
         religion = theravada
-        size = 1100
+        size = 869
     }
 
     clergymen = {
         culture = thai
         religion = mahayana
-        size = 50
+        size = 39
     }
 
     artisans = {
         culture = thai
         religion = mahayana
-        size = 750
+        size = 592
     }
 
     soldiers = {
         culture = thai
         religion = mahayana
-        size = 50
+        size = 39
     }
 
     farmers = {
         culture = thai
         religion = mahayana
-        size = 2150
+        size = 1698
     }
 }

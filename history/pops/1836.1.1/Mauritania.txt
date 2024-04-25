@@ -5,49 +5,49 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 450
+        size = 355
 	}
 
 	bureaucrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 20
+        size = 15
 	}
 
 	officers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 5
+        size = 3
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 225
+        size = 177
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 925
+        size = 730
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 250
+        size = 197
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 18125
+        size = 14318
 	}
 
 	slaves = {
 		culture = afro_asiatic
 		religion = animist
-		size = 3000
+        size = 2370
 	}
 }
 #Rosso (72000/18000 POPS) 
@@ -55,37 +55,37 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 350
+        size = 276
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 175
+        size = 138
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 900
+        size = 711
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 175
+        size = 138
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 11400
+        size = 9006
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-		size = 5000
+        size = 3950
 	}
 }
 #uncolonized in 1836/ruled by Emir of Brakna  
@@ -94,49 +94,49 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 390
+        size = 308
 	}
 
 	bureaucrats = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 10
+        size = 7
 	}
 
 	officers = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 5
+        size = 3
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 200
+        size = 158
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 850
+        size = 671
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 220
+        size = 173
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 13325
+        size = 10526
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-		size = 6000
+        size = 4740
 	}
 }
 #Maghama (28000/7000 POPS) 
@@ -144,37 +144,37 @@
 	aristocrats = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 275
+        size = 217
 	}
 
 	soldiers = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = niger_congo_a
 		religion = sunni
-		size = 3475
+        size = 2745
 	}
 
 	slaves = {
 		culture = niger_congo_a
 		religion = animist
-		size = 3000
+        size = 2370
 	}
 }
 #Adrar-Hodh Region (52000) 
@@ -184,43 +184,43 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 40
+        size = 31
 	}
 
 	bureaucrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 3
+        size = 2
 	}
 
 	officers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 7
+        size = 5
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 2700
+        size = 2133
 	}
 }
 #Tichit (12000/3000 POPS) 
@@ -228,31 +228,31 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 2700
+        size = 2133
 	}
 }
 #Walata (28000/7000 POPS) 
@@ -260,61 +260,61 @@
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 2700
+        size = 2133
 	}
 
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 100
+        size = 79
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 200
+        size = 158
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 3675
+        size = 2903
 	}
 }
 #Rio de Oro Region (16000) #see West Sahara.txt for balance of region
@@ -324,61 +324,61 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 10
+        size = 7
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 15
+        size = 11
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 900
+        size = 711
 	}
 
 	aristocrats = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 150
+        size = 118
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = sunni
-		size = 2700
+        size = 2133
 	}
 
 }

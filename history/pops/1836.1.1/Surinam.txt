@@ -5,55 +5,55 @@
 	aristocrats = {
 		culture = dutch
 		religion = protestant
-		size = 25
+        size = 19
 	}
 
 	bureaucrats = {
 		culture = dutch
 		religion = protestant
-		size = 10
+        size = 7
 	}
 
 	artisans = {
 		culture = dutch
 		religion = protestant
-		size = 50
+        size = 39
 	}
 
 	soldiers = {
 		culture = dutch
 		religion = protestant
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 1750
+        size = 1382
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 1200
+        size = 948
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 25
+        size = 19
 	}
 
 	slaves = {
 		culture = afro_caribbean
 		religion = animist
-		size = 9000
+        size = 7110
 	}
 }
 #Aperina (8000/2000 POPS)
@@ -61,31 +61,31 @@
 	aristocrats = {
 		culture = brazilian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = brazilian
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = brazilian
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	soldiers = {
 		culture = brazilian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = brazilian
 		religion = animist
-		size = 1750
+        size = 1382
 	}
 
 }

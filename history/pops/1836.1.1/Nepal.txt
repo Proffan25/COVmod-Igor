@@ -5,103 +5,103 @@
 	aristocrats = {
 		culture = nepali
 		religion = hindu
-		size = 2000
+        size = 1580
 	}
 
 	bureaucrats = {
 		culture = nepali
 		religion = hindu
-		size = 175
+        size = 138
 	}
 
 	officers = {
 		culture = nepali
 		religion = hindu
-		size = 225
+        size = 177
 	}
 
 	clergymen = {
 		culture = nepali
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	artisans = {
 		culture = nepali
 		religion = hindu
-		size = 4050
+        size = 3199
 	}
 
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size = 7000
+        size = 5530
 	}
 
 	farmers = {
 		culture = nepali
 		religion = hindu
-		size = 86250
+        size = 68137
 	}
 
 	aristocrats = {
 		culture = tibetan
 		religion = gelugpa
-		size = 200
+        size = 158
 	}
 
 	clergymen = {
 		culture = tibetan
 		religion = gelugpa
-		size = 100
+        size = 79
 	}
 
 	artisans = {
 		culture = tibetan
 		religion = gelugpa
-		size = 475
+        size = 375
 	}
 
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = tibetan
 		religion = gelugpa
-		size = 10125
+        size = 7998
 	}
 
 	aristocrats = {
 		culture = nepali
 		religion = animist
-		size = 400
+        size = 316
 	}
 
 	clergymen = {
 		culture = nepali
 		religion = animist
-		size = 225
+        size = 177
 	}
 
 	artisans = {
 		culture = nepali
 		religion = animist
-		size = 1050
+        size = 829
 	}
 
 	soldiers = {
 		culture = nepali
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	farmers = {
 		culture = nepali
 		religion = animist
-		size = 21125
+        size = 16688
 	}
 }
 #Jumla (412000/103000 POPS)   
@@ -109,91 +109,91 @@
 	aristocrats = {
 		culture = nepali
 		religion = hindu
-		size = 900
+        size = 711
 	}
 
 	clergymen = {
 		culture = nepali
 		religion = hindu
-		size = 450
+        size = 355
 	}
 
 	artisans = {
 		culture = nepali
 		religion = hindu
-		size = 2300
+        size = 1817
 	}
 
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = nepali
 		religion = hindu
-		size = 49250
+        size = 38907
 	}
 
 	aristocrats = {
 		culture = tibetan
 		religion = gelugpa
-		size = 700
+        size = 553
 	}
 
 	clergymen = {
 		culture = tibetan
 		religion = gelugpa
-		size = 375
+        size = 296
 	}
 
 	artisans = {
 		culture = tibetan
 		religion = gelugpa
-		size = 1850
+        size = 1461
 	}
 
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size = 350
+        size = 276
 	}
 
 	farmers = {
 		culture = tibetan
 		religion = gelugpa
-		size = 33725
+        size = 26642
 	}
 
 	aristocrats = {
 		culture = nepali
 		religion = animist
-		size = 350
+        size = 276
 	}
 
 	clergymen = {
 		culture = nepali
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	artisans = {
 		culture = nepali
 		religion = animist
-		size = 950
+        size = 750
 	}
 
 	soldiers = {
 		culture = nepali
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	farmers = {
 		culture = nepali
 		religion = animist
-		size = 18300
+        size = 14457
 	}
 }
 

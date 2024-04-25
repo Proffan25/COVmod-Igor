@@ -5,31 +5,31 @@
     bureaucrats = {
         culture = british
         religion = protestant
-        size = 25
+        size = 19
     }
 
     clergymen = {
         culture = british
         religion = protestant
-        size = 25
+        size = 19
     }
 
     soldiers = {
         culture = british
         religion = protestant
-        size = 20
+        size = 15
     }
 
     artisans = {
         culture = british
         religion = protestant
-        size = 50
+        size = 39
     }
 
     farmers = {
         culture = british
         religion = protestant
-        size = 900
+        size = 711
     }
 }
 #Ascension (140/35 POPS)
@@ -37,13 +37,13 @@
     soldiers = {
         culture = british
         religion = protestant
-        size = 10
+        size = 7
     }
 
     farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 19
     }
 }
 #Tristan da Cunha (100/25 POPS)
@@ -51,6 +51,6 @@
     farmers = {
         culture = british
         religion = protestant
-        size = 25
+        size = 19
     }
 }

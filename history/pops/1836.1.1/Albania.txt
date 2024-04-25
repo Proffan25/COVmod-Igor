@@ -5,61 +5,61 @@
     aristocrats = {
         culture = albanian
         religion = sunni
-        size = 1500
+        size = 1185
     }
 
     bureaucrats = {
         culture = albanian
         religion = sunni
-        size = 1750
+        size = 1382
     }
 
     officers = {
         culture = albanian
         religion = sunni
-        size = 300
+        size = 237
     }
 
     clergymen = {
         culture = albanian
         religion = sunni
-        size = 625
+        size = 493
     }
 
     artisans = {
         culture = albanian
         religion = sunni
-        size = 3200
+        size = 2528
     }
 
     soldiers = {
         culture = albanian
         religion = sunni
-        size = 2000
+        size = 1580
     }
 
     farmers = {
         culture = albanian
         religion = sunni
-        size = 56025
+        size = 44259
     }
 
     clergymen = {
         culture = albanian
         religion = orthodox
-        size = 75
+        size = 59
     }
 
     artisans = {
         culture = albanian
         religion = orthodox
-        size = 500
+        size = 395
     }
 
     farmers = {
         culture = albanian
         religion = orthodox
-        size = 9425
+        size = 7445
     }
 }
 #Shkoder (408000/102000 POPS)
@@ -67,49 +67,49 @@
     aristocrats = {
         culture = albanian
         religion = sunni
-        size = 2150
+        size = 1698
     }
 
     clergymen = {
         culture = albanian
         religion = sunni
-        size = 750
+        size = 592
     }
 
     artisans = {
         culture = albanian
         religion = sunni
-        size = 3800
+        size = 3002
     }
 
     soldiers = {
         culture = albanian
         religion = sunni
-        size = 2000
+        size = 1580
     }
 
     farmers = {
         culture = albanian
         religion = sunni
-        size = 67300
+        size = 53167
     }
 
     clergymen = {
         culture = albanian
         religion = catholic
-        size = 225
+        size = 177
     }
 
     artisans = {
         culture = albanian
         religion = catholic
-        size = 1050
+        size = 829
     }
 
     farmers = {
         culture = albanian
         religion = catholic
-        size = 24725
+        size = 19532
     }
 }
 #Durres (120000/30000 POPS)
@@ -117,49 +117,49 @@
     aristocrats = {
         culture = albanian
         religion = sunni
-        size = 600
+        size = 474
     }
 
     clergymen = {
         culture = albanian
         religion = sunni
-        size = 225
+        size = 177
     }
 
     artisans = {
         culture = albanian
         religion = sunni
-        size = 1200
+        size = 948
     }
 
     soldiers = {
         culture = albanian
         religion = sunni
-        size = 1100
+        size = 869
     }
 
     farmers = {
         culture = albanian
         religion = sunni
-        size = 21075
+        size = 16649
     }
 
     clergymen = {
         culture = albanian
         religion = catholic
-        size = 50
+        size = 39
     }
 
     artisans = {
         culture = albanian
         religion = catholic
-        size = 300
+        size = 237
     }
 
     farmers = {
         culture = albanian
         religion = catholic
-        size = 5450
+        size = 4305
     }
 }
 #Vlore (272000/68000 POPS)
@@ -167,49 +167,49 @@
     aristocrats = {
         culture = albanian
         religion = sunni
-        size = 1400
+        size = 1106
     }
 
     clergymen = {
         culture = albanian
         religion = sunni
-        size = 625
+        size = 493
     }
 
     artisans = {
         culture = albanian
         religion = sunni
-        size = 3250
+        size = 2567
     }
 
     soldiers = {
         culture = albanian
         religion = sunni
-        size = 700
+        size = 553
     }
 
     farmers = {
         culture = albanian
         religion = sunni
-        size = 56025
+        size = 44259
     }
 
     clergymen = {
         culture = albanian
         religion = orthodox
-        size = 50
+        size = 39
     }
 
     artisans = {
         culture = albanian
         religion = orthodox
-        size = 300
+        size = 237
     }
 
     farmers = {
         culture = albanian
         religion = orthodox
-        size = 5450
+        size = 4305
     }
 }
 #Epirus Region (168000) #see Greece.txt for balance of region
@@ -219,66 +219,66 @@
     aristocrats = {
         culture = albanian
         religion = sunni
-        size = 750
+        size = 592
     }
 
     clergymen = {
         culture = albanian
         religion = sunni
-        size = 250
+        size = 197
     }
 
     artisans = {
         culture = albanian
         religion = sunni
-        size = 700
+        size = 553
     }
 
     soldiers = {
         culture = albanian
         religion = sunni
-        size = 425
+        size = 335
     }
 
     farmers = {
         culture = albanian
         religion = sunni
-        size = 22875
+        size = 18071
     }
 
     clergymen = {
         culture = albanian
         religion = orthodox
-        size = 50
+        size = 39
     }
 
     artisans = {
         culture = albanian
         religion = orthodox
-        size = 300
+        size = 237
     }
 
     farmers = {
         culture = albanian
         religion = orthodox
-        size = 6650
+        size = 5253
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 125
+        size = 98
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 1100
+        size = 869
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 8775
+        size = 6932
     }
 }

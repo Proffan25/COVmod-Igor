@@ -5,31 +5,31 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 125
+        size = 98
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 350
+        size = 276
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 6375
+        size = 5036
 	}
 }
 #Nokaneng (12000/3000 POPS) 
@@ -37,61 +37,61 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 900
+        size = 711
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 1800
+        size = 1422
 	}
 }
 #Tshabong (12000/3000 POPS) 
@@ -99,61 +99,61 @@
 	aristocrats = {
 		culture = khoisan
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = khoisan
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = khoisan
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	soldiers = {
 		culture = khoisan
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = khoisan
 		religion = animist
-		size = 1800
+        size = 1422
 	}
 
 	aristocrats = {
 		culture = khoisan
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	clergymen = {
 		culture = khoisan
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = khoisan
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	soldiers = {
 		culture = khoisan
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	farmers = {
 		culture = khoisan
 		religion = animist
-		size = 900
+        size = 711
 	}
 }
 #Mochidi (16000/4000 POPS) 
@@ -161,31 +161,31 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 200
+        size = 158
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 3650
+        size = 2883
 	}
 }
 #uncolonized in 1836/dominated by the Ndebele in 1836
@@ -194,61 +194,61 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 20
+        size = 15
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 900
+        size = 711
 	}
 
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 900
+        size = 711
 	}
 
 }

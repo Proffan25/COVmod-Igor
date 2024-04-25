@@ -5,67 +5,67 @@
 	aristocrats = {
 		culture = portuguese
 		religion = catholic
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 50
+        size = 39
 	}
 
 	bureaucrats = {
 		culture = portuguese
 		religion = catholic
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 250
+        size = 197
 	}
 
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = portuguese
 		religion = catholic
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = afro_asiatic
 		religion = catholic
-		size = 150
+        size = 118
 	}
 
 	artisans = {
 		culture = afro_asiatic
 		religion = catholic
-		size = 700
+        size = 553
 	}
 
 	soldiers = {
 		culture = afro_asiatic
 		religion = catholic
-		size = 150
+        size = 118
 	}
 
 	farmers = {
 		culture = afro_asiatic
 		religion = catholic
-		size = 13500
+        size = 10665
 	}
 
 	slaves = {
 		culture = afro_asiatic
 		religion = catholic
-		size = 4000
+        size = 3160
 	}
 
 }

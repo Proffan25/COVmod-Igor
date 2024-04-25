@@ -5,31 +5,31 @@
 	aristocrats = {
 		culture = melanesian
 		religion = animist
-		size = 125
+        size = 98
 	}
 
 	clergymen = {
 		culture = melanesian
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = melanesian
 		religion = animist
-		size = 350
+        size = 276
 	}
 
 	soldiers = {
 		culture = melanesian
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = melanesian
 		religion = animist
-		size = 6375
+        size = 5036
 	}
 
 }

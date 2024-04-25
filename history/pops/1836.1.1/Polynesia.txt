@@ -5,61 +5,61 @@
 	aristocrats = {
 		culture = polynesian
 		religion = protestant
-		size = 450
+        size = 355
 	}
 
 	bureaucrats = {
 		culture = polynesian
 		religion = protestant
-		size = 75
+        size = 59
 	}
 
 	officers = {
 		culture = polynesian
 		religion = protestant
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = protestant
-		size = 250
+        size = 197
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = protestant
-		size = 1150
+        size = 908
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = protestant
-		size = 1100
+        size = 869
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = protestant
-		size = 20025
+        size = 15819
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = catholic
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = catholic
-		size = 100
+        size = 79
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = catholic
-		size = 2000
+        size = 1580
 	}
 }
 #uncolonized in 1836
@@ -68,7 +68,7 @@
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 }
 #Central Polynesia Region (604)
@@ -78,31 +78,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 125
+        size = 98
 	}
 }
 #Palmyra Atoll (60/15 POPS)
@@ -110,7 +110,7 @@
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 }
 #Western Polynesia Region (47000)
@@ -120,31 +120,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 150
+        size = 118
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 2950
+        size = 2330
 	}
 }
 #uncolonized in 1836
@@ -153,31 +153,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 8
+        size = 6
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 12
+        size = 9
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 450
+        size = 355
 	}
 }
 #Wallis & Futuna (3000/750 POPS)
@@ -185,31 +185,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 35
+        size = 27
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 675
+        size = 533
 	}
 }
 #uncolonized in 1836/ruled by the king of Samoa
@@ -218,31 +218,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 100
+        size = 79
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 325
+        size = 256
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 5700
+        size = 4503
 	}
 }
 #Tutuila (4000/1000 POPS)
@@ -250,31 +250,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 900
+        size = 711
 	}
 }
 #Central Polynesia Region (9600)
@@ -284,31 +284,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 35
+        size = 27
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 1350
+        size = 1066
 	}
 }
 #Tongareva (1000/250 POPS)
@@ -316,31 +316,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 3
+        size = 2
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 12
+        size = 9
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 225
+        size = 177
 	}
 }
 #Tokelau (600/150 POPS)
@@ -348,31 +348,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 3
+        size = 2
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 3
+        size = 2
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 2
+        size = 1
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 137
+        size = 108
 	}
 }
 #Niue (2000/500 POPS)
@@ -380,31 +380,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 5
+        size = 3
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 455
+        size = 359
 	}
 }
 #Eastern Polynesia Region (39160)
@@ -414,31 +414,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 225
+        size = 177
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 50
+        size = 39
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 4100
+        size = 3239
 	}
 }
 #Marquesas (5000/1250 POPS)
@@ -446,31 +446,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 60
+        size = 47
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 1125
+        size = 888
 	}
 }
 #Tuamotu Islands (6000/1500 POPS)
@@ -478,31 +478,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 25
+        size = 19
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 35
+        size = 27
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 75
+        size = 59
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 1350
+        size = 1066
 	}
 }
 #Pitcairn Islands (160/40 POPS) #british trade post - proclaimed colony 1838
@@ -510,19 +510,19 @@
 	clergymen = {
 		culture = polynesian
 		religion = protestant
-		size = 1
+        size = 0
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = protestant
-		size = 4
+        size = 3
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = protestant
-		size = 35
+        size = 27
 	}
 }
 #Easter Island Region (3000)
@@ -532,31 +532,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 15
+        size = 11
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 35
+        size = 27
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 10
+        size = 7
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 675
+        size = 533
 	}
 
 }

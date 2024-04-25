@@ -5,73 +5,73 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 1954
+        size = 1543
     }
 
     bureaucrats = {
         culture = platinean
         religion = catholic
-        size = 170
+        size = 134
     }
 
     officers = {
         culture = platinean
         religion = catholic
-        size = 170
+        size = 134
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 850
+        size = 671
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 3332
+        size = 2632
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size = 3740
+        size = 2954
     }
 
     farmers = {
         culture = platinean
         religion = catholic
-        size = 68322
+        size = 53974
     }
 
     clergymen = {
         culture = south_andean
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = south_andean
         religion = catholic
-        size = 425
+        size = 335
     }
 
     soldiers = {
         culture = south_andean
         religion = catholic
-        size = 85
+        size = 67
     }
 
     farmers = {
         culture = south_andean
         religion = catholic
-        size = 5355
+        size = 4230
     }
 
     slaves = {
         culture = south_andean
         religion = catholic
-        size = 2550
+        size = 2014
     }
 }
 #Paysandu (36000/9000 POPS)
@@ -79,31 +79,31 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 680
+        size = 537
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 254
+        size = 200
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 1530
+        size = 1208
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size = 3740
+        size = 2954
     }
 
     farmers = {
         culture = platinean
         religion = catholic
-        size = 24734
+        size = 19539
     }
 }
 #Tacumba (12000/3000 POPS)
@@ -111,55 +111,55 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 84
+        size = 66
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 170
+        size = 134
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 340
+        size = 268
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size = 84
+        size = 66
     }
 
     farmers = {
         culture = platinean
         religion = catholic
-        size = 6120
+        size = 4834
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 25
+        size = 19
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 17
+        size = 13
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 1572
+        size = 1241
     }
 }
 #Melo (40000/10000 POPS)
@@ -167,54 +167,54 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 510
+        size = 402
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 170
+        size = 134
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 1190
+        size = 940
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size = 3740
+        size = 2954
     }
 
     farmers = {
         culture = platinean
         religion = catholic
-        size = 18530
+        size = 14638
     }
 
     clergymen = {
         culture = brazilian
         religion = catholic
-        size = 85
+        size = 67
     }
 
     artisans = {
         culture = brazilian
         religion = catholic
-        size = 255
+        size = 201
     }
 
     soldiers = {
         culture = brazilian
         religion = catholic
-        size = 42
+        size = 33
     }
 
     farmers = {
         culture = brazilian
         religion = catholic
-        size = 4717
+        size = 3726
     }
 }
