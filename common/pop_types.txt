@@ -1075,105 +1075,44 @@ assimilation_chance = {
 	factor = 1
 
 
-#IMPORTANT DO NOT DELETE - blocks assimilation if the state is colonial and/or the country trying to assimilate pops is unciv and/or the pop is below 100% life needs.	
+	#IMPORTANT DO NOT DELETE - blocks assimilation if the state is colonial and/or the country trying to assimilate pops is unciv and/or the pop is below 100% life needs.	
 	modifier = {
 		factor = -1000
-		OR = {
-			AND = {
-				has_pop_culture = afro_american
-				country = {
-					is_culture_group = american_cultures
-				}
-			}
-			OR = {
-				state_scope = { is_colonial = yes }
-				country = {	
-					civilized = no
-				}
-			}
+		state_scope = { is_colonial = yes }
+		country = {	
+			civilized = no
 		}
 	}
 	
-#NEW WORLD NATION BONUS - 50% more base assimilation rate for new world nations on provinces in north america, south america, and oceania. (0.000198 + base)(new rate = 0.000594)
-	modifier = {
-		factor = 5
-		country = {
-			has_country_flag = new_world_nation
-		}
-		OR = {
-			location = {
-				OR = {
-					continent = north_america
-					continent = south_america
-					continent = australia
-					continent = polynesia_micronesia
-				}
-			}
-			AND = {			
-				location = {
-					continent = africa
-				}
-				NOT = {
-					OR = {
-						has_pop_culture = nilo_saharan
-						has_pop_culture = bantu
-						has_pop_culture = niger_congo_a
-						has_pop_culture = khoisan
-						has_pop_culture = afro_asiatic
-						has_pop_culture = malagasy
-						is_culture_group = arab
-					}
-				}
-			}
-		}
-	}
+	#NEW WORLD NATION BONUS - 50% more base assimilation rate for new world nations on provinces in north america, south america, and oceania. (0.000198 + base)(new rate = 0.000594)
 	modifier = {
 		factor = 10
-		has_culture_core = no
 		country = {
 			has_country_flag = new_world_nation
 		}
-		OR = {
-			location = {
-				OR = {
-					continent = north_america
-					continent = south_america
-					continent = australia
-					continent = polynesia_micronesia
-				}
-			}
-			AND = {			
-				location = {
-					continent = africa
-				}
-				NOT = {
-					OR = {
-						has_pop_culture = nilo_saharan
-						has_pop_culture = bantu
-						has_pop_culture = niger_congo_a
-						has_pop_culture = khoisan
-						has_pop_culture = afro_asiatic
-						has_pop_culture = malagasy
-						is_culture_group = arab
-					}
-				}
+		location = {
+			OR = {
+				continent = north_america
+				continent = south_america
+				continent = australia
+				continent = polynesia_micronesia
 			}
 		}
 	}
 	
-#BASELINE ASSIMILATION	- averages to 0.000396 rate. (averages 39.6 people assimilating per month in a 100k province)
-#IMPORTANT NOTE - If a pop has_culture_core = no, it must have its bonuses scaled down to a 100th less magnitude. (if base is factor 10, has_culture_core = no must be 0.1) This must be reflected in all future modifiers.
+	#BASELINE ASSIMILATION	- averages to 0.000396 rate. (averages 39.6 people assimilating per month in a 100k province)
+	#IMPORTANT NOTE - If a pop has_culture_core = no, it must have its bonuses scaled down to a 100th less magnitude. (if base is factor 10, has_culture_core = no must be 0.1) This must be reflected in all future modifiers.
 	group = {
 		modifier = {
 			factor = 10
-			has_culture_core = yes
 		}
 		modifier = {
 			factor = -9.9
 			has_culture_core = no
 		}
 	}
-#LITERACY MODIFIERS - averages 0.00000396 additional rate per 10% literacy up to 0.0000396 additional rate at 99% literacy. (averages 3.96 people assimilating per month at 99% literacy in a 100k province)
+
+	#LITERACY MODIFIERS - averages 0.00000396 additional rate per 10% literacy up to 0.0000396 additional rate at 99% literacy. (averages 3.96 people assimilating per month at 99% literacy in a 100k province)
 	group = {
 		modifier = {
 			factor = 0.25
@@ -1184,8 +1123,6 @@ assimilation_chance = {
 			literacy = 0.1
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			literacy = 0.2
@@ -1195,8 +1132,6 @@ assimilation_chance = {
 			literacy = 0.2
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			literacy = 0.3
@@ -1206,8 +1141,6 @@ assimilation_chance = {
 			literacy = 0.3
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			literacy = 0.4
@@ -1217,8 +1150,6 @@ assimilation_chance = {
 			literacy = 0.4
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			literacy = 0.5
@@ -1228,8 +1159,6 @@ assimilation_chance = {
 			literacy = 0.5
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			literacy = 0.6
@@ -1239,8 +1168,6 @@ assimilation_chance = {
 			literacy = 0.6
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			literacy = 0.7
@@ -1250,8 +1177,6 @@ assimilation_chance = {
 			literacy = 0.7
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			literacy = 0.8
@@ -1261,8 +1186,6 @@ assimilation_chance = {
 			literacy = 0.8
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			literacy = 0.9
@@ -1272,8 +1195,6 @@ assimilation_chance = {
 			literacy = 0.9
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			literacy = 0.99
@@ -1284,7 +1205,8 @@ assimilation_chance = {
 			has_culture_core = no
 		}
 	}
-#LUXURY GOODS MODIFIERS - averages 0.0000396 additional rate per 10% luxury goods up to 0.000396 additional rate at 99% luxury goods. (averages 39.6 people assimilating per month at 99% luxury goods in a 100k province)(doubles base rate)
+
+	#LUXURY GOODS MODIFIERS - averages 0.0000396 additional rate per 10% luxury goods up to 0.000396 additional rate at 99% luxury goods. (averages 39.6 people assimilating per month at 99% luxury goods in a 100k province)(doubles base rate)
 	group = {
 		modifier = {
 			factor = 0.5
@@ -1295,8 +1217,6 @@ assimilation_chance = {
 			luxury_needs = 0.1
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.5
 			luxury_needs = 0.2
@@ -1306,8 +1226,6 @@ assimilation_chance = {
 			luxury_needs = 0.2
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.5
 			luxury_needs = 0.3
@@ -1317,8 +1235,6 @@ assimilation_chance = {
 			luxury_needs = 0.3
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.5
 			luxury_needs = 0.4
@@ -1328,8 +1244,6 @@ assimilation_chance = {
 			luxury_needs = 0.4
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.5
 			luxury_needs = 0.5
@@ -1339,8 +1253,6 @@ assimilation_chance = {
 			luxury_needs = 0.5
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.5
 			luxury_needs = 0.6
@@ -1350,8 +1262,6 @@ assimilation_chance = {
 			luxury_needs = 0.6
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.5
 			luxury_needs = 0.7
@@ -1361,8 +1271,6 @@ assimilation_chance = {
 			luxury_needs = 0.7
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.5
 			luxury_needs = 0.8
@@ -1372,8 +1280,6 @@ assimilation_chance = {
 			luxury_needs = 0.8
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.5
 			luxury_needs = 0.9
@@ -1383,8 +1289,6 @@ assimilation_chance = {
 			luxury_needs = 0.9
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.5
 			luxury_needs = 0.99
@@ -1395,7 +1299,8 @@ assimilation_chance = {
 			has_culture_core = no
 		}
 	}
-#EVERY DAY GOODS MODIFIER - averages 0.00000396 additional rate per 10% everyday goods up to 0.0000396 additional rate at 99% everyday goods. (averages 3.96 people assimilating per month at 99% everyday goods in a 100k province)
+	
+	#EVERY DAY GOODS MODIFIER - averages 0.00000396 additional rate per 10% everyday goods up to 0.0000396 additional rate at 99% everyday goods. (averages 3.96 people assimilating per month at 99% everyday goods in a 100k province)
 	group = {
 		modifier = {
 			factor = 0.25
@@ -1406,8 +1311,6 @@ assimilation_chance = {
 			everyday_needs = 0.1
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			everyday_needs = 0.2
@@ -1417,8 +1320,6 @@ assimilation_chance = {
 			everyday_needs = 0.2
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			everyday_needs = 0.3
@@ -1428,8 +1329,6 @@ assimilation_chance = {
 			everyday_needs = 0.3
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			everyday_needs = 0.4
@@ -1439,8 +1338,6 @@ assimilation_chance = {
 			everyday_needs = 0.4
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			everyday_needs = 0.5
@@ -1450,8 +1347,6 @@ assimilation_chance = {
 			everyday_needs = 0.5
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			everyday_needs = 0.6
@@ -1461,8 +1356,6 @@ assimilation_chance = {
 			everyday_needs = 0.6
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			everyday_needs = 0.7
@@ -1472,8 +1365,6 @@ assimilation_chance = {
 			everyday_needs = 0.7
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			everyday_needs = 0.8
@@ -1483,8 +1374,6 @@ assimilation_chance = {
 			everyday_needs = 0.8
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			everyday_needs = 0.9
@@ -1494,8 +1383,6 @@ assimilation_chance = {
 			everyday_needs = 0.9
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = 0.25
 			everyday_needs = 0.99
@@ -1506,7 +1393,8 @@ assimilation_chance = {
 			has_culture_core = no
 		}
 	}
-#LIFE NEEDS MODIFIER - Starting at 99% life needs, and decreasing by 0.0000396 per 10% missing life needs down to -0.000396 assimilation chance. (counters base)
+
+	#LIFE NEEDS MODIFIER - Starting at 99% life needs, and decreasing by 0.0000396 per 10% missing life needs down to -0.000396 assimilation chance. (counters base)
 	group = {
 		modifier = {
 			factor = -1
@@ -1517,8 +1405,6 @@ assimilation_chance = {
 			has_culture_core = no
 			NOT = { life_needs = 0.99 }
 		}
-	}
-	group = {
 		modifier = {
 			factor = -1
 			NOT = { life_needs = 0.9 }
@@ -1528,8 +1414,6 @@ assimilation_chance = {
 			has_culture_core = no
 			NOT = { life_needs = 0.9 }
 		}
-	}
-	group = {
 		modifier = {
 			factor = -1
 			NOT = { life_needs = 0.8 }
@@ -1539,8 +1423,6 @@ assimilation_chance = {
 			has_culture_core = no
 			NOT = { life_needs = 0.8 }
 		}
-	}
-	group = {
 		modifier = {
 			factor = -1
 			NOT = { life_needs = 0.7 }
@@ -1550,8 +1432,6 @@ assimilation_chance = {
 			has_culture_core = no
 			NOT = { life_needs = 0.7 }
 		}
-	}
-	group = {
 		modifier = {
 			factor = -1
 			NOT = { life_needs = 0.6 }
@@ -1561,8 +1441,6 @@ assimilation_chance = {
 			has_culture_core = no
 			NOT = { life_needs = 0.6 }
 		}
-	}
-	group = {
 		modifier = {
 			factor = -2
 			NOT = { life_needs = 0.5 }
@@ -1572,8 +1450,6 @@ assimilation_chance = {
 			has_culture_core = no
 			NOT = { life_needs = 0.5 }
 		}
-	}
-	group = {
 		modifier = {
 			factor = -2
 			NOT = { life_needs = 0.4 }
@@ -1583,8 +1459,6 @@ assimilation_chance = {
 			has_culture_core = no
 			NOT = { life_needs = 0.4 }
 		}
-	}
-	group = {
 		modifier = {
 			factor = -2
 			NOT = { life_needs = 0.3 }
@@ -1594,8 +1468,6 @@ assimilation_chance = {
 			has_culture_core = no
 			NOT = { life_needs = 0.3 }
 		}
-	}
-	group = {
 		modifier = {
 			factor = -2
 			NOT = { life_needs = 0.2 }
@@ -1605,8 +1477,6 @@ assimilation_chance = {
 			has_culture_core = no
 			NOT = { life_needs = 0.2 }
 		}
-	}
-	group = {
 		modifier = {
 			factor = -2
 			NOT = { life_needs = 0.1 }
@@ -1617,118 +1487,8 @@ assimilation_chance = {
 			NOT = { life_needs = 0.1 }
 		}
 	}
-#MILITANCY MODIFIFER - 
-#	group = {
-#		modifier = {
-#			factor = -1
-#			militancy = 1
-#		}
-#		modifier = {
-#			factor = 0.99
-#			has_culture_core = no
-#			militancy = 1
-#		}
-#	}
-#	group = {
-#		modifier = {
-#			factor = -1
-#			militancy = 2
-#		}
-#		modifier = {
-#			factor = 0.99
-#			has_culture_core = no
-#			militancy = 2
-#		}
-#	}
-#	group = {
-#		modifier = {
-#			factor = -1
-#			militancy = 3
-#		}
-#		modifier = {
-#			factor = 0.99
-#			has_culture_core = no
-#			militancy = 3
-#		}
-#	}
-#	group = {
-#		modifier = {
-#			factor = -1
-#			militancy = 4
-#		}
-#		modifier = {
-#			factor = 0.99
-#			has_culture_core = no
-#			militancy = 4
-#		}
-#	}
-#	group = {
-#		modifier = {
-#			factor = -1
-#			militancy = 5
-#		}
-#		modifier = {
-#			factor = 0.99
-#			has_culture_core = no
-#			militancy = 5
-#		}
-#	}
-#	group = {
-#		modifier = {
-#			factor = -2
-#			militancy = 6
-#		}
-#		modifier = {
-#			factor = 1.98
-#			has_culture_core = no
-#			militancy = 6
-#		}
-#	}
-#	group = {
-#		modifier = {
-#			factor = -2
-#			militancy = 7
-#		}
-#		modifier = {
-#			factor = 1.98
-#			has_culture_core = no
-#			militancy = 7
-#		}
-#	}
-#	group = {
-#		modifier = {
-#			factor = -2
-#			militancy = 8
-#		}
-#		modifier = {
-#			factor = 1.98
-#			has_culture_core = no
-#			militancy = 8
-#		}
-#	}
-#	group = {
-#		modifier = {
-#			factor = -2
-#			militancy = 9
-#		}
-#		modifier = {
-#			factor = 1.98
-#			has_culture_core = no
-#			militancy = 9
-#		}
-#	}
-#	group = {	
-#		modifier = {
-#			factor = -2
-#			militancy = 10
-#		}
-#		modifier = {
-#			factor = 1.98
-#			has_culture_core = no
-#			militancy = 10
-#		}
-#	}
-#UNEMPLOYMENT MODIFIER - Reduces assimilation rate, starting at 10% unemployment, by 0.0000396 per 10% unemployment up to 99% unemployment. (At 99% unemployment, completely counters base assimilation.)
+	
+	#UNEMPLOYMENT MODIFIER - Reduces assimilation rate, starting at 10% unemployment, by 0.0000396 per 10% unemployment up to 99% unemployment. (At 99% unemployment, completely counters base assimilation.)
 	group = {
 		modifier = {
 			factor = -1
@@ -1739,8 +1499,6 @@ assimilation_chance = {
 			unemployment = 0.1
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = -1
 			unemployment = 0.2
@@ -1750,8 +1508,6 @@ assimilation_chance = {
 			unemployment = 0.2
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = -1
 			unemployment = 0.3
@@ -1761,8 +1517,6 @@ assimilation_chance = {
 			unemployment = 0.3
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = -1
 			unemployment = 0.4
@@ -1772,8 +1526,6 @@ assimilation_chance = {
 			unemployment = 0.4
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = -1
 			unemployment = 0.5
@@ -1783,8 +1535,6 @@ assimilation_chance = {
 			unemployment = 0.5
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = -2
 			unemployment = 0.6
@@ -1794,8 +1544,6 @@ assimilation_chance = {
 			unemployment = 0.6
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = -2
 			unemployment = 0.7
@@ -1805,8 +1553,6 @@ assimilation_chance = {
 			unemployment = 0.7
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = -2
 			unemployment = 0.8
@@ -1816,8 +1562,6 @@ assimilation_chance = {
 			unemployment = 0.8
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = -2
 			unemployment = 0.9
@@ -1827,8 +1571,6 @@ assimilation_chance = {
 			unemployment = 0.9
 			has_culture_core = no
 		}
-	}
-	group = {
 		modifier = {
 			factor = -2
 			unemployment = 0.99
@@ -1838,8 +1580,9 @@ assimilation_chance = {
 			unemployment = 0.99
 			has_culture_core = no
 		}
-	}	
-#EQUALITY NATIONAL VALUE BONUS - 50% more base assimilation rate for nations with the equality national value. (0.000198 + base)(new rate = 0.000594)
+	}
+
+	#EQUALITY NATIONAL VALUE BONUS - 50% more base assimilation rate for nations with the equality national value. (0.000198 + base)(new rate = 0.000594)
 	group = {
 		modifier = {
 			factor = 5
@@ -1855,7 +1598,19 @@ assimilation_chance = {
 			}
 		}	
 	}
-	
+
+	#Core - 50% more base assimilation rate for nations with the equality national value. (0.000198 + base)(new rate = 0.000594)
+	group = {
+		modifier = {
+			factor = 5
+			location = { is_core = THIS }
+		}
+		modifier = {
+			factor = -4.95
+			location = { is_core = THIS }
+			has_culture_core = no
+		}	
+	}
 }
 
 #general conversion mtth, same for all pops
