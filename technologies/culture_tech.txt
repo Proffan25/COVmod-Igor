@@ -1,4 +1,26 @@
 #aesthetics
+aesthetics_0 = {
+	area = aesthetics
+	year = 1815
+	cost = 1800
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+
 classicism_n_early_romanticism = {
 	area = aesthetics
 	year = 1836
@@ -167,6 +189,40 @@ mass_culture_n_the_avant_garde = {
 
 
 #philosophy
+philosophy_0 = {
+	area = philosophy
+	year = 1815
+	cost = 1800
+	
+	ai_chance = {
+		factor = 200
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 1840
+		}
+		modifier = {
+			factor = 2
+			year = 1850
+		}
+		modifier = {
+			factor = 1.1
+			year = 1865
+		}
+		modifier = {
+			factor = 2
+			year = 1875
+		}
+		modifier = {
+			factor = 2
+			year = 1885
+		}
+	}
+}
+
 late_enlightenment_philosophy = {
 	area = philosophy
 	year = 1836
@@ -333,6 +389,33 @@ anti__rationalism = {
 
 
 #social_thought
+social_thought_0 = {
+	area = social_thought
+	year = 1815
+	cost = 1800
+
+	ai_chance = {
+		factor = 90
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.4 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+		modifier = {
+			factor = 10 #1.5
+			not = { literacy = 0.4 }
+			year = 1850
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+
 malthusian_thought = {
 	area = social_thought
 	year = 1836
@@ -509,6 +592,25 @@ social_alienation = {
 
 
 #political_thought
+political_thought_0 = {
+	area = political_thought
+	year = 1815
+	cost = 1800
+	
+	ai_chance = {
+		factor = 100
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+			year = 1850
+		}
+	}
+}
+
 enlightenment_thought = {
 	area = political_thought
 	year = 1836
@@ -685,6 +787,33 @@ mass_politics = {
 
 
 #psychology
+psychology_0 = {
+	area = psychology
+	year = 1815
+	cost = 1800
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 1850 #1840
+		}
+		modifier = {
+			factor = 2
+			year = 1860 #1850
+		}
+	}
+
+}
+
 introspectionism = {
 	area = psychology
 	year = 1836

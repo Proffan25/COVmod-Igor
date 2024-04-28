@@ -1,4 +1,44 @@
 #army_doctrine
+army_doctrine_0 = {
+	area = army_doctrine
+	year = 1815
+	cost = 1800
+	unciv_military = yes
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.2
+			civilized = yes
+			any_neighbor_country = {
+				civilized = yes
+				NOT = { is_greater_power = yes }
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.05
+			war = yes
+		}
+		modifier = {
+			factor = 1.4
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.1
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = army_tech_school
+		}
+	}
+}
+
 post_napoleonic_thought = {
 	area = army_doctrine
 	year = 1836
@@ -314,6 +354,46 @@ modern_army_doctrine = {
 
 
 #light_armament
+light_armament_0 = {
+	area = light_armament
+	year = 1815
+	cost = 1800
+	unciv_military = yes
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			civilized = yes
+			any_neighbor_country = {
+				civilized = yes
+				NOT = { is_greater_power = yes }
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.05
+			war = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = army_tech_school
+		}
+	}
+}
+
 flintlock_rifles = {
 	area = light_armament
 	year = 1836
@@ -596,6 +676,46 @@ modern_divisional_structure = {
 
 
 #heavy_armament
+heavy_armament_0 = {
+	area = heavy_armament
+	year = 1815
+	cost = 1800
+	unciv_military = yes
+	
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			civilized = yes
+			any_neighbor_country = {
+				civilized = yes
+				NOT = { is_greater_power = yes }
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.05
+			war = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = army_tech_school
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+	}
+}
+
 bronze_muzzle_loaded_artillery = {
 	area = heavy_armament
 	year = 1836
@@ -854,6 +974,46 @@ heavy_armament_dunno = {
 
 
 #military_science
+military_science_0 = {
+	area = military_science
+	year = 1815
+	cost = 1800
+	unciv_military = yes
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			civilized = yes
+			any_neighbor_country = {
+				civilized = yes
+				NOT = { is_greater_power = yes }
+				military_score = THIS
+			}
+		}
+		modifier = {
+			factor = 1.05
+			war = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = army_tech_school
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+			any_neighbor_country = {
+				is_greater_power = yes
+				military_score = THIS
+			}
+		}
+	}
+}
+
 military_staff_system = {
 	area = military_science
 	year = 1836
@@ -1130,6 +1290,34 @@ aeronautics = {
 
 
 #army_leadership
+army_leadership_0 = {
+	area = army_leadership
+	year = 1815
+	cost = 1800
+	unciv_military = yes
+
+	ai_chance = {
+		factor = 1.5
+		modifier = {
+			factor = 1.02
+			tech_school = army_tech_school
+		}
+		modifier = {
+			factor = 1.5
+			war = yes
+		}
+		modifier = {
+			factor = 1.05
+			rank = 16
+			year = 1850
+		}
+		modifier = {
+			factor = 1.05
+			year = 1860
+		}
+	}
+}
+
 army_command_principle = {
 	area = army_leadership
 	year = 1836

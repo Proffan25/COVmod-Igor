@@ -1,4 +1,41 @@
 #financial_institutions
+financial_institutions_0 = {
+	area = financial_institutions
+	year = 1815
+	cost = 1800
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 3.5
+			rank = 16
+		}
+		modifier = {
+			factor = 5
+			OR = {
+				NOT = { total_pops = 7500000 }
+				total_pops = 15000000
+			}
+		}
+		modifier = {
+			factor = 1.5
+			economic_policy = laissez_faire
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.1
+			literacy = 0.6
+		}
+	}
+}
+
 private_banks = {
 	area = financial_institutions
 	year = 1836
@@ -206,6 +243,24 @@ mutual_funds = {
 
 
 #monetary_system
+monetary_system_0 = {
+	area = monetary_system
+	year = 1815
+	cost = 1800
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.1
+			rank = 16
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+	}
+}
+
 no_standard = {
 	area = monetary_system
 	year = 1836
@@ -369,6 +424,28 @@ market_determined_exchange_rates = {
 
 
 #economic_thought_and_critique
+economic_thought_and_critique_0 = {
+	area = economic_thought_and_critique
+	year = 1815
+	cost = 1800
+	
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}
+	}
+}
+
 early_classical_theory_and_critique = {
 	area = economic_thought_and_critique
 	year = 1836
@@ -545,6 +622,32 @@ keynesian_economics = {
 
 
 #market_functionality
+market_functionality_0 = {
+	area = market_functionality
+	year = 1815
+	cost = 1800 
+	
+	ai_chance = {
+		factor = 11
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.1 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.2
+		}		
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+	}
+}
+
 freedom_of_trade = {
 	area = market_functionality
 	year = 1836
@@ -730,6 +833,40 @@ government_interventionism = {
 
 
 #tech_organization
+tech_organization_0 = {
+	area = tech_organization
+	year = 1815
+	cost = 1800
+	
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 10
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 50
+		}
+		modifier = {
+			factor = 1.25
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.5
+			literacy = 0.6
+		}		
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+	}	
+}
+
 guild_based_production = {
 	area = tech_organization
 	year = 1836
