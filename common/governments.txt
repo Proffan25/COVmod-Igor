@@ -3,8 +3,7 @@
 
 
 
-proletarian_dictatorship =
-{
+proletarian_dictatorship = {
 	#which ideology of parties.
 	communist = yes
 	
@@ -13,10 +12,7 @@ proletarian_dictatorship =
 	flagType = communist
 }
 
-
-
-presidential_dictatorship =
-{
+presidential_dictatorship = {
 	#which ideology of parties.
 	reactionary = yes
 	
@@ -25,8 +21,7 @@ presidential_dictatorship =
 	flagType = republic
 }
 
-bourgeois_dictatorship =
-{
+bourgeois_dictatorship = {
 	#which ideology of parties.
 	anarcho_liberal = yes
 	
@@ -35,8 +30,7 @@ bourgeois_dictatorship =
 	flagType = republic
 }
 
-fascist_dictatorship =
-{
+fascist_dictatorship = {
 	#which ideology of parties.
 	fascist = yes
 	
@@ -44,7 +38,7 @@ fascist_dictatorship =
 	appoint_ruling_party = yes
 	flagType = fascist
 }
- 
+
 absolute_monarchy = {
 	liberal = yes
 	conservative = yes
@@ -108,4 +102,14 @@ theocracy = {
 
 	election = no
 	appoint_ruling_party = yes
+}
+
+viceroyalty = {
+	conservative = yes
+	reactionary = yes
+	
+	
+	election = no
+	appoint_ruling_party = yes
+	flagType = monarchy
 }

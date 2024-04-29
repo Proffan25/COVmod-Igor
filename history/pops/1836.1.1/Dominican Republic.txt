@@ -3,7 +3,7 @@
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
 	aristocrats = {
-		culture = caribeno
+		culture = spanish
 		religion = catholic
 		size = 237
 	}
@@ -11,19 +11,19 @@
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-		size = 98
+		size = 140
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-		size = 276
+		size = 700
 	}
 
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-		size = 59
+		size = 120
 	}
 
 	farmers = {
@@ -32,25 +32,7 @@
 		size = 4858
 	}
 
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 39
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 395
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 79
-	}
-
-	farmers = {
+	slaves = {
 		culture = afro_caribeno
 		religion = catholic
 		size = 7386
@@ -59,7 +41,7 @@
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
 	aristocrats = {
-		culture = caribeno
+		culture = spanish
 		religion = catholic
 		size = 197
 	}
@@ -67,19 +49,19 @@
 	clergymen = {
 		culture = caribeno
 		religion = catholic
-		size = 79
+		size = 110
 	}
 
 	artisans = {
 		culture = caribeno
 		religion = catholic
-		size = 316
+		size = 550
 	}
 
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-		size = 59
+		size = 110
 	}
 
 	farmers = {
@@ -88,25 +70,7 @@
 		size = 5668
 	}
 
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 39
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 237
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 59
-	}
-
-	farmers = {
+	slaves = {
 		culture = afro_caribeno
 		religion = catholic
 		size = 4404

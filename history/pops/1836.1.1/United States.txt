@@ -7645,150 +7645,108 @@
 #Tallahassee (32000/8000 POPS)
 198 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = spanish
+		religion = catholic
 		size = 79
 	}
 
-	bureaucrats = {
-		culture = dixie
-		religion = protestant
-		size = 98
-	}
-
 	officers = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 19
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 39
+		culture = caribeno
+		religion = catholic
+		size = 50
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 138
+		culture = caribeno
+		religion = catholic
+		size = 300
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 59
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 2804
-	}
-
-	clergymen = {
-		culture = afro_american
-		religion = protestant
-		size = 7
-	}
-
-	artisans = {
-		culture = afro_american
-		religion = protestant
-		size = 63
-	}
-
-	farmers = {
-		culture = afro_american
-		religion = protestant
-		size = 7
+		culture = caribeno
+		religion = catholic
+		size = 2820
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_caribeno
+		religion = catholic
 		size = 3081
 	}
 }
 #St Augustine (48000/12000 POPS)
 199 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = spanish
+		religion = catholic
 		size = 118
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 39
+		culture = caribeno
+		religion = catholic
+		size = 36
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 256
+		culture = caribeno
+		religion = catholic
+		size = 320
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = caribeno
+		religion = catholic
 		size = 98
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
-		size = 5806
-	}
-
-	clergymen = {
-		culture = afro_american
-		religion = protestant
-		size = 7
-	}
-
-	artisans = {
-		culture = afro_american
-		religion = protestant
-		size = 63
-	}
-
-	farmers = {
-		culture = afro_american
-		religion = protestant
-		size = 7
+		culture = caribeno
+		religion = catholic
+		size = 5820
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_caribeno
+		religion = catholic
 		size = 3081
 	}
 }
 #Tampa (8000/2000 POPS)
 200 = {
 	aristocrats = {
-		culture = native_american_minor
-		religion = animist
+		culture = spanish
+		religion = catholic
 		size = 19
 	}
 
 	clergymen = {
-		culture = native_american_minor
-		religion = animist
+		culture = caribeno
+		religion = catholic
 		size = 39
 	}
 
 	artisans = {
-		culture = native_american_minor
-		religion = animist
+		culture = caribeno
+		religion = catholic
 		size = 79
 	}
 
 	soldiers = {
-		culture = native_american_minor
-		religion = animist
+		culture = caribeno
+		religion = catholic
 		size = 19
 	}
 
@@ -7796,6 +7754,12 @@
 		culture = native_american_minor
 		religion = animist
 		size = 1422
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1500
 	}
 }
 #Georgia Region (628000)
