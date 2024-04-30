@@ -37,6 +37,8 @@ ARG_proletarian_dictatorship;PRRP;;;;;;;;;;;;;
 ARG_ADJ;Argentine;Argentine;Argentine;;Argentine;;;;;;;;;x;;;;
 VPE_viceroyalty;Peru;;;;;;;;;;;;;
 VPE_ADJ;Peruvian;Peruvian;Peruvian;;Peruvian;;;;;;;;;x;;;;
+VNG_viceroyalty;New Granada;;;;;;;;;;;;;
+VNG_ADJ;New Granadan;New Granadan;New Granadan;;New Granadan;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 coal;TCoAaL;Tcoaal;Tcoaal;;Toaal;;;;;;;;;x;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;
@@ -46,3 +48,4 @@ ENG_2131;Falklands and South Georgia;Falklands and South Georgia;Falklands and S
 absolute_empire;Absolute Monarchy;Absolute Monarchy;Absolute Monarchy;;Absolute Monarchy;;;;;;;;;x;;;;
 semi_constitutional_empire;Semi-Constitutional Monarchy;Semi-Constitutional Monarchy;Semi-Constitutional Monarchy;;Semi-Constitutional Monarchy;;;;;;;;;x;;;;
 constitutional_empire;Constitutional Monarchy;Constitutional Monarchy;Constitutional Monarchy;;Constitutional Monarchy;;;;;;;;;x;;;;
+viceroyalty;Viceroyalty;Viceroyalty;Viceroyalty;;Viceroyalty;;;;;;;;;x;;;;

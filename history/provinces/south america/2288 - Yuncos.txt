@@ -1,6 +1,7 @@
-owner = ECU
-controller = ECU
-add_core = ECU
+owner = VNG
+controller = VNG
+add_core = CLM
+add_core = VNG
 #add_core = PEU
 add_core = VPE
 #add_core = GCO
