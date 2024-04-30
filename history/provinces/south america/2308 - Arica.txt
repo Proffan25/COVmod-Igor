@@ -1,7 +1,6 @@
-owner = PEU
-controller = PEU
+owner = VPE
+controller = VPE
 add_core = PEU
-add_core = CHL
+add_core = VPE
 trade_goods = cattle
 life_rating = 35
-

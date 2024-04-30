@@ -1,6 +1,7 @@
-owner = CHL
-controller = CHL
+owner = VPE
+controller = VPE
 add_core = CHL
+add_core = VPE
 trade_goods = sulphur
 life_rating = 35
 1861.1.1 = { 

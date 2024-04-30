@@ -1,6 +1,7 @@
-owner = PEU
-controller = PEU
+owner = VPE
+controller = VPE
 add_core = PEU
+add_core = VPE
 trade_goods = iron
 life_rating = 35
 
