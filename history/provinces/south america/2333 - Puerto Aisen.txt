@@ -1,7 +1,2 @@
-owner = VPE
-controller = VPE
-add_core = CHL
-add_core = VPE
 trade_goods = fruit
 life_rating = 25
-

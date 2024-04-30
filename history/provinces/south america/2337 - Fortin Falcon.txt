@@ -1,7 +1,2 @@
-owner = VPE
-controller = VPE
-add_core = ARG
-add_core = PRG
 trade_goods = tropical_wood
 life_rating = 30
-

@@ -1,7 +1,2 @@
-owner = VPE
-controller = VPE
-add_core = ARG
-add_core = BRZ
 trade_goods = rubber
 life_rating = 25
-
