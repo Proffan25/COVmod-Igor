@@ -1,4 +1,4 @@
-capital = 2247
+capital = 2172
 primary_culture = spanish
 religion = catholic
 government = viceroyalty
@@ -8,7 +8,7 @@ literacy = 0.01
 civilized = yes
 
 set_country_flag = new_world_nation
-set_country_flag = south_american_immigrant_nation
+set_country_flag = north_american_immigrant_nation
 
 # Political reforms
 slavery = yes_slavery

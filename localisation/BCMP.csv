@@ -39,6 +39,8 @@ VPE_viceroyalty;Peru;;;;;;;;;;;;;
 VPE_ADJ;Peruvian;Peruvian;Peruvian;;Peruvian;;;;;;;;;x;;;;
 VNG_viceroyalty;New Granada;;;;;;;;;;;;;
 VNG_ADJ;New Granadan;New Granadan;New Granadan;;New Granadan;;;;;;;;;x;;;;
+VNS_viceroyalty;New Spain;;;;;;;;;;;;;
+VNS_ADJ;New Spanish;New Spanish;New Spanish;;New Spanish;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 coal;TCoAaL;Tcoaal;Tcoaal;;Toaal;;;;;;;;;x;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;

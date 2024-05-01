@@ -240,6 +240,7 @@ VNZ		="countries/Venezuela.txt"
 PBC		="countries/Peru-Bolivia Confederation.txt"
 VPE		="countries/VR Peru.txt"
 VNG		="countries/VR New Granada.txt"
+VNS		="countries/VR New Spain.txt"
 
 # Australasia
 AST		="countries/Australia.txt"

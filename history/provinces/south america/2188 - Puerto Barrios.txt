@@ -1,12 +1,7 @@
-owner = UCA
-controller = UCA
-add_core = UCA
+owner = VNS
+controller = VNS
 add_core = YUC
-#add_core = GUA
+add_core = UCA
+add_core = VNS
 trade_goods = fruit
 life_rating = 30
-1861.1.1 = {
-	owner = GUA
-	controller = GUA
-}
-

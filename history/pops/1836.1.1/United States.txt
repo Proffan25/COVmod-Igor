@@ -2754,42 +2754,6 @@
 #Houston (16000/4000 POPS)
 132 = {
 	aristocrats = {
-		culture = texan
-		religion = protestant
-		size = 39
-	}
-
-	clergymen = {
-		culture = texan
-		religion = protestant
-		size = 39
-	}
-
-	artisans = {
-		culture = texan
-		religion = protestant
-		size = 118
-	}
-
-	soldiers = {
-		culture = texan
-		religion = protestant
-		size = 869
-	}
-
-	farmers = {
-		culture = texan
-		religion = protestant
-		size = 2113
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 592
-	}
-
-	aristocrats = {
 		culture = native_american_minor
 		religion = animist
 		size = 1
@@ -2821,54 +2785,6 @@
 }
 #Austin (14000/3500 POPS)
 133 = {
-	aristocrats = {
-		culture = texan
-		religion = protestant
-		size = 19
-	}
-
-	bureaucrats = {
-		culture = texan
-		religion = protestant
-		size = 296
-	}
-
-	officers = {
-		culture = texan
-		religion = protestant
-		size = 15
-	}
-
-	clergymen = {
-		culture = texan
-		religion = protestant
-		size = 39
-	}
-
-	artisans = {
-		culture = texan
-		religion = protestant
-		size = 98
-	}
-
-	soldiers = {
-		culture = texan
-		religion = protestant
-		size = 869
-	}
-
-	farmers = {
-		culture = texan
-		religion = protestant
-		size = 1753
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 395
-	}
-
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
@@ -2931,42 +2847,6 @@
 }
 #San Antonio (10000/2500 POPS)
 137 = {
-	aristocrats = {
-		culture = texan
-		religion = protestant
-		size = 19
-	}
-
-	clergymen = {
-		culture = texan
-		religion = protestant
-		size = 19
-	}
-
-	artisans = {
-		culture = texan
-		religion = protestant
-		size = 79
-	}
-
-	soldiers = {
-		culture = texan
-		religion = protestant
-		size = 869
-	}
-
-	farmers = {
-		culture = texan
-		religion = protestant
-		size = 1244
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 197
-	}
-
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
@@ -3098,36 +2978,6 @@
 #"ruled" by Texas/de facto under Native Control
 #Dallas (4400/1100 POPS)
 134 = {
-	clergymen = {
-		culture = texan
-		religion = protestant
-		size = 3
-	}
-
-	artisans = {
-		culture = texan
-		religion = protestant
-		size = 3
-	}
-
-	soldiers = {
-		culture = texan
-		religion = protestant
-		size = 3
-	}
-
-	farmers = {
-		culture = texan
-		religion = protestant
-		size = 59
-	}
-
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 7
-	}
-
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist

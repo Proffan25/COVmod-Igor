@@ -1,9 +1,4 @@
-owner = UCAcontroller = UCAadd_core = UCAadd_core = YUC
-#add_core = GUA
+owner = VNScontroller = VNSadd_core = UCAadd_core = YUC
+add_core = VNS
 trade_goods = grain
 life_rating = 30
-1861.1.1 = {
-	owner = GUA
-	controller = GUA
-}
-
