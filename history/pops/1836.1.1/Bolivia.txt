@@ -323,6 +323,12 @@
 		religion = catholic
 		size = 33910
 	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 500
+	}
 }
 #Tarija (52000/13000 POPS)
 2315 = {

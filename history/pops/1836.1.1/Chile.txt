@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = platinean
 		religion = catholic
-		size = 200
+		size = 534
 	}
 
 	farmers = {
@@ -56,16 +56,16 @@
 		size = 1611
 	}
 
-	soldiers = {
-		culture = platinean
-		religion = catholic
-		size = 334
-	}
-
 	farmers = {
 		culture = platinean
 		religion = catholic
 		size = 30149
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 500
 	}
 }
 #Calama (32000/8000 POPS)

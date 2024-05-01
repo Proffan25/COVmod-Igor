@@ -23,53 +23,29 @@
 	clergymen = {
 		culture = platinean
 		religion = catholic
-		size = 671
+		size = 740
 	}
 
 	artisans = {
 		culture = platinean
 		religion = catholic
-		size = 2632
+		size = 3000
 	}
 
 	soldiers = {
 		culture = platinean
 		religion = catholic
-		size = 2954
+		size = 3010
 	}
 
 	farmers = {
 		culture = platinean
 		religion = catholic
-		size = 53974
-	}
-
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 67
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 335
-	}
-
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 67
-	}
-
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 4230
+		size = 58150
 	}
 
 	slaves = {
-		culture = south_andean
+		culture = afro_caribeno
 		religion = catholic
 		size = 2014
 	}
@@ -137,30 +113,6 @@
 		religion = catholic
 		size = 4834
 	}
-
-	clergymen = {
-		culture = brazilian
-		religion = catholic
-		size = 19
-	}
-
-	artisans = {
-		culture = brazilian
-		religion = catholic
-		size = 67
-	}
-
-	soldiers = {
-		culture = brazilian
-		religion = catholic
-		size = 13
-	}
-
-	farmers = {
-		culture = brazilian
-		religion = catholic
-		size = 1241
-	}
 }
 #Melo (40000/10000 POPS)
 2347 = {
@@ -192,29 +144,5 @@
 		culture = platinean
 		religion = catholic
 		size = 14638
-	}
-
-	clergymen = {
-		culture = brazilian
-		religion = catholic
-		size = 67
-	}
-
-	artisans = {
-		culture = brazilian
-		religion = catholic
-		size = 201
-	}
-
-	soldiers = {
-		culture = brazilian
-		religion = catholic
-		size = 33
-	}
-
-	farmers = {
-		culture = brazilian
-		religion = catholic
-		size = 3726
 	}
 }
