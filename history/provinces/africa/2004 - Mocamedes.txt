@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = PBA
+controller = PBA
 naval_base = 1
 trade_goods = fish
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = PBA
+controller = PBA
 trade_goods = coffee
 life_rating = 35
 

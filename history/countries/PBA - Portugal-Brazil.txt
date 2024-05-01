@@ -1,8 +1,8 @@
-capital = 521
+capital = 2447
 primary_culture = portuguese
 culture = brazilian
 religion = catholic
-government = hms_government
+government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_productivity
 literacy = 0.13
@@ -15,13 +15,13 @@ set_country_flag = south_american_immigrant_nation
 
 # Political reforms
 slavery = yes_slavery
-upper_house_composition = state_equal_weight
-vote_franschise = wealth_voting
+upper_house_composition = appointed
+vote_franschise = none_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = jefferson_method
-political_parties = non_secret_ballots
+voting_system = first_past_the_post
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -32,8 +32,8 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = POR_liberal
-last_election = 1834.1.1
+ruling_party = generic_conservative
+last_election = 1815.1.1
 upper_house = {
 	fascist = 0
 	liberal = 18
@@ -77,7 +77,7 @@ basic_chemistry = 1
 consciousness = 3
 nonstate_consciousness = 1
 
-oob = "POR_oob.txt"
+#oob = "POR_oob.txt"
 
 1861.1.1 = {
 

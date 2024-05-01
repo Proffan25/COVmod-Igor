@@ -1,6 +1,7 @@
 owner = VNG
 controller = VNG
 add_core = BRZ
+add_core = PBA
 #add_core = GCO
 trade_goods = tobacco
 life_rating = 25

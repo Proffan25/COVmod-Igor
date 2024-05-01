@@ -1,6 +1,5 @@
-owner = FRA
-controller = FRA
+owner = PBA
+controller = PBA
 trade_goods = tropical_wood
 life_rating = 30
 colonial = 2
-

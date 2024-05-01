@@ -1,6 +1,7 @@
-owner = POR
-controller = POR
+owner = PBA
+controller = PBA
 add_core = POR
+add_core = PBA
 trade_goods = grain
 life_rating = 35
 
