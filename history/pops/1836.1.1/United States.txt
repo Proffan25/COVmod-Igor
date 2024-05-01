@@ -3434,12 +3434,6 @@
 		size = 79
 	}
 
-	bureaucrats = {
-		culture = dixie
-		religion = protestant
-		size = 197
-	}
-
 	officers = {
 		culture = dixie
 		religion = protestant
@@ -3467,7 +3461,7 @@
 	farmers = {
 		culture = dixie
 		religion = protestant
-		size = 3950
+		size = 4050
 	}
 
 	aristocrats = {
@@ -3628,12 +3622,6 @@
 		size = 909
 	}
 
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 197
-	}
-
 	farmers = {
 		culture = yankee
 		religion = protestant
@@ -3676,12 +3664,6 @@
 		size = 533
 	}
 
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 158
-	}
-
 	farmers = {
 		culture = dixie
 		religion = protestant
@@ -3704,12 +3686,6 @@
 		culture = dixie
 		religion = catholic
 		size = 39
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = catholic
-		size = 7
 	}
 
 	farmers = {
@@ -3763,19 +3739,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 2
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 18
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 373
+		size = 750
 	}
 }
 #Joplin (25000/5000 POPS)
@@ -3904,12 +3868,6 @@
 }
 #Jefferson City (56000/14000 POPS)
 149 = {
-	bureaucrats = {
-		culture = yankee
-		religion = protestant
-		size = 580
-	}
-
 	officers = {
 		culture = yankee
 		religion = protestant
@@ -3928,28 +3886,16 @@
 		size = 232
 	}
 
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 59
-	}
-
 	farmers = {
 		culture = yankee
 		religion = protestant
-		size = 4203
+		size = 5375
 	}
 
 	aristocrats = {
 		culture = dixie
 		religion = protestant
 		size = 79
-	}
-
-	bureaucrats = {
-		culture = dixie
-		religion = protestant
-		size = 592
 	}
 
 	officers = {
@@ -3968,12 +3914,6 @@
 		culture = dixie
 		religion = protestant
 		size = 158
-	}
-
-	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 59
 	}
 
 	farmers = {
@@ -4009,31 +3949,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 2
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 0
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 1
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 4
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 86
+		size = 211
 	}
 }
 #Kansas City (56000/14000 POPS)
@@ -4762,12 +4678,6 @@
 		size = 1664
 	}
 
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 355
-	}
-
 	farmers = {
 		culture = yankee
 		religion = protestant
@@ -4777,19 +4687,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 4
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 33
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 634
+		size = 1030
 	}
 }
 #Rockford (44000/11000 POPS)
@@ -4926,12 +4824,6 @@
 }
 #Springfield (36000/9000 POPS)
 167 = {
-	bureaucrats = {
-		culture = yankee
-		religion = protestant
-		size = 1161
-	}
-
 	officers = {
 		culture = yankee
 		religion = protestant
@@ -4950,46 +4842,16 @@
 		size = 348
 	}
 
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 79
-	}
-
 	farmers = {
 		culture = yankee
 		religion = protestant
-		size = 6251
+		size = 7300
 	}
 
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 4
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 2
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 0
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 7
-	}
-
-	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 127
+		size = 219
 	}
 }
 #Carbondale (68000/17000 POPS)
@@ -5058,12 +4920,6 @@
 #ruled by the USA
 #Indianapolis (276000/69000 POPS)
 169 = {
-	bureaucrats = {
-		culture = yankee
-		religion = protestant
-		size = 1062
-	}
-
 	officers = {
 		culture = yankee
 		religion = protestant
@@ -5091,7 +4947,7 @@
 	farmers = {
 		culture = yankee
 		religion = protestant
-		size = 49722
+		size = 50784
 	}
 
 	clergymen = {
@@ -7076,12 +6932,6 @@
 		size = 414
 	}
 
-	bureaucrats = {
-		culture = dixie
-		religion = protestant
-		size = 790
-	}
-
 	officers = {
 		culture = dixie
 		religion = protestant
@@ -7109,7 +6959,7 @@
 	farmers = {
 		culture = dixie
 		religion = protestant
-		size = 15839
+		size = 16629
 	}
 
 	clergymen = {
@@ -7258,12 +7108,6 @@
 		size = 592
 	}
 
-	bureaucrats = {
-		culture = dixie
-		religion = protestant
-		size = 1382
-	}
-
 	officers = {
 		culture = dixie
 		religion = protestant
@@ -7291,7 +7135,7 @@
 	farmers = {
 		culture = dixie
 		religion = protestant
-		size = 28400
+		size = 29782
 	}
 
 	aristocrats = {
