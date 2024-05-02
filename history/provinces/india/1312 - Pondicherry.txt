@@ -1,9 +1,7 @@
-owner = FRA
-controller = FRA
-#add_core = KRN
+owner = ENG
+controller = ENG
 add_core = HND
 naval_base = 1
 trade_goods = cattle
 life_rating = 35
-colonial = 1
-
+colonial = 2

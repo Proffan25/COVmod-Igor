@@ -25,7 +25,7 @@
 	farmers = {
 		culture = bantu
 		religion = protestant
-		size = 7149
+		size = 5149
 	}
 
 	clergymen = {
@@ -46,10 +46,10 @@
 		size = 118
 	}
 
-	farmers = {
+	slaves = {
 		culture = bantu
 		religion = animist
-		size = 9519
+		size = 11519
 	}
 
 	aristocrats = {
@@ -216,7 +216,7 @@
 		size = 79
 	}
 
-	farmers = {
+	slaves = {
 		culture = khoisan
 		religion = animist
 		size = 7623
@@ -266,7 +266,7 @@
 		size = 79
 	}
 
-	farmers = {
+	slaves = {
 		culture = bantu
 		religion = protestant
 		size = 5233
@@ -436,7 +436,7 @@
 		size = 19
 	}
 
-	farmers = {
+	slaves = {
 		culture = bantu
 		religion = protestant
 		size = 1461
@@ -497,37 +497,13 @@
 	soldiers = {
 		culture = boer
 		religion = protestant
-		size = 19
+		size = 60
 	}
 
 	farmers = {
 		culture = boer
 		religion = protestant
 		size = 1935
-	}
-
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 11
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 158
-	}
-
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 7
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 612
 	}
 
 	clergymen = {
@@ -542,13 +518,7 @@
 		size = 79
 	}
 
-	soldiers = {
-		culture = khoisan
-		religion = animist
-		size = 39
-	}
-
-	farmers = {
+	slaves = {
 		culture = khoisan
 		religion = animist
 		size = 3792
@@ -762,25 +732,25 @@
 #Port Elizabeth (44000/11000 POPS)
 2096 = {
 	clergymen = {
-		culture = british
+		culture = boer
 		religion = protestant
 		size = 19
 	}
 
 	artisans = {
-		culture = british
+		culture = boer
 		religion = protestant
 		size = 237
 	}
 
 	soldiers = {
-		culture = british
+		culture = boer
 		religion = protestant
-		size = 19
+		size = 65
 	}
 
 	farmers = {
-		culture = british
+		culture = boer
 		religion = protestant
 		size = 2093
 	}
@@ -803,12 +773,6 @@
 		size = 79
 	}
 
-	soldiers = {
-		culture = bantu
-		religion = animist
-		size = 19
-	}
-
 	farmers = {
 		culture = bantu
 		religion = animist
@@ -825,12 +789,6 @@
 		culture = bantu
 		religion = animist
 		size = 11
-	}
-
-	soldiers = {
-		culture = bantu
-		religion = animist
-		size = 7
 	}
 
 	farmers = {
@@ -851,12 +809,6 @@
 		size = 39
 	}
 
-	soldiers = {
-		culture = bantu
-		religion = animist
-		size = 19
-	}
-
 	farmers = {
 		culture = bantu
 		religion = animist
@@ -866,25 +818,25 @@
 #Graaf Reinet (36000/9000 POPS)
 2097 = {
 	clergymen = {
-		culture = british
+		culture = boer
 		religion = protestant
 		size = 7
 	}
 
 	artisans = {
-		culture = british
+		culture = boer
 		religion = protestant
 		size = 118
 	}
 
 	soldiers = {
-		culture = british
+		culture = boer
 		religion = protestant
-		size = 11
+		size = 90
 	}
 
 	farmers = {
-		culture = british
+		culture = boer
 		religion = protestant
 		size = 6971
 	}
@@ -905,12 +857,6 @@
 		culture = bantu
 		religion = animist
 		size = 79
-	}
-
-	soldiers = {
-		culture = bantu
-		religion = animist
-		size = 39
 	}
 
 	farmers = {
@@ -937,12 +883,6 @@
 		size = 79
 	}
 
-	soldiers = {
-		culture = bantu
-		religion = animist
-		size = 19
-	}
-
 	farmers = {
 		culture = bantu
 		religion = animist
@@ -959,12 +899,6 @@
 		culture = bantu
 		religion = animist
 		size = 79
-	}
-
-	soldiers = {
-		culture = bantu
-		religion = animist
-		size = 19
 	}
 
 	farmers = {
@@ -998,6 +932,12 @@
 		culture = bantu
 		religion = animist
 		size = 79
+	}
+
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 800
 	}
 
 	farmers = {
@@ -1037,6 +977,12 @@
 		religion = animist
 		size = 7268
 	}
+
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 800
+	}
 }
 #Umtata (72000/18000 POPS)
 2100 = {
@@ -1068,6 +1014,12 @@
 		culture = bantu
 		religion = animist
 		size = 13035
+	}
+
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 1000
 	}
 
 }

@@ -17,10 +17,10 @@
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 39
+		size = 60
 	}
 
-	farmers = {
+	slaves = {
 		culture = afro_caribbean
 		religion = protestant
 		size = 3199
@@ -50,12 +50,6 @@
 		size = 118
 	}
 
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 19
-	}
-
 	farmers = {
 		culture = british
 		religion = protestant
@@ -82,7 +76,7 @@
 		size = 39
 	}
 
-	farmers = {
+	slaves = {
 		culture = afro_caribbean
 		religion = protestant
 		size = 434
