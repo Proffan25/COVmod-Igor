@@ -3416,27 +3416,9 @@
 #Ruled by France 1836
 #Saint Pierre (2000/500 POPS)
 77 = {
-	bureaucrats = {
-		culture = french
-		religion = catholic
-		size = 3
-	}
-
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 3
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 35
-	}
-
 	labourers = {
 		culture = french
 		religion = catholic
-		size = 355
+		size = 1
 	}
 }

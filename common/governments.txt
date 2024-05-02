@@ -108,3 +108,40 @@ viceroyalty = {
 	appoint_ruling_party = yes
 	flagType = monarchy
 }
+
+absolute_empire = {
+    liberal = yes
+    conservative = yes
+    reactionary = yes
+
+    election = no
+    appoint_ruling_party = yes
+    flagType = monarchy
+}
+
+semi_constitutional_empire = {
+    liberal = yes
+    socialist = yes
+    conservative = yes
+    reactionary = yes
+
+    election = yes
+    duration = 48
+    appoint_ruling_party = yes
+    flagType = monarchy
+}
+
+constitutional_empire = {
+    liberal = yes
+    socialist = yes
+    conservative = yes
+    reactionary = yes
+    communist = yes
+    radical = yes
+    fascist = yes
+
+    election = yes
+    duration = 48
+    appoint_ruling_party = yes
+    flagType = monarchy
+}

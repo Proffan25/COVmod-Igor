@@ -2,42 +2,6 @@
 #Ruled by France 1836
 #Algiers (280000/70000 POPS)
 1700 = {
-	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 79
-	}
-
-	bureaucrats = {
-		culture = french
-		religion = catholic
-		size = 118
-	}
-
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 19
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 1185
-	}
-
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 1580
-	}
-
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 177
-	}
-
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
@@ -308,42 +272,6 @@
 #French in 1836 :
 #Oran (108000/27000 POPS)
 1704 = {
-	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 39
-	}
-
-	bureaucrats = {
-		culture = french
-		religion = catholic
-		size = 39
-	}
-
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 19
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 632
-	}
-
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 691
-	}
-
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 158
-	}
-
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
@@ -620,42 +548,6 @@
 #Ruled by France 1836
 #Bone (68000/17000 POPS)
 1709 = {
-	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 19
-	}
-
-	bureaucrats = {
-		culture = french
-		religion = catholic
-		size = 39
-	}
-
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 19
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 474
-	}
-
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 869
-	}
-
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 158
-	}
-
 	clergymen = {
 		culture = maghrebi
 		religion = sunni

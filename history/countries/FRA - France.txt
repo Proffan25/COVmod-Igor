@@ -2,9 +2,9 @@ capital = 425
 primary_culture = french
 culture = french_canadian
 religion = catholic
-government = hms_government
+government = prussian_constitutionalism
 plurality = 25
-nationalvalue = nv_equality
+nationalvalue = nv_order
 literacy = 0.5
 non_state_culture_literacy = 0.15
 civilized = yes
@@ -15,20 +15,19 @@ prestige = 90
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed
-vote_franschise = wealth_voting
+vote_franschise = landed_voting
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = non_secret_ballots
-
+political_parties = harassment
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+pensions = no_pensions
 school_reforms = no_schools
 
 # Technologies
@@ -75,16 +74,16 @@ commerce_raiders = yes
 consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = FRA_liberal
-last_election = 1834.6.21
+ruling_party = FRA_reactionary_3
+last_election = 1815.6.21
 upper_house = {
-	fascist = 0
-	liberal = 12
-	conservative = 70
-	reactionary = 18
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+    fascist = 0
+    liberal = 0
+    conservative = 13
+    reactionary = 87
+    anarcho_liberal = 0
+    socialist = 0
+    communist = 0
 }
 
 govt_flag = {
@@ -93,7 +92,17 @@ govt_flag = {
 }
 
 govt_flag = {
-	government = absolute_monarchy
+	government = absolute_empire
+	flag = presidential_dictatorship
+}
+
+govt_flag = {
+	government = semi_constitutional_empire
+	flag = presidential_dictatorship
+}
+
+govt_flag = {
+	government = constitutional_empire
 	flag = presidential_dictatorship
 }
 
