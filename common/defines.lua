@@ -1,6 +1,6 @@
 defines = {
 
-start_date = '1836.1.1',
+start_date = '1815.6.19',
 end_date = '1950.12.31',
 
 country = {

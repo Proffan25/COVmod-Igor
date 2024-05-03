@@ -6,7 +6,7 @@ religion = protestant
 government = hms_government
 plurality = 30
 nationalvalue = nv_order
-literacy = 0.5
+literacy = 0.4
 civilized = yes
 
 #GreaterPowers = prestige
