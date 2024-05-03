@@ -106,7 +106,7 @@ govt_flag = {
 	flag = presidential_dictatorship
 }
 
-schools = culture_tech_school
+schools = traditional_academic
 
 oob = "FRA_oob.txt"
 

@@ -70,7 +70,7 @@ basic_chemistry = 1
 consciousness = 1
 nonstate_consciousness = 0
 
-schools = industrial_tech_school
+schools = traditional_academic
 
 oob = "FIN_oob.txt"
 

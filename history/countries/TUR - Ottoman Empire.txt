@@ -75,7 +75,7 @@ basic_chemistry = 1
 consciousness = 2
 nonstate_consciousness = 0
 
-schools = army_tech_school
+schools = traditional_academic
 
 oob = "TUR_oob.txt"
 1839.1.1 = {

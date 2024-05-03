@@ -75,7 +75,7 @@ basic_chemistry = 1
 consciousness = 2
 nonstate_consciousness = 0
 
-schools = industrial_tech_school
+schools = traditional_academic
 
 oob = "SWE_oob.txt"
 

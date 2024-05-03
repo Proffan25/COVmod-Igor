@@ -72,7 +72,7 @@ traditionalism = yes
 political_religion = yes
 paternalism = yes
 
-schools = industrial_tech_school
+schools = traditional_academic
 
 # Starting Consciousness
 consciousness = 3

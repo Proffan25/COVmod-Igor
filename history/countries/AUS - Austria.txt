@@ -86,7 +86,7 @@ commerce_raiders = yes
 consciousness = 4
 nonstate_consciousness = 2
 
-schools = army_tech_school
+schools = traditional_academic
 
 oob = "AUS_oob.txt"
 1861.1.1 = {

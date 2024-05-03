@@ -89,7 +89,7 @@ upper_house = {
     communist = 0
 }
 
-schools = naval_tech_school
+schools = traditional_academic
 
 oob = "ENG_oob.txt"
 

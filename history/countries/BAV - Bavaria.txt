@@ -66,7 +66,7 @@ basic_chemistry = 1
 
 #Inventions
 
-schools = industrial_tech_school
+schools = traditional_academic
 
 # Starting Consciousness
 consciousness = 2

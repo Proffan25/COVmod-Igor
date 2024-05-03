@@ -79,7 +79,7 @@ commerce_raiders = yes
 consciousness = 3
 nonstate_consciousness = 1
 
-schools = culture_tech_school
+schools = traditional_academic
 
 oob = "RUS_oob.txt"
 
