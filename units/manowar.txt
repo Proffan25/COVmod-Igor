@@ -7,9 +7,9 @@ manowar = {
 	type = naval
 	sprite = Manowar
 	unit_type = big_ship
-	capital = yes
+	capital = no
 	floating_flag = yes
-	colonial_points = 5
+	colonial_points = 2
 
 	#Core Abilities
 	priority = 25
@@ -40,8 +40,8 @@ manowar = {
 	
 	#Naval Abilties
 	hull = 3
-	gun_power = 6
-	fire_range = 0.3
+    gun_power = 6
+    fire_range = 0.3
 	evasion = 0
 }
 

@@ -1,38 +1,13 @@
 #financial_institutions
-financial_institutions_0 = {
+family_banks = {
 	area = financial_institutions
 	year = 1815
 	cost = 1800
 	
+	tax_eff = 5
+	
 	ai_chance = {
-		factor = 1.1
-		modifier = {
-			factor = 3.5
-			rank = 16
-		}
-		modifier = {
-			factor = 5
-			OR = {
-				NOT = { total_pops = 7500000 }
-				total_pops = 15000000
-			}
-		}
-		modifier = {
-			factor = 1.5
-			economic_policy = laissez_faire
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = commerce_tech_school
-		}
-		modifier = {
-			factor = 1.1
-			literacy = 0.3 
-		}
-		modifier = {
-			factor = 1.1
-			literacy = 0.6
-		}
+		factor = 2
 	}
 }
 
@@ -243,21 +218,15 @@ mutual_funds = {
 
 
 #monetary_system
-monetary_system_0 = {
+metallism = {
 	area = monetary_system
 	year = 1815
 	cost = 1800
-
+	
+	administrative_efficiency = 0.05
+	
 	ai_chance = {
-		factor = 1.1
-		modifier = {
-			factor = 1.1
-			rank = 16
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = commerce_tech_school
-		}
+		factor = 2
 	}
 }
 
@@ -424,25 +393,15 @@ market_determined_exchange_rates = {
 
 
 #economic_thought_and_critique
-economic_thought_and_critique_0 = {
+physiocratic_theory = {
 	area = economic_thought_and_critique
 	year = 1815
 	cost = 1800
 	
+	factory_input = -0.05
+	
 	ai_chance = {
 		factor = 2
-		modifier = {
-			factor = 1.02
-			tech_school = commerce_tech_school
-		}
-		modifier = {
-			factor = 1.05
-			literacy = 0.3 
-		}
-		modifier = {
-			factor = 1.05
-			literacy = 0.6
-		}
 	}
 }
 
@@ -622,29 +581,15 @@ keynesian_economics = {
 
 
 #market_functionality
-market_functionality_0 = {
+mercantilist_policy = {
 	area = market_functionality
 	year = 1815
-	cost = 1800 
+	cost = 1800
+	
+	influence = 0.1
 	
 	ai_chance = {
-		factor = 11
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 1.05
-			literacy = 0.1 
-		}
-		modifier = {
-			factor = 1.05
-			literacy = 0.2
-		}		
-		modifier = {
-			factor = 1.02
-			tech_school = commerce_tech_school
-		}
+		factor = 2
 	}
 }
 
@@ -655,8 +600,6 @@ freedom_of_trade = {
 
 
 	activate_building = luxury_clothes_factory  
-
-	influence = 0.1
 	farm_rgo_eff = 0.1
 	mine_rgo_eff = 0.1
 	
@@ -833,38 +776,43 @@ government_interventionism = {
 
 
 #tech_organization
-tech_organization_0 = {
-	area = tech_organization
-	year = 1815
-	cost = 1800
-	
-	ai_chance = {
-		factor = 1.05
-		modifier = {
-			factor = 1.2
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 1.2
-			industrial_score = 10
-		}
-		modifier = {
-			factor = 1.2
-			industrial_score = 50
-		}
-		modifier = {
-			factor = 1.25
-			literacy = 0.3 
-		}
-		modifier = {
-			factor = 1.5
-			literacy = 0.6
-		}		
-		modifier = {
-			factor = 1.02
-			tech_school = commerce_tech_school
-		}
-	}	
+putting_out_system = {
+    area = tech_organization
+    year = 1815
+    cost = 3600
+
+    factory_output = 0.01
+    ai_chance = {
+        factor = 1.03
+        modifier = {
+            factor = 1.2
+            is_greater_power = yes
+        }
+        modifier = {
+            factor = 1.2
+            industrial_score = 10
+        }
+        modifier = {
+            factor = 1.2
+            industrial_score = 50
+        }
+        modifier = {
+            factor = 1.25
+            literacy = 0.3
+        }
+        modifier = {
+            factor = 1.5
+            literacy = 0.6
+        }
+        modifier = {
+            factor = 1.02
+            tech_school = commerce_tech_school
+        }
+        modifier = {
+            factor = 0.25
+            NOT = { literacy = 0.4 }
+        }
+    }
 }
 
 guild_based_production = {

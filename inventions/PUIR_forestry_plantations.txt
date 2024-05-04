@@ -22,23 +22,6 @@ tree_plantations = {
 	}
 }
 
-cotton_gin = {
-	limit = { publishing_industry = 1 }
-	chance = {
-		base = 5
-		modifier = {
-			factor = -100
-			not = { civilized = yes }
-		}
-	}
-	effect = {
-		activate_building = machine_parts_factory
-		rgo_goods_throughput = {
-			cotton = 0.4
-		}
-	}
-}
-
 #High and Low Pressure Steam Engines
 mechanised_plantations = {
 	limit = { high_n_low_pressure_steam_engines = 1 }

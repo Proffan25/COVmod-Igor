@@ -1,23 +1,13 @@
 #aesthetics
-aesthetics_0 = {
+baroque_art = {
 	area = aesthetics
 	year = 1815
 	cost = 1800
-
+	
+	prestige = 0.075
+	
 	ai_chance = {
-		factor = 1.01
-		modifier = {
-			factor = 2
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 0.5
-			not = { literacy = 0.3 }
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = culture_tech_school
-		}
+		factor = 2
 	}
 }
 
@@ -189,37 +179,15 @@ mass_culture_n_the_avant_garde = {
 
 
 #philosophy
-philosophy_0 = {
+counter_revolutionary_thought = {
 	area = philosophy
 	year = 1815
 	cost = 1800
+
+    increase_research = 0.30
 	
 	ai_chance = {
-		factor = 200
-		modifier = {
-			factor = 1.02
-			tech_school = culture_tech_school
-		}
-		modifier = {
-			factor = 1.1
-			year = 1840
-		}
-		modifier = {
-			factor = 2
-			year = 1850
-		}
-		modifier = {
-			factor = 1.1
-			year = 1865
-		}
-		modifier = {
-			factor = 2
-			year = 1875
-		}
-		modifier = {
-			factor = 2
-			year = 1885
-		}
+		factor = 2
 	}
 }
 
@@ -229,7 +197,7 @@ late_enlightenment_philosophy = {
 	cost = 3600
 
 
-	increase_research = 0.40
+	increase_research = 0.30
 	
 	ai_chance = {
 		factor = 200
@@ -325,7 +293,7 @@ analytic_philosophy = {
 	year = 1870
 	cost = 14400
 
-	increase_research = 0.85
+	increase_research = 0.65
 	ai_chance = {
 		factor = 200
 		modifier = {
@@ -389,31 +357,43 @@ anti__rationalism = {
 
 
 #social_thought
-social_thought_0 = {
+social_physics = {
 	area = social_thought
 	year = 1815
-	cost = 1800
+	cost = 3600
 
-	ai_chance = {
-		factor = 90
-		modifier = {
-			factor = 1.5 #2
-			not = { literacy = 0.4 }
-		}
-		modifier = {
-			factor = 1.5 #2
-			not = { literacy = 0.2 }
-		}
-		modifier = {
-			factor = 10 #1.5
-			not = { literacy = 0.4 }
-			year = 1850
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = culture_tech_school
-		}
-	}
+    colonial_migration = 0.05
+    education_efficiency = 0.1
+
+    ai_chance = {
+        factor = 1.5
+        modifier = {
+            factor = 2 #2
+            not = { literacy = 0.75 }
+        }
+        modifier = {
+            factor = 2 #2
+            not = { literacy = 0.50 }
+        }
+        modifier = {
+            factor = 2 #4
+            not = { literacy = 0.25 }
+        }
+        modifier = {
+            factor = 20
+            capital_scope = { continent = europe }
+            NOT = { tag = TUR }
+            not = { literacy = 0.30 }
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+        }
+        modifier = {
+            factor = 3
+            tech_school = culture_tech_school
+        }
+    }
 }
 
 malthusian_thought = {
@@ -592,22 +572,16 @@ social_alienation = {
 
 
 #political_thought
-political_thought_0 = {
+the_social_contract = {
 	area = political_thought
 	year = 1815
 	cost = 1800
 	
+	plurality = 0.1
+	
+	
 	ai_chance = {
-		factor = 100
-		modifier = {
-			factor = 1.02
-			tech_school = culture_tech_school
-		}
-		modifier = {
-			factor = 6
-			is_greater_power = yes
-			year = 1850
-		}
+		factor = 2
 	}
 }
 
@@ -787,31 +761,16 @@ mass_politics = {
 
 
 #psychology
-psychology_0 = {
+moralism = {
 	area = psychology
 	year = 1815
 	cost = 1800
 	
+	reinforce_rate = 0.05
+	
 	ai_chance = {
-		factor = 1.01
-		modifier = {
-			factor = 1.05 #1.25
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = culture_tech_school
-		}
-		modifier = {
-			factor = 1.1
-			year = 1850 #1840
-		}
-		modifier = {
-			factor = 2
-			year = 1860 #1850
-		}
+		factor = 2
 	}
-
 }
 
 introspectionism = {
