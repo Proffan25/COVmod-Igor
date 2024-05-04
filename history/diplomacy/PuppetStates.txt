@@ -23,6 +23,25 @@ substate = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+#Spanish colonies
+substate = {
+	first = SPA
+	second = VNG
+	start_date = 1739.1.1
+	end_date = 1950.1.1
+}
+substate = {
+	first = SPA
+	second = VPE
+	start_date = 1542.1.1
+	end_date = 1950.1.1
+}
+substate = {
+	first = SPA
+	second = VNS
+	start_date = 1521.1.1
+	end_date = 1950.1.1
+}
 
 #vassal = {
 #	first = CHI

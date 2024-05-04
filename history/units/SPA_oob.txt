@@ -1,58 +1,28 @@
 #Sphere of Influence
-MEX = {
-	value = 75		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
+VNS = {
+	value = 200 	#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 200
 }
-ECU = {
+VNG = {
+	value = 200 	#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 200
+}
+VPE = {
+	value = 200 	#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 200
+}
+PBA = {
 	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
+	level = 1		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
 }
-PEU = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-BOL = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-CHL = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-PRG = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-UCA = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-CLM = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-BRZ = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-URU = {
-	value = 75		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-POR = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
+ARG = {
+	value = -200	#relation
+	level = 1		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
 }
 
 FRA = {
