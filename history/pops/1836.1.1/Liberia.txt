@@ -224,85 +224,85 @@
 #Bopulu (124000/31000 POPS) 
 1889 = {
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = niger_congo_a
+		religion = animist
 		size = 7
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = niger_congo_a
+		religion = animist
 		size = 7
 	}
 
 	soldiers = {
-		culture = afro_american
-		religion = protestant
+		culture = niger_congo_a
+		religion = animist
 		size = 7
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = niger_congo_a
+		religion = animist
 		size = 39
 	}
 	
 	aristocrats = {
-		culture = afro_american
-		religion = sunni
+		culture = niger_congo_a
+		religion = animist
 		size = 375
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = sunni
+		culture = niger_congo_a
+		religion = animist
 		size = 197
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = sunni
+		culture = niger_congo_a
+		religion = animist
 		size = 987
 	}
 
 	soldiers = {
-		culture = afro_american
-		religion = sunni
+		culture = niger_congo_a
+		religion = animist
 		size = 197
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = sunni
+		culture = niger_congo_a
+		religion = animist
 		size = 17929
 	}
 
 	aristocrats = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 79
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 39
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 237
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 59
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 4325
 	}
@@ -310,85 +310,85 @@
 #Gbarnga (132000/33000 POPS) 
 1890 = {
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = niger_congo_a
+		religion = animist
 		size = 7
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = niger_congo_a
+		religion = animist
 		size = 7
 	}
 
 	soldiers = {
-		culture = afro_american
-		religion = protestant
+		culture = niger_congo_a
+		religion = animist
 		size = 7
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = niger_congo_a
+		religion = animist
 		size = 39
 	}
 
 	aristocrats = {
-		culture = afro_american
-		religion = sunni
+		culture = niger_congo_a
+		religion = animist
 		size = 158
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = sunni
+		culture = niger_congo_a
+		religion = animist
 		size = 79
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = sunni
+		culture = niger_congo_a
+		religion = animist
 		size = 434
 	}
 
 	soldiers = {
-		culture = afro_american
-		religion = sunni
+		culture = niger_congo_a
+		religion = animist
 		size = 98
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = sunni
+		culture = niger_congo_a
+		religion = animist
 		size = 7919
 	}
 
 	aristocrats = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 335
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 177
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 869
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 177
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 15756
 	}
@@ -396,85 +396,85 @@
 #Zwedru (168000/42000 POPS) 
 1891 = {
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = niger_congo_a
+		religion = animist
 		size = 7
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = niger_congo_a
+		religion = animist
 		size = 7
 	}
 
 	soldiers = {
-		culture = afro_american
-		religion = protestant
+		culture = niger_congo_a
+		religion = animist
 		size = 7
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = niger_congo_a
+		religion = animist
 		size = 39
 	}
 	
 	aristocrats = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 177
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 197
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 908
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 134
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 16728
 	}
 
 	aristocrats = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 118
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 158
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 750
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 158
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = niger_congo_a
 		religion = animist
 		size = 13825
 	}
