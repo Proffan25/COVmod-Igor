@@ -1,14 +1,4 @@
 #Sphere of Influence
-BEL = {
-	value = 125		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-LUX = {
-	value = 125		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
 NET = {
 	value = -100
 		#relation
@@ -16,11 +6,6 @@ NET = {
 	level = 3
 		#3=cordial, 4 = friendly, 5 sphere
 
-}
-PAP = {
-	value = 125		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
 }
 SIC = {
 	value = 125		#relation
@@ -37,19 +22,14 @@ SAR = {
 	level = 4		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
-GRE = {
-	value = 75	#relation
-	level = 4		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 10
-}
 ENG = {
 	value = 0
 }
 RUS = {
-	value = -75
+	value = -150
 }
 AUS = {
-	value = 0
+	value = 25
 }
 USA = {
 	value = 50
@@ -61,10 +41,7 @@ TUR = {
 	value = 0
 }
 SPA = {
-	value = 55
-}
-BRZ = {
-	value = 75
+	value = 125
 }
 
 leader = {
