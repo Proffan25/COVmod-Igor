@@ -23,6 +23,7 @@ substate = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
 #Spanish colonies
 substate = {
 	first = SPA
@@ -42,6 +43,15 @@ substate = {
 	start_date = 1521.1.1
 	end_date = 1950.1.1
 }
+
+#Russian substates
+substate = {
+	first = RUS
+	second = CPL
+	start_date = 1815.1.1 
+	end_date = 1936.1.1
+}
+
 
 #vassal = {
 #	first = CHI
