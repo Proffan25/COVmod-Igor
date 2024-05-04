@@ -1,11 +1,10 @@
-capital = 1236
+capital = 1264
 primary_culture = indo_aryan
-culture = dravidian
 religion = hindu
-government = presidential_dictatorship
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.0
+literacy = 0.02
 civilized = no
 
 ruling_party = generic_conservative
@@ -17,11 +16,6 @@ upper_house = {
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
-}
-
-govt_flag = {
-	government = presidential_dictatorship
-	flag = theocracy
 }
 
 # Starting Consciousness

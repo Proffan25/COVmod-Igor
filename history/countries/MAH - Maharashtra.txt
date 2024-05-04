@@ -1,15 +1,12 @@
 capital = 1299
-primary_culture = marathi
-culture = sindi
-culture = kannada
+primary_culture = indo_aryan
+culture = dravidian
 religion = hindu
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.02
 non_state_culture_literacy = 0
-
-set_country_flag = has_lapsed
 
 # Political reforms
 slavery = no_slavery
