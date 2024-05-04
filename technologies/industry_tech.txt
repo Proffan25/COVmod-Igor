@@ -893,7 +893,7 @@ experimental_railroad = {
 	year = 1836
 	cost = 3600
 
-	activate_building = railroad
+	max_railroad = 1
 	
 	ai_chance = {
 		factor = 1.5 #1.1

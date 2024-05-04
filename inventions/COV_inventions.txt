@@ -79,3 +79,33 @@ ambulances = {
         supply_limit = 0.1
     }
 }
+
+#Flintlock Rifles
+colonial_settlements = {
+	limit = { 
+		flintlock_rifles = 1
+	}
+	news = no
+	chance = {
+		base = 5
+		modifier = {
+			factor = 100
+			year = 1816
+		}
+		modifier = {
+			factor = 200
+			year = 1818
+		}
+		modifier = {
+			factor = 300
+			year = 1820
+		}
+		modifier = {
+			factor = 500
+			year = 1822
+		}
+	}
+	effect = {
+		colonial_life_rating = -5 
+	}
+}
