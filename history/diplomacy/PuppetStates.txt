@@ -2,26 +2,26 @@
 substate = {
 	first = CHI
 	second = MCK
-	start_date = 1836.1.1
-	end_date = 1937.1.1
+	start_date = 1815.1.1
+	end_date = 1950.1.1
 }
 substate = {
 	first = CHI
 	second = XIN
-	start_date = 1836.1.1
-	end_date = 1937.1.1
+	start_date = 1815.1.1
+	end_date = 1950.1.1
 }
 substate = {
 	first = CHI
 	second = MGL
-	start_date = 1836.1.1
-	end_date = 1937.1.1
+	start_date = 1815.1.1
+	end_date = 1950.1.1
 }
 substate = {
 	first = CHI
 	second = TIB
-	start_date = 1836.1.1
-	end_date = 1937.1.1
+	start_date = 1815.1.1
+	end_date = 1950.1.1
 }
 
 #Spanish colonies
