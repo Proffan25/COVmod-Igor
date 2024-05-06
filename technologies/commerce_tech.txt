@@ -5,6 +5,7 @@ family_banks = {
 	cost = 1800
 	
 	tax_eff = 5
+	activate_building = cement_factory 
 	
 	ai_chance = {
 		factor = 2
@@ -16,7 +17,6 @@ private_banks = {
 	year = 1836
 	cost = 3600
 
-	activate_building = cement_factory 
 	tax_eff = 5
 	
 	ai_chance = {
@@ -399,6 +399,7 @@ physiocratic_theory = {
 	cost = 1800
 	
 	factory_input = -0.05
+	activate_building = lumber_mill
 	
 	ai_chance = {
 		factor = 2
@@ -410,8 +411,8 @@ early_classical_theory_and_critique = {
 	year = 1836
 	cost = 3600
 	
-	activate_building = lumber_mill
 	factory_input = -0.05
+	
 	ai_chance = {
 		factor = 2
 		modifier = {
@@ -587,6 +588,9 @@ mercantilist_policy = {
 	cost = 1800
 	
 	influence = 0.1
+	farm_rgo_eff = 0.1
+	mine_rgo_eff = 0.1
+	activate_building = luxury_clothes_factory  
 	
 	ai_chance = {
 		factor = 2
@@ -598,8 +602,7 @@ freedom_of_trade = {
 	year = 1836
 	cost = 3600
 
-
-	activate_building = luxury_clothes_factory  
+	influence = 0.1
 	farm_rgo_eff = 0.1
 	mine_rgo_eff = 0.1
 	
@@ -662,7 +665,7 @@ business_regulations = {
 	year = 1836
 	cost = 10800
 
-	influence = 0.2
+	influence = 0.1
 	farm_rgo_eff = 0.1
 	mine_rgo_eff = 0.1
 	ai_chance = {
@@ -782,7 +785,9 @@ putting_out_system = {
     cost = 3600
 
     factory_output = 0.01
-    ai_chance = {
+    activate_building = canned_food_factory 
+	
+	ai_chance = {
         factor = 1.03
         modifier = {
             factor = 1.2
@@ -819,8 +824,7 @@ guild_based_production = {
 	area = tech_organization
 	year = 1836
 	cost = 3600
-	activate_building = canned_food_factory 
-	factory_output = 0.2
+	factory_output = 0.1
 	ai_chance = {
 		factor = 1.05
 		modifier = {

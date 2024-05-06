@@ -6,7 +6,7 @@ corps_system = {
 	unciv_military = yes
 	
 	activate_unit = cuirassier
-	army_base = { maximum_speed = 1 } 
+	regular_experience_level = 5 
 	
 	ai_chance = {
 		factor = 2
@@ -907,8 +907,8 @@ military_academies = {
 	activate_unit = hussar
 	army_base = {
         default_organisation = 5
-        supply_consumption = 0.10
     }
+	reinforce_rate = 0.05
 	
 	ai_chance = {
 		factor = 2

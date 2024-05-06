@@ -626,7 +626,7 @@ refrigerator_technology = {
 }
 #Metulurgy
 ammunition_production = {
-	limit = { mechanized_mining = 1 }
+	limit = { crucible_steel_production = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -647,7 +647,7 @@ ammunition_production = {
 	}
 }
 small_arms_production = {
-	limit = { mechanized_mining = 1 }
+	limit = { crucible_steel_production = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -668,7 +668,7 @@ small_arms_production = {
 	}
 }
 explosives_production = {
-	limit = { mechanized_mining = 1 }
+	limit = { crucible_steel_production = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -689,7 +689,7 @@ explosives_production = {
 	}
 }
 artillery_production = {
-	limit = { mechanized_mining = 1 }
+	limit = { crucible_steel_production = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -1241,15 +1241,7 @@ carbon_soil_enrichment = {
 cracking = {
 	limit = { organic_chemistry = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = oil_pumping_machinery
-		}
-		modifier = {
-			factor = 2
-			management_strategy = 1
-		}
+		base = 100
 	}
 	effect = {
 		activate_building = fuel_refinery 

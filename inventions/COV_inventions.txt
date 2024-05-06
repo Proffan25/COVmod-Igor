@@ -69,6 +69,17 @@ colbert = {
     }
 }
 
+#Metal Machine tooling
+sewing_machines = {
+    limit = { metal_machine_tooling = 1 }
+    chance = {
+        base = 5
+    }
+    effect = {
+        activate_building = regular_clothes_factory
+    }
+}
+
 #triage
 ambulances = {
     limit = { triage = 1 }
