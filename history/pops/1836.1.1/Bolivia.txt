@@ -211,7 +211,7 @@
 	bureaucrats = {
 		culture = south_andean
 		religion = catholic
-		size = 100
+		size = 300
 	}
 
 	officers = {
@@ -235,13 +235,7 @@
 	soldiers = {
 		culture = south_andean
 		religion = catholic
-		size = 67
-	}
-
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 5136
+		size = 5200
 	}
 
 	clergymen = {
@@ -253,7 +247,7 @@
 	artisans = {
 		culture = south_andean
 		religion = catholic
-		size = 1611
+		size = 1411
 	}
 
 	soldiers = {

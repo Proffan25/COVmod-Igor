@@ -11,7 +11,7 @@
 	bureaucrats = {
 		culture = platinean
 		religion = catholic
-		size = 134
+		size = 834
 	}
 
 	officers = {
@@ -29,19 +29,19 @@
 	artisans = {
 		culture = platinean
 		religion = catholic
-		size = 3000
+		size = 2700
 	}
 
 	soldiers = {
 		culture = platinean
 		religion = catholic
-		size = 3010
+		size = 10010
 	}
 
 	farmers = {
 		culture = platinean
 		religion = catholic
-		size = 58150
+		size = 57150
 	}
 
 	slaves = {

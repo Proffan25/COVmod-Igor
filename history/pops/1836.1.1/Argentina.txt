@@ -11,7 +11,7 @@
 	bureaucrats = {
 		culture = platinean
 		religion = catholic
-		size = 268
+		size = 3268
 	}
 
 	officers = {
@@ -29,7 +29,7 @@
 	artisans = {
 		culture = platinean
 		religion = catholic
-		size = 26860
+		size = 23860
 	}
 
 	artisans = {
@@ -369,12 +369,6 @@
 		size = 1208
 	}
 
-	bureaucrats = {
-		culture = platinean
-		religion = catholic
-		size = 134
-	}
-
 	officers = {
 		culture = platinean
 		religion = catholic
@@ -396,13 +390,13 @@
 	soldiers = {
 		culture = platinean
 		religion = catholic
-		size = 670
+		size = 8670
 	}
 
 	farmers = {
 		culture = platinean
 		religion = catholic
-		size = 50115
+		size = 42115
 	}
 
 	slaves = {
@@ -422,13 +416,13 @@
 	clergymen = {
 		culture = platinean
 		religion = catholic
-		size = 134
+		size = 201
 	}
 
 	artisans = {
 		culture = platinean
 		religion = catholic
-		size = 268
+		size = 402
 	}
 
 	soldiers = {
@@ -440,93 +434,39 @@
 	farmers = {
 		culture = platinean
 		religion = catholic
-		size = 4834
-	}
-
-	clergymen = {
-		culture = brazilian
-		religion = catholic
-		size = 67
-	}
-
-	artisans = {
-		culture = brazilian
-		religion = catholic
-		size = 134
-	}
-
-	farmers = {
-		culture = brazilian
-		religion = catholic
-		size = 2450
+		size = 7284
 	}
 }
 #Santo Tomas (28000/7000 POPS)
 2358 = {
-	clergymen = {
+	aristocrats = {
 		culture = platinean
 		religion = catholic
 		size = 134
+	}
+	
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 401
 	}
 
 	artisans = {
 		culture = platinean
 		religion = catholic
-		size = 268
+		size = 804
 	}
 
 	soldiers = {
 		culture = platinean
 		religion = catholic
-		size = 170
+		size = 4170
 	}
 
 	farmers = {
 		culture = platinean
 		religion = catholic
-		size = 5035
-	}
-
-	clergymen = {
-		culture = brazilian
-		religion = catholic
-		size = 67
-	}
-
-	artisans = {
-		culture = brazilian
-		religion = catholic
-		size = 134
-	}
-
-	farmers = {
-		culture = brazilian
-		religion = catholic
-		size = 2450
-	}
-
-	aristocrats = {
-		culture = platinean
-		religion = animist
-		size = 134
-	}
-
-	clergymen = {
-		culture = platinean
-		religion = animist
-		size = 200
-	}
-
-	artisans = {
-		culture = platinean
-		religion = animist
-		size = 402
-	}
-
-	farmers = {
-		culture = platinean
-		religion = animist
-		size = 7252
+		size = 10737
 	}
 }
 #Colon (8000/2000 POPS)
@@ -569,6 +509,12 @@
 		size = 200
 	}
 
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 334
+	}
+
 	clergymen = {
 		culture = platinean
 		religion = catholic
@@ -578,7 +524,7 @@
 	artisans = {
 		culture = platinean
 		religion = catholic
-		size = 537
+		size = 337
 	}
 
 	soldiers = {
@@ -1118,7 +1064,7 @@
 	bureaucrats = {
 		culture = platinean
 		religion = catholic
-		size = 39
+		size = 539
 	}
 
 	officers = {
@@ -1136,7 +1082,7 @@
 	artisans = {
 		culture = platinean
 		religion = catholic
-		size = 4029
+		size = 3529
 	}
 
 	soldiers = {
@@ -1368,7 +1314,7 @@
 	bureaucrats = {
 		culture = platinean
 		religion = catholic
-		size = 107
+		size = 607
 	}
 
 	officers = {
@@ -1386,7 +1332,7 @@
 	artisans = {
 		culture = platinean
 		religion = catholic
-		size = 8058
+		size = 7558
 	}
 
 	soldiers = {
