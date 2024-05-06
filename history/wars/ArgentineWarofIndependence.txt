@@ -1,0 +1,23 @@
+name = "Argentine War of Independence"
+
+1810.5.18 = {
+    add_attacker = ARG
+    add_defender = SPA
+    add_defender = VPE
+
+    # actor
+    # receiver
+    # casus_belli - cb type
+    # country - 3rd party
+    # state_province_id - target state capital
+    war_goal = {
+        casus_belli = humiliate
+        actor = ARG
+        receiver = SPA
+    }
+    war_goal = {
+        casus_belli = conquest
+        actor = SPA
+        receiver = ARG
+    }
+}
