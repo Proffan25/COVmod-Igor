@@ -73,9 +73,9 @@ govt_flag = {
 	military_constructions = military_constructions_two
 
 	#Technologies
-	flintlock_rifles = 1
+	rifled_muskets = 1
 	muzzle_loaded_rifles = 1
-	post_napoleonic_thought = 1
+	corps_system = 1
 	strategic_mobility = 1
-	bronze_muzzle_loaded_artillery = 1
+	artillery_standardization = 1
 }

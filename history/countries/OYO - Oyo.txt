@@ -43,7 +43,7 @@ upper_house = {
 foreign_weapons = yes_foreign_weapons
 
 # Technologies
-flintlock_rifles = 1
+rifled_muskets = 1
 
 # Inventions
 
@@ -60,9 +60,9 @@ oob = "OYO_oob.txt"
 foreign_weapons = foreign_weapons_two
 
 # Technologies
-flintlock_rifles = 1
+rifled_muskets = 1
 muzzle_loaded_rifles = 1
-early_classical_theory_and_critique = 1
+physiocratic_theory = 1
 
 # Inventions
 

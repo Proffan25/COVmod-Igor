@@ -24,7 +24,7 @@ consciousness = 0
 nonstate_consciousness = 0
 
 #Technologies
-army_command_principle = 1
+army_meritocratic_commissions = 1
 
 oob = "ZUL_oob.txt"
 
@@ -51,7 +51,7 @@ school_reforms = no_schools
 }
 1861.1.1 = {
 	#Technologies
-	no_standard = 1
+	metallism = 1
 	army_professionalism = 1
 	
 	#Economic Reforms

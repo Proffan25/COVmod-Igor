@@ -49,9 +49,9 @@ finance_reform = yes_finance_reform
 industrial_construction = yes_western_science
 
 #Technologies
-private_banks = 1
-late_enlightenment_philosophy = 1
-basic_chemistry = 1
+family_banks = 1
+counter_revolutionary_thought = 1
+triage = 1
 
 1855.1.1 = { 
 	decision = sign_bowring_treaty
@@ -72,12 +72,12 @@ basic_chemistry = 1
 	foreign_officers = yes_foreign_officers
 	
 	#Technologies
-	post_napoleonic_thought = 1
-	flintlock_rifles = 1
-	army_command_principle = 1
-	freedom_of_trade = 1
-	malthusian_thought = 1
+	corps_system = 1
+	rifled_muskets = 1
+	army_meritocratic_commissions = 1
+	mercantilist_policy = 1
+	social_physics = 1
+	pumping_steam_engine = 1
 	water_wheel_power = 1
-	practical_steam_engine = 1
-	mechanized_mining = 1
+	crucible_steel_production = 1
 }

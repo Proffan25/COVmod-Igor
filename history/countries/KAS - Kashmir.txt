@@ -59,9 +59,9 @@ school_reforms = no_schools
 	foreign_officers = yes_foreign_officers
 
 	#Technologies
-	post_napoleonic_thought = 1
-	flintlock_rifles = 1
-	army_command_principle = 1
-	late_enlightenment_philosophy = 1
-	basic_chemistry = 1
+	corps_system = 1
+	rifled_muskets = 1
+	army_meritocratic_commissions = 1
+	counter_revolutionary_thought = 1
+	triage = 1
 }

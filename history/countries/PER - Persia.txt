@@ -50,14 +50,14 @@ finance_reform = yes_finance_reform
 industrial_construction = yes_western_science
 
 #Technologies
-post_napoleonic_thought = 1
-flintlock_rifles = 1
-army_command_principle = 1
-private_banks = 1
-late_enlightenment_philosophy = 1
-water_wheel_power = 1
-mechanized_mining = 1
-basic_chemistry = 1
+corps_system = 1
+rifled_muskets = 1
+army_meritocratic_commissions = 1
+family_banks = 1
+counter_revolutionary_thought = 1
+pumping_steam_engine = 1
+crucible_steel_production = 1
+triage = 1
 
 
 oob = "PER_oob.txt"
@@ -85,12 +85,12 @@ oob = "PER_oob.txt"
 
 	#Technologies
 	muzzle_loaded_rifles = 1
-	stock_exchange = 1
-	no_standard = 1
-	early_classical_theory_and_critique = 1
-	freedom_of_trade = 1
-	malthusian_thought = 1
-	practical_steam_engine = 1
-	experimental_railroad = 1
+	private_banks = 1
+	metallism = 1
+	physiocratic_theory = 1
+	mercantilist_policy = 1
+	social_physics = 1
+	water_wheel_power = 1
+	posting_system = 1
 	medicine = 1
 }

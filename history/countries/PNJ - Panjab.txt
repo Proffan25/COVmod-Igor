@@ -51,8 +51,8 @@ foreign_officers = yes_foreign_officers
 admin_reform = yes_admin_reform
 
 #Technologies
-post_napoleonic_thought = 1
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-army_command_principle = 1
-no_standard = 1
+corps_system = 1
+rifled_muskets = 1
+artillery_standardization = 1
+army_meritocratic_commissions = 1
+metallism = 1

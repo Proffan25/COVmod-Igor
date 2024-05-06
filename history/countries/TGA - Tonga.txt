@@ -46,7 +46,7 @@ foreign_weapons = yes_foreign_weapons
 	
 
 # Technologies
-flintlock_rifles = 1
-late_enlightenment_philosophy = 1
+rifled_muskets = 1
+counter_revolutionary_thought = 1
 
 # Inventions

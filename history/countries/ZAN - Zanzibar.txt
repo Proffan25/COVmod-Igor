@@ -54,6 +54,6 @@ nonstate_consciousness = 0
 	foreign_weapons = yes_foreign_weapons
 	
 	#Technologies
-	flintlock_rifles = 1
-	no_standard = 1
+	rifled_muskets = 1
+	metallism = 1
 }

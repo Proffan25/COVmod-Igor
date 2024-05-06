@@ -40,9 +40,9 @@ upper_house = {
 foreign_weapons = yes_foreign_weapons
 
 # Technologies
-flintlock_rifles = 1
-late_enlightenment_philosophy = 1
-early_classical_theory_and_critique = 1
+rifled_muskets = 1
+counter_revolutionary_thought = 1
+physiocratic_theory = 1
 
 # Inventions
 
@@ -55,10 +55,10 @@ nonstate_consciousness = 0
 foreign_weapons = yes_foreign_weapons
 
 # Technologies
-flintlock_rifles = 1
-late_enlightenment_philosophy = 1
-private_banks = 1
-early_classical_theory_and_critique = 1
+rifled_muskets = 1
+counter_revolutionary_thought = 1
+family_banks = 1
+physiocratic_theory = 1
 
 # Inventions
 

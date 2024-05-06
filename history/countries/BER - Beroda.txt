@@ -56,8 +56,8 @@ school_reforms = no_schools
 	foreign_officers = yes_foreign_officers
 
 	#Technologies
-	bronze_muzzle_loaded_artillery = 1
-	flintlock_rifles = 1
-	military_staff_system = 1
-	late_enlightenment_philosophy = 1
+	artillery_standardization = 1
+	rifled_muskets = 1
+	military_academies = 1
+	counter_revolutionary_thought = 1
 }

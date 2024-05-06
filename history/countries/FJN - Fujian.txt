@@ -41,7 +41,7 @@ upper_house = {
 foreign_weapons = yes_foreign_weapons
 
 # Technologies
-flintlock_rifles = 1
+rifled_muskets = 1
 
 # Inventions
 
@@ -50,7 +50,7 @@ flintlock_rifles = 1
 foreign_weapons = yes_foreign_weapons
 
 # Technologies
-flintlock_rifles = 1
+rifled_muskets = 1
 
 # Inventions
 }

@@ -65,10 +65,10 @@ school_reforms = no_schools
 	foreign_naval_officers = yes_foreign_naval_officers
 
 	#Technologies
-	post_napoleonic_thought = 1
-	flintlock_rifles = 1
-	bronze_muzzle_loaded_artillery = 1
-	army_command_principle = 1
-	post_nelsonian_thought = 1
-	water_wheel_power = 1
+	corps_system = 1
+	rifled_muskets = 1
+	artillery_standardization = 1
+	army_meritocratic_commissions = 1
+	line_of_battle = 1
+	pumping_steam_engine = 1
 }

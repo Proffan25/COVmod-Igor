@@ -60,11 +60,11 @@ oob = "HYD_oob.txt"
 	foreign_officers = yes_foreign_officers
 
 	#Technologies
-	post_napoleonic_thought = 1
-	flintlock_rifles = 1
-	army_command_principle = 1
-	water_wheel_power = 1
-	mechanized_mining = 1
-	late_enlightenment_philosophy = 1
-	basic_chemistry = 1
+	corps_system = 1
+	rifled_muskets = 1
+	army_meritocratic_commissions = 1
+	pumping_steam_engine = 1
+	crucible_steel_production = 1
+	counter_revolutionary_thought = 1
+	triage = 1
 }

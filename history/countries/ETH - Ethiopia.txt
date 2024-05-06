@@ -69,8 +69,8 @@ oob = "ETH_oob.txt"
 	foreign_weapons = yes_foreign_weapons
 
 	#Technologies
-	flintlock_rifles = 1
-	bronze_muzzle_loaded_artillery = 1
-	no_standard = 1
-	late_enlightenment_philosophy = 1
+	rifled_muskets = 1
+	artillery_standardization = 1
+	metallism = 1
+	counter_revolutionary_thought = 1
 }

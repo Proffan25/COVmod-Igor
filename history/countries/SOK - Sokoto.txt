@@ -62,5 +62,5 @@ oob = "SOK_oob.txt"
 	foreign_weapons = yes_foreign_weapons
 	
 	#Technologies
-	flintlock_rifles = 1
+	rifled_muskets = 1
 }

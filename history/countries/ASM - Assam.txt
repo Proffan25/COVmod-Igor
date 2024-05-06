@@ -41,9 +41,9 @@ upper_house = {
 }
 
 # Technologies
-late_enlightenment_philosophy = 1
-private_banks = 1
-early_classical_theory_and_critique = 1
+counter_revolutionary_thought = 1
+family_banks = 1
+physiocratic_theory = 1
 
 # Inventions
 
