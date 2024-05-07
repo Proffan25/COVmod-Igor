@@ -1,156 +1,248 @@
 leader = {
-	name = "Manuel Blanco"
-	picture = aus_gen_windischgraetz
-	date = 1826.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.3
-}
-leader = {
-	name = "Jose Joaquú‹ Prieto"
-	picture = aus_gen_rukavina
-	date = 1829.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.2
-}
-leader = {
-	name = "Manuel Bulnes"
-	picture = aus_gen_nugent
+	name = "Antonio González Balcarce"
 	date = 1815.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.3
+}
+leader = {
+	name = "Martín Miguel de Güemes"
+	date = 1815.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Miguel Estanislao Soler"
+	date = 1815.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
 }
 
 army = {
-	name = "1. Army"
-	location = 2349
-	regiment = {
-		name= "1. División de Infanteru"
-		type = infantry
-		home = 2348
-	}
-
-	regiment = {
-		name= "2. División de Infanteru"
-		type = infantry
-		home = 2348
-	}
-
-	regiment = {
-		name= "3. División de Infanteru"
-		type = infantry
-		home = 2348
-	}
-
-	regiment = {
-		name= "4. División de Infanteru"
-		type = infantry
-		home = 2349
+	name = "Ejército de Buenos Aires"
+	
+	leader = {
+	   name = "José Rondeau"
+	   type = land
+	   date = 1815.1.1
+	   background = defence_1.1
+	   personality = attack_1.1
+		prestige = 0.3
 	}
 	
-	regiment = {
-		name= "1. Hussar"
-		type = hussar
-		home = 2349
-	}
-	
-	regiment = {
-		name= "1. Artillery"
-		type = artillery
-		home = 2349
-	}
-	
-	regiment = {
-		name= "2. Artillery"
-		type = artillery
-		home = 2349
-	}
-	
-	regiment = {
-		name= "3. Artillery"
-		type = artillery
-		home = 2349
-	}
-	
-	regiment = {
-		name= "4. Artillery"
-		type = artillery
-		home = 2349
-	}
-	
-	regiment = {
-		name= "5. Artillery"
-		type = artillery
-		home = 2349
-	}
-
-}
-
-army = {
-	name = "2. Army"
 	location = 2348
+	
 	regiment = {
-		name= "1. Hussar"
+		name= "1. División de Infantería"
+		type = infantry
+		home = 2348
+	}
+
+	regiment = {
+		name= "2. División de Infantería"
+		type = infantry
+		home = 2348
+	}
+
+	regiment = {
+		name= "3. División de Infantería"
+		type = infantry
+		home = 2348
+	}
+
+	regiment = {
+		name= "4. División de Infantería"
+		type = infantry
+		home = 2349
+	}
+	
+	regiment = {
+		name= "1. División de Caballería"
+		type = hussar
+		home = 2349
+	}
+	
+	regiment = {
+		name= "1. División de Artillería"
+		type = artillery
+		home = 2349
+	}
+	
+	regiment = {
+		name= "2. División de Artillería"
+		type = artillery
+		home = 2349
+	}
+	
+	regiment = {
+		name= "3. División de Artillería"
+		type = artillery
+		home = 2349
+	}
+	
+	regiment = {
+		name= "4. División de Artillería"
+		type = artillery
+		home = 2349
+	}
+	
+	regiment = {
+		name= "5. División de Artillería"
+		type = artillery
+		home = 2349
+	}
+
+}
+
+army = {
+	name = "Ejército del Norte"
+
+    leader = {
+        name = "Manuel Belgrano"
+        date = 1815.1.1
+        type = land
+        personality = defence_1.1
+        background = attack_1.1
+		prestige = 0.3
+    }
+	
+	location = 2368
+	
+	regiment = {
+		name= "1. División de Caballería"
 		type = hussar
 		home = 2379
 	}
 	
 	regiment = {
-		name= "1. División de Infanteru"
+		name= "1. División de Infantería"
 		type = infantry
 		home = 2379
 	}
 
 	regiment = {
-		name= "2. División de Infanteru"
+		name= "2. División de Infantería"
 		type = infantry
 		home = 2379
 	}
+	
+	regiment = {
+		name= "1.  División de Artillería"
+		type = artillery
+		home = 2348
+	}
+	
+	regiment = {
+		name= "2. División de Artillería"
+		type = artillery
+		home = 2348
+	}
+	
+	regiment = {
+		name= "3. División de Artillería"
+		type = artillery
+		home = 2348
+	}
+}
+
+army = {
+	name = "Ejército de los Andes"
+	
+	leader = {
+		name = "José de San Martín"
+		picture = southamerican_general_6
+		type = land
+		date = 1815.1.1
+		background = defence_1.1
+		personality = attack_1.1
+		prestige = 0.3
+	}
+	
+	location = 2389
+	
+	regiment = {
+		name= "1. División de Caballería"
+		type = hussar
+		home = 2313
+	}
 
 	regiment = {
-		name= "3. División de Infanteru"
+		name= "1. División de Infantería"
+		type = infantry
+		home = 2344
+	}
+
+	regiment = {
+		name= "2. División de Infantería"
 		type = infantry
 		home = 2379
 	}
+	
+	regiment = {
+		name= "1. División de Artillería"
+		type = artillery
+		home = 2348
+	}
+	
+	regiment = {
+		name= "2. División de Artillería"
+		type = artillery
+		home = 2313
+	}
+	
+	regiment = {
+		name= "3. División de Artillería"
+		type = artillery
+		home = 2379
+	}
+}
 
-	regiment = {
-		name= "4. División de Infanteru"
-		type = infantry
-		home = 2348
+navy = {
+    name = "Escuadra de las Provincias Unidas"
+
+	leader = {
+		name = "Guillermo Brown"		
+	    picture = southamerican_admiral_5
+		type = sea
+		date = 1815.1.1
+		personality = defence_1.1
+		background = attack_1.1
 	}
-	
-	regiment = {
-		name= "1. Artillery"
-		type = artillery
-		home = 2348
-	}
-	
-	regiment = {
-		name= "2. Artillery"
-		type = artillery
-		home = 2348
-	}
-	
-	regiment = {
-		name= "3. Artillery"
-		type = artillery
-		home = 2348
-	}
-	
-	regiment = {
-		name= "4. Artillery"
-		type = artillery
-		home = 2348
-	}
-	
-	regiment = {
-		name= "5. Artillery"
-		type = artillery
-		home = 2349
-	}
+
+    location = 2348
+    ship = {
+        name= "Hércules"
+        type = frigate
+    }
+    ship = {
+        name= "Céfiro"
+        type = frigate
+    }
+    ship = {
+        name= "Belfast"
+        type = frigate
+    }
+    ship = {
+        name= "Nancy"
+        type = frigate
+    }
+    ship = {
+        name= "Julieta"
+        type = frigate
+    }
+    ship = {
+        name= "Fortuna"
+        type = frigate
+    }
+    ship = {
+        name= "San Luis"
+        type = frigate
+    }
+    ship = {
+        name= "Nuestra Señora del Carmen"
+        type = frigate
+    }
+
 }
